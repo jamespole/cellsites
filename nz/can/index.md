@@ -9,7 +9,6 @@ title: Canterbury - New Zealand - Cell Sites
 ### Canterbury
 
 * **[Christchurch](christchurch)**
-  * **[Halswell Ward](halswell)**
   * **[Heathcote Ward](heathcote)**
   * **[Hornby Ward](hornby)**
   * **[Linwood Ward](linwood)**
