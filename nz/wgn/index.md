@@ -9,7 +9,6 @@ title: Wellington - New Zealand - Cell Sites
 ### Wellington
 
 * **[Mount Kaukau](mount-kaukau)** (1 site)
-* **[Queens Wharf](queens-wharf)** (1)
 * **[Wadestown](wadestown)** (2)
 
 ---
@@ -18,6 +17,7 @@ title: Wellington - New Zealand - Cell Sites
 * [Kelburn](#kelburn)
 * [Mount Cook](#mount-cook)
 * [Mount Victoria](#mount-victoria)
+* [Queens Wharf](#queens-wharf)
 * [Te Ahumairangi Hill](#te-ahumairangi-hill) *(nee Tinakori Hill)*
 * [Wilton](#wilton)
 
@@ -56,6 +56,19 @@ title: Wellington - New Zealand - Cell Sites
 * **Operators:** Various non-mobile operators
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/WGN/20090515-184629.jpg)
+
+---
+
+#### Queens Wharf
+
+* **Date:** 29 November 2013
+* **Operator:** Vodafone
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/WGN/20131129-134750.jpg)
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/WGN/20131129-135503.jpg)
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/WGN/20131129-135531.jpg)
 
 ---
 
