@@ -8,7 +8,7 @@ title: Wellington - New Zealand - Cell Sites
 
 ### Wellington
 
-* **[Mount Kaukau](mt-kaukau)** (1 site)
+* **[Mount Kaukau](mount-kaukau)** (1 site)
 * **[Queens Wharf](queens-wharf)** (1)
 * **[Wadestown](wadestown)** (2)
 
