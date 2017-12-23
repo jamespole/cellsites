@@ -10,6 +10,9 @@ title: Devonport-Takapuna - Auckland - New Zealand - Cell Sites
 
 #### Devonport-Takapuna Local Board
 
+* [Forrest Hill](#forrest-hill)
+* [Takapuna](#takapuna)
+
 ---
 
 ##### Forrest Hill
