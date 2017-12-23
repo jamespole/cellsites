@@ -2,11 +2,11 @@
 title: Devonport-Takapuna - Auckland - New Zealand - Cell Sites
 ---
 
-# [Cell Sites](../../)
+# [Cell Sites](../../../)
 
-## [New Zealand](../)
+## [New Zealand](../../)
 
-### [Auckland](./)
+### [Auckland](../)
 
 #### Devonport-Takapuna Local Board
 
