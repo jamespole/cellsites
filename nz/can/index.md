@@ -8,14 +8,13 @@ title: Canterbury - New Zealand - Cell Sites
 
 ### Canterbury
 
-* **[Christchurch](christchurch)**
-  * [Banks Peninsula Ward](banks-peninsula)
-  * [Halswell Ward](halswell)
-  * [Heathcote Ward](heathcote)
-  * [Hornby Ward](hornby)
-  * [Riccarton Ward](riccarton)
-  * [Spreydon Ward](spreydon)
-* **[Waltham](waltham)** (2)
+* Christchurch
+  * **[Banks Peninsula Ward](banks-peninsula)**
+  * **[Halswell Ward](halswell)**
+  * **[Heathcote Ward](heathcote)**
+  * **[Hornby Ward](hornby)**
+  * **[Riccarton Ward](riccarton)**
+  * **[Spreydon Ward](spreydon)**
 
 ---
 
