@@ -10,8 +10,6 @@ title: Canterbury - New Zealand - Cell Sites
 
 * **[Christchurch](christchurch)**
   * [Heathcote Ward](heathcote)
-* **[Redcliffs](redcliffs)** (2)
-* **[Sumner](sumner)** (3)
 * **[Templeton](templeton)** (2)
 * **[Te Onepoto](te-onopoto)** (Taylors Mistake) (1)
 * **[Waltham](waltham)** (2)
