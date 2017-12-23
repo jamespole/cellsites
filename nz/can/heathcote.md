@@ -53,8 +53,6 @@ title: Heathcote Ward - Canterbury - New Zealand - Cell Sites
 
 This cell site replaced the [Wakefield Avenue](#wakefield-avenue-sumner) cell site destroyed by earthquake on 22 February 2011.
 
-![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-153846.jpg)
-
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-154046.jpg)
 
 ---
@@ -63,8 +61,6 @@ This cell site replaced the [Wakefield Avenue](#wakefield-avenue-sumner) cell si
 
 * **Date:** 1 January 2015
 * **Operator:** [Vodafone]
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-154943.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-155020.jpg)
 
