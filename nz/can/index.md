@@ -8,10 +8,8 @@ title: Canterbury - New Zealand - Cell Sites
 
 ### Canterbury
 
-* **[Aoraki](aoraki) (Mount Cook)** (1 site)
 * **[Christchurch](christchurch)**
 * **[Redcliffs](redcliffs)** (2)
-* **[Sugarloaf](sugarloaf)** (1)
 * **[Sumner](sumner)** (3)
 * **[Templeton](templeton)** (2)
 * **[Te Onepoto](te-onopoto)** (Taylors Mistake) (1)
@@ -19,8 +17,27 @@ title: Canterbury - New Zealand - Cell Sites
 
 ---
 
+* [Aoraki](#aoraki) (Mount Cook)
 * [Ashburton](#ashburton)
 * [Sugarloaf](#sugarloaf)
+
+---
+
+#### Aoraki
+
+* **Date:** 25 April 2013
+* **Operators:** [Telecom] (left) and [Vodafone] (right)
+
+Four onmi antennas for [Telecom].
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20130425-123231.jpg)
+
+Two omni antennas and a panel for [Vodafone].
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20130425-123144.jpg)
+
+[Telecom]: https://en.wikipedia.org/wiki/Spark_New_Zealand
+[Vodafone]: https://en.wikipedia.org/wiki/Vodafone_New_Zealand
 
 ---
 
@@ -31,16 +48,16 @@ title: Canterbury - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20141231-134244.jpg)
 
-[2degrees]: https://en.wikipedia.org/wiki/2degrees
-[Vodafone]: https://en.wikipedia.org/wiki/Vodafone_New_Zealand
-
 ---
 
 #### Sugarloaf
 
 * **Date:** 30 December 2014
-* **Operators:** Vodafone and other non-mobile operators
+* **Operators:** [Vodafone] and other non-mobile operators
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20141230-212934.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20141230-210622.jpg)
+
+[2degrees]: https://en.wikipedia.org/wiki/2degrees
+[Vodafone]: https://en.wikipedia.org/wiki/Vodafone_New_Zealand
