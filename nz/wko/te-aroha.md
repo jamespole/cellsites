@@ -10,6 +10,10 @@ title: Te Aroha - Waikato - New Zealand - Cell Sites
 
 #### Te Aroha
 
+* [Lawrence Avenue](#lawrence-avenue)
+* [Lipsey Street](#lipsey-street)
+* [Rewi Street](#rewi-street)
+
 Panaroamic view of (from left) Spark, 2degrees and Vodafone cell sites.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/WKO/20160814-162701.jpg)
