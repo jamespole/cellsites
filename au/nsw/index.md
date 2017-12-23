@@ -49,7 +49,7 @@ title: New South Wales - Australia - Cell Sites
 #### Ultimo
 
 * **Date:** 6 March 2011
-* **Operators:** [Optus], [Telstra] and [Vodafone]
+* **Operators:** [Optus], [Telstra] and [Vodafone] *(as of 2017)*
 * **RFNSA#:** 2007001
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/NSW/20110306-190610.jpg)
