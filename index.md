@@ -4,11 +4,11 @@ title: Cell Sites
 
 # Cell Sites
 
-* **[Australia](au)** (20 sites)
-* **[Iceland](is)** (5)
-* **[New Zealand](nz)** (38)
-* **[Turkey](tr)** (2)
-* **[United Kingdom](gb)** (2)
-* **[United States](us)** (7)
+* **[Australia](au)** (20 cell sites)
+* **[Iceland](is)** (5 cell sites)
+* **[New Zealand](nz)** (38 cell sites)
+* **[Turkey](tr)** (2 cell sites)
+* **[United Kingdom](gb)** (2 cell sites)
+* **[United States](us)** (7 cell sites)
 
 [Links to more photos of cell sites from around the world.](links)
