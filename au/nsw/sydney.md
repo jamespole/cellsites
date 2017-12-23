@@ -43,7 +43,7 @@ title: Sydney - New South Wales - Australia - Cell Sites
 ##### 139-141 Macquarie Street
 
 * **Date:** 6 March 2011
-* **Operators:** [Optus] and [Vodafone]
+* **Operators:** [Optus] and [Vodafone]  *(as of 2017)*
 * **RFNSA#:** 2000293
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/NSW/20110306-150917.jpg)
