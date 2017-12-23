@@ -12,6 +12,7 @@ title: Canterbury - New Zealand - Cell Sites
   * [Banks Peninsula Ward](banks-peninsula)
   * [Heathcote Ward](heathcote)
   * [Hornby Ward](hornby)
+  * [Spreydon Ward](spreydon)
 * **[Waltham](waltham)** (2)
 
 ---
