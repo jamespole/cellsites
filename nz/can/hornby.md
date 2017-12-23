@@ -28,7 +28,7 @@ title: Hornby Ward - Canterbury - New Zealand - Cell Sites
 ##### Jones Road (Templeton)
 
 * **Date:** 2 January 2015
-* **Operator:** Vodafone
+* **Operator:** [Vodafone]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-131128.jpg)
 
@@ -37,7 +37,7 @@ title: Hornby Ward - Canterbury - New Zealand - Cell Sites
 ##### Main South Road (Templeton)
 
 * **Date:** 2 January 2015
-* **Operator:** 2degrees and Spark
+* **Operator:** [2degrees] and [Spark]
 
 Spark cell site.
 
@@ -46,3 +46,7 @@ Spark cell site.
 2degrees cell site.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-131242.jpg)
+
+[2degrees]: https://en.wikipedia.org/wiki/2degrees
+[Spark]: https://en.wikipedia.org/wiki/Spark_New_Zealand
+[Vodafone]: https://en.wikipedia.org/wiki/Vodafone_New_Zealand
