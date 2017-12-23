@@ -25,7 +25,7 @@ title: Devonport-Takapuna - Auckland - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-132255.jpg)
 
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-132258.jpg)'
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-132258.jpg)
 
 [Spark] antennas (left) [2degrees] and [Vodafone] antennas (right).
 
