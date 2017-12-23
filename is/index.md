@@ -6,17 +6,20 @@ title: Iceland - Cell Sites
 
 ## Iceland
 
-* [Arnarhóll](#arnarhóll) (1 site)
-* [Hlíðar](#hlíðar) (1)
-* **[Seltjarnarnes](seltjarnarnes)** (2)
-* [Skjól](#skjól) (1)
+* **[Seltjarnarnes](seltjarnarnes)** (2 sites)
+
+---
+
+* [Arnarhóll](#arnarhóll)
+* [Hlíðar](#hlíðar)
+* [Skjól](#skjól)
 
 ---
 
 ### Arnarhóll
 
 * **Date:** 12 August 2015
-* **Operators:** [Síminn](https://en.wikipedia.org/wiki/S%C3%ADminn) and [Vodafone](https://en.wikipedia.org/wiki/Vodafone_Iceland)
+* **Operators:** [Síminn] and [Vodafone]
 
 ![](https://f001.backblazeb2.com/file/CellSites/IS/20150812-084521.jpg)
 
@@ -51,3 +54,6 @@ title: Iceland - Cell Sites
 ![](https://f001.backblazeb2.com/file/CellSites/IS/20150812-071808.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/IS/20150812-071539.jpg)
+
+[Síminn]: https://en.wikipedia.org/wiki/S%C3%ADminn
+[Vodafone]: https://en.wikipedia.org/wiki/Vodafone_Iceland
