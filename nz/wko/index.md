@@ -15,7 +15,7 @@ title: Waikato - New Zealand - Cell Sites
 * **[Te Aroha](te-aroha)** (3)
 * [Te Kauwhata](#te-kauwhata) (1)
 * [Tūākau](#tūākau) (1)
-* **[Whangamatā](whangamata)** (3)
+* **[Whangamatā](whangamatā)** (3)
 
 ---
 
