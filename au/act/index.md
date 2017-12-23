@@ -11,7 +11,7 @@ title: Australian Capital Territory - Australia - Cell Sites
 #### Telstra Tower
 
 * **Date:** 5 March 2015
-* **Operators:** [Optus], [Telstra], [Vodafone] and other non-mobile operators
+* **Operators:** [Optus], [Telstra], [Vodafone] and other non-mobile operators  *(as of 2017)*
 * **RFNSA#:** 2601001
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/ACT/20120305-140217.jpg)
