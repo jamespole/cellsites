@@ -33,7 +33,7 @@ title: Queensland - Australia - Cell Sites
 #### Tamborine Mountain
 
 * **Date:** 21 February 2012
-* **Operators:** [Optus], [Telstra] and [Vodafone]
+* **Operators:** [Optus], [Telstra] and [Vodafone] *(as of 2017)*
 * **RFNSA#:** 4272001
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/QLD/20120221-121612.jpg)
