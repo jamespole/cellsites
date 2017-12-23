@@ -15,9 +15,18 @@ title: Christchurch - Canterbury - New Zealand - Cell Sites
 
 ---
 
+##### Halswell
+
+* **Date:** 1 January 2015
+* **Operator:** [Spark]
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-164213.jpg)
+
+---
+
 ##### Iversen Terrace
 
-* **Operator:** Spark
+* **Operator:** [Spark]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-162534.jpg)
 
@@ -32,4 +41,5 @@ title: Christchurch - Canterbury - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20141230-210622.jpg)
 
+[Spark]: https://en.wikipedia.org/wiki/Spark_New_Zealand
 [Vodafone]: https://en.wikipedia.org/wiki/Vodafone_New_Zealand
