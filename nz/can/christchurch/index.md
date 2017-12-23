@@ -8,22 +8,12 @@ title: Canterbury - New Zealand - Cell Sites
 
 ### [Canterbury](../)
 
-* [Addington](#addington)
 * [Halswell](#halswell)
 * [Hornby](#hornby)
 * [Middleton](#middleton)
 * [Sockburn](#sockburn)
 * [Upper Riccarton](#upper-riccarton)
 * [Woolston](#woolston)
-
----
-
-### Addington
-
-* **Date:** 2 January 2015
-* **Operator:** [2degrees]
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-132650.jpg)
 
 ---
 
