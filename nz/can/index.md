@@ -9,6 +9,7 @@ title: Canterbury - New Zealand - Cell Sites
 ### Canterbury
 
 * **[Christchurch](christchurch)**
+  * [Banks Peninsula Ward](banks-peninsula)
   * [Heathcote Ward](heathcote)
 * **[Templeton](templeton)** (2)
 * **[Waltham](waltham)** (2)
@@ -33,9 +34,6 @@ Two omni antennas and a panel for [Vodafone].
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20130425-123144.jpg)
 
-[Telecom]: https://en.wikipedia.org/wiki/Spark_New_Zealand
-[Vodafone]: https://en.wikipedia.org/wiki/Vodafone_New_Zealand
-
 ---
 
 #### Ashburton
@@ -46,4 +44,5 @@ Two omni antennas and a panel for [Vodafone].
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20141231-134244.jpg)
 
 [2degrees]: https://en.wikipedia.org/wiki/2degrees
+[Telecom]: https://en.wikipedia.org/wiki/Spark_New_Zealand
 [Vodafone]: https://en.wikipedia.org/wiki/Vodafone_New_Zealand
