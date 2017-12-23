@@ -8,6 +8,4 @@ title: Auckland - New Zealand - Cell Sites
 
 ### Auckland
 
-Local board areas:
-
-* [Devonport-Takapuna](devonport-takapuna)
+* [Devonport-Takapuna](devonport-takapuna) (2 cell sites)
