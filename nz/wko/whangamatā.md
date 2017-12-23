@@ -14,6 +14,8 @@ title: Whangamatā - Waikato - New Zealand - Cell Sites
 * [610 Port Road](#610-port-road)
 * [632 Port Road](#632-port-road)
 
+---
+
 ##### 427 Port Road
 
 * **Date:** 30 December 2015
@@ -25,12 +27,16 @@ title: Whangamatā - Waikato - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/WKO/20151230-111125.jpg)
 
+---
+
 ##### 610 Port Road
 
 * **Date:** 29 December 2015
 * **Operator:** Spark
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/WKO/20151229-162706.jpg)
+
+---
 
 ##### 632 Port Road
 
