@@ -10,7 +10,7 @@ title: Brisbane - Queensland - Australia - Cell Sites
 
 #### Brisbane
 
-* [Albert and Mary Streets](#albert-and-mary-street)
+* [Albert and Mary Streets](#albert-and-mary-streets)
 * [Brisbane Central Railway Station](#brisbane-central-railway-station)
 * [Charlotte Exchanage](#charlotte-exchange)
 * [Queensland Parliament](#queensland-parliament)
@@ -38,7 +38,7 @@ title: Brisbane - Queensland - Australia - Cell Sites
 
 ---
 
-##### Charlotte Exchanage
+##### Charlotte Exchange
 
 * **Date:** 23 February 2012
 * **Operator:** [Telstra]
