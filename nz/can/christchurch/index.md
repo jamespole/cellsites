@@ -8,18 +8,8 @@ title: Canterbury - New Zealand - Cell Sites
 
 ### [Canterbury](../)
 
-* [Sockburn](#sockburn)
 * [Upper Riccarton](#upper-riccarton)
 * [Woolston](#woolston)
-
----
-
-#### Sockburn
-
-* **Date:** 2 January 2015
-* **Operator:** [2degrees]
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-132250.jpg)
 
 ---
 
