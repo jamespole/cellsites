@@ -10,8 +10,19 @@ title: Christchurch - Canterbury - New Zealand - Cell Sites
 
 #### Christchurch
 
+* [Addington](#addington)
+* [Halswell](#halswell)
 * [Inversen Terrace](#inversen-terrace)
 * [Sugarloaf](#sugarloaf)
+
+---
+
+### Addington
+
+* **Date:** 2 January 2015
+* **Operator:** [2degrees]
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-132650.jpg)
 
 ---
 
@@ -26,6 +37,7 @@ title: Christchurch - Canterbury - New Zealand - Cell Sites
 
 ##### Iversen Terrace
 
+* **Date:** 1 January 2015
 * **Operator:** [Spark]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-162534.jpg)
@@ -41,5 +53,6 @@ title: Christchurch - Canterbury - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20141230-210622.jpg)
 
+[2degrees]: https://en.wikipedia.org/wiki/2degrees
 [Spark]: https://en.wikipedia.org/wiki/Spark_New_Zealand
 [Vodafone]: https://en.wikipedia.org/wiki/Vodafone_New_Zealand
