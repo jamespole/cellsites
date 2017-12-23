@@ -11,7 +11,7 @@ title: Canterbury - New Zealand - Cell Sites
 * **[Christchurch](christchurch)**
   * [Banks Peninsula Ward](banks-peninsula)
   * [Heathcote Ward](heathcote)
-* **[Templeton](templeton)** (2)
+  * [Hornby Ward](hornby)
 * **[Waltham](waltham)** (2)
 
 ---
