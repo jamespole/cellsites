@@ -11,4 +11,6 @@ title: Cell Sites
 * **[United Kingdom](gb)** (2 cell sites)
 * **[United States](us)** (7 cell sites)
 
+---
+
 [Links to more photos of cell sites from around the world.](links)
