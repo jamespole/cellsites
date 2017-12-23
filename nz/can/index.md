@@ -9,6 +9,7 @@ title: Canterbury - New Zealand - Cell Sites
 ### Canterbury
 
 * **[Christchurch](christchurch)**
+  * [Heathcote Ward](heathcote)
 * **[Redcliffs](redcliffs)** (2)
 * **[Sumner](sumner)** (3)
 * **[Templeton](templeton)** (2)
