@@ -11,7 +11,6 @@ title: Canterbury - New Zealand - Cell Sites
 * [Addington](#addington)
 * [Halswell](#halswell)
 * [Hornby](#hornby)
-* [Islington](#islington)
 * [Middleton](#middleton)
 * [Sockburn](#sockburn)
 * [Upper Riccarton](#upper-riccarton)
@@ -43,15 +42,6 @@ title: Canterbury - New Zealand - Cell Sites
 * **Operator:** [Vodafone]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-164342.jpg)
-
----
-
-#### Islington
-
-* **Date:** 2 January 2015
-* **Operator:** [Spark]
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-131500.jpg)
 
 ---
 
