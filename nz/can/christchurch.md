@@ -2,11 +2,11 @@
 title: Canterbury - New Zealand - Cell Sites
 ---
 
-# [Cell Sites](../../../)
+# [Cell Sites](../../)
 
-## [New Zealand](../../)
+## [New Zealand](../)
 
-### [Canterbury](../)
+### [Canterbury](./)
 
 * [Woolston](#woolston)
 
