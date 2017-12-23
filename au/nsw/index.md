@@ -23,7 +23,7 @@ title: New South Wales - Australia - Cell Sites
 #### Cockatoo Island
 
 * **Date:** 1 March 2012
-* **Operators:** [Optus], [Telstra] and [Vodafone]
+* **Operators:** [Optus], [Telstra] and [Vodafone] *(as of 2017)*
 * **RFNSA#:** 2041002
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/NSW/20120301-135923.jpg)
@@ -37,7 +37,7 @@ title: New South Wales - Australia - Cell Sites
 #### Haymarket
 
 * **Date:** 6 March 2011
-* **Operators:** [Optus] and [Vodafone]
+* **Operators:** [Optus] and [Vodafone] *(as of 2017)*
 * **RFNSA#:** 2000154
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/NSW/20110306-174243.jpg)
