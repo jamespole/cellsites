@@ -8,7 +8,7 @@ title: Iceland - Cell Sites
 
 * [Arnarhóll](#arnarhóll) (1 site)
 * [Hlíðar](#hlíðar) (1)
-* [Seltjarnarnes](seltjarnarnes) (2)
+* **[Seltjarnarnes](seltjarnarnes)** (2)
 * [Skjól](#skjól) (1)
 
 ---
