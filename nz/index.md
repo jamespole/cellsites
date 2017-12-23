@@ -6,7 +6,7 @@ title: New Zealand - Cell Sites
 
 ## New Zealand
 
-* **[Auckland](auk)**
-* **[Canterbury](can)** (24 sites)
-* **[Waikato](wko)** (14)
-* **[Wellington](wgn)**
+* **[Auckland](auk)** (2 cell sites)
+* **[Canterbury](can)** (24 cell sites)
+* **[Waikato](wko)** (14 cell sites)
+* **[Wellington](wgn)** (10 cell sites)
