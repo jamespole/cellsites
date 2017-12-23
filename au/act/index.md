@@ -1,6 +1,5 @@
 ---
 title: Australian Capital Territory - Australia - Cell Sites
-author: James Pole <james@pole.net.nz>
 ---
 
 # [Cell Sites](../../)
@@ -12,7 +11,7 @@ author: James Pole <james@pole.net.nz>
 #### Telstra Tower
 
 * **Date:** 5 March 2015
-* **Operators:** Optus, Telstra, Vodafone and other non-mobile operators
+* **Operators:** [Optus], [Telstra], [Vodafone] and other non-mobile operators
 * **RFNSA#:** 2601001
 
 View from the start of the walking track.
@@ -26,3 +25,7 @@ View half-way up the mountain.
 The tower in all its glory.
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/ACT/20120305-143010.jpg)
+
+[Telstra]: https://en.wikipedia.org/wiki/Telstra
+[Optus]: https://en.wikipedia.org/wiki/Optus
+[Vodafone]: https://en.wikipedia.org/wiki/Vodafone_(Australia)
