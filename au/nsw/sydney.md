@@ -10,9 +10,9 @@ title: Sydney - New South Wales - Australia - Cell Sites
 
 #### Sydney
 
-* [Hospital and Prince Albert Roads](#hospital-and-prince-albert-roads]
+* [Hospital and Prince Albert Roads](#hospital-and-prince-albert-roads)
 * [71 Macquarie Street](#71-macquarie-street)
-* [139-141 Macquarie Street](#139-141-macquarie-street]
+* [139-141 Macquarie Street](#139-141-macquarie-street)
 
 ---
 
