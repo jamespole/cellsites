@@ -12,8 +12,8 @@ title: Canterbury - New Zealand - Cell Sites
   * **[Halswell Ward](halswell)**
   * **[Heathcote Ward](heathcote)**
   * **[Hornby Ward](hornby)**
+  * **[Linwood Ward](linwood)**
   * **[Riccarton Ward](riccarton)**
-  * **[Spreydon Ward](spreydon)**
 
 ---
 
