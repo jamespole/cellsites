@@ -8,17 +8,7 @@ title: Canterbury - New Zealand - Cell Sites
 
 ### [Canterbury](../)
 
-* [Upper Riccarton](#upper-riccarton)
 * [Woolston](#woolston)
-
----
-
-#### Upper Riccarton
-
-* **Date:** 1 January 2015
-* **Operator:** [Spark]
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-163841.jpg)
 
 ---
 
