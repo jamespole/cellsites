@@ -8,14 +8,17 @@ title: Waikato - New Zealand - Cell Sites
 
 ### Waikato
 
-* **[Dinsale](dinsale)** (3 sites)
-* [Hamilton Railway Station](#hamilton-railway-station) (1)
-* [Hampton Downs](#hampton-downs) (1)
-* [Opito Bay](#opito-bay) (1)
-* **[Te Aroha](te-aroha)** (3)
-* [Te Kauwhata](#te-kauwhata) (1)
-* [Tūākau](#tūākau) (1)
-* **[Whangamatā](whangamatā)** (3)
+* **[Dinsale](dinsale)** (3 cell sites)
+* **[Te Aroha](te-aroha)** (3 cell sites)
+* **[Whangamatā](whangamatā)** (3 cell sites)
+
+---
+
+* [Hamilton Railway Station](#hamilton-railway-station)
+* [Hampton Downs](#hampton-downs)
+* [Opito Bay](#opito-bay)
+* [Te Kauwhata](#te-kauwhata)
+* [Tūākau](#tūākau)
 
 ---
 
