@@ -33,6 +33,7 @@ title: Christchurch - Canterbury - New Zealand - Cell Sites
 
 ##### Ferry Road
 
+* **Date:** 2 January 2015
 * **Operator:** [2degrees]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-175554.jpg)
