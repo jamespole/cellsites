@@ -15,7 +15,7 @@ title: Riccarton Ward - Canterbury - New Zealand - Cell Sites
 * **Date:** 1 January 2015
 * **Operator:** [2degrees] and [Vodafone]
 
-2degrees cell site in foreground left and Vodafone cell site in background right.
+[2degrees] cell site in foreground left and [Vodafone] cell site in background right.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-163651.jpg)
 
