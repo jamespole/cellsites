@@ -71,7 +71,7 @@ This cell site replaced the [Wakefield Avenue](#wakefield-avenue-sumner) cell si
 
 ##### Te Onepoto
 
-* **Date:** January 2015
+* **Date:** 2 January 2015
 * **Operator:** [Spark]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-171752.jpg)
