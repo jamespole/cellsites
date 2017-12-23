@@ -13,7 +13,7 @@ title: Christchurch - Canterbury - New Zealand - Cell Sites
 * [Addington](#addington)
 * [Ferry Road](#ferry-road)
 * [Halswell](#halswell)
-* [Inversen Terrace](#inversen-terrace)
+* [Iversen Terrace](#iversen-terrace)
 * [Sugarloaf](#sugarloaf)
 * [Woolston](#woolston)
 
