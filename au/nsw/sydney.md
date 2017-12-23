@@ -31,7 +31,7 @@ title: Sydney - New South Wales - Australia - Cell Sites
 ##### 71 Macquarie Street
 
 * **Date:** 6 March 2011
-* **Operators:** [Telstra], [Optus] and [Vodafone]
+* **Operators:** [Optus], [Telstra] and [Vodafone]
 * **RFNSA#:** 2000001
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/NSW/20110306-151656.jpg)
