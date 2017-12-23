@@ -15,6 +15,7 @@ title: Heathcote Ward - Canterbury - New Zealand - Cell Sites
 * [Heathcote Valley](#heathcote-valley)
 * [29 Nayland Street (Sumner)](#29-nayland-street-sumner)
 * [40 Nayland Street (Sumner)](#40-nayland-street-sumner)
+* [Te Onepoto](#te-onepoto) (Taylors Mistake)
 * [Wakefield Avenue (Sumner)](#wakefield-avenue-sumner)
 
 ---
@@ -65,6 +66,17 @@ This cell site replaced the [Wakefield Avenue](#wakefield-avenue-sumner) cell si
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-155020.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-154744.jpg)
+
+---
+
+##### Te Onepoto
+
+* **Date:** January 2015
+* **Operator:** Spark
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-171752.jpg)
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-171303.jpg)
 
 ---
 
