@@ -7,3 +7,4 @@ title: New Zealand - Cell Sites
 ## New Zealand
 
 * Auckland
+* [Waikato](wko)
