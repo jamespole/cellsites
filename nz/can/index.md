@@ -8,9 +8,9 @@ title: Canterbury - New Zealand - Cell Sites
 
 ### Canterbury
 
-* **[Christchurch](christchurch)**
-  * **[Heathcote Ward](heathcote)**
-  * **[Hornby Ward](hornby)**
+* **[Christchurch](christchurch)** (10 sites)
+  * **[Heathcote Ward](heathcote)** (7)
+  * **[Hornby Ward](hornby)** (5)
 
 ---
 
