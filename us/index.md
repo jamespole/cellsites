@@ -6,10 +6,19 @@ title: United States - Cell Sites
 
 ## United States of America
 
-* [Los Angeles International Airport (LAX)](lax) (2 sites)
-* [Playa Del Rey](playa-del-rey) (1)
-* [Venice](venice) (3)
-* [Westchester](westchester) (1)
+* **[Los Angeles International Airport (LAX)](lax)** (2 sites)
+* **[Playa Del Rey](playa-del-rey)** (1)
+* **[Venice](venice)** (3)
+* [Westchester](#westchester) (1)
+
+---
+
+### Westchester
+
+* **Date:** 19 August 2015
+* **Operator:** Unknown
+
+![](https://f001.backblazeb2.com/file/CellSites/US/20150819-144525.jpg)
 
 ---
 
