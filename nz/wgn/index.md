@@ -19,7 +19,7 @@ title: Wellington - New Zealand - Cell Sites
 * [Kelburn](#kelburn)
 * [Mount Cook](#mount-cook)
 * [Mount Victoria](#mount-victoria)
-* [Te Ahumairangi Hill](#te-ahumairangi-hill) *(nee Tinakori Hill)
+* [Te Ahumairangi Hill](#te-ahumairangi-hill) *(nee Tinakori Hill)*
 
 ---
 
