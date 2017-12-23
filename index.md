@@ -4,8 +4,9 @@ title: Cell Sites
 
 # Cell Sites
 
-* [Iceland](is) (5 sites)
-* [New Zealand](nz) (14 sites)
+* [Australia](au) (20 sites)
+* [Iceland](is) (5)
+* [New Zealand](nz) (14)
 * [Turkey](tr) (2)
 * [United Kingdom](gb) (2)
 * [United States](us) (7)
