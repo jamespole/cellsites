@@ -10,9 +10,19 @@ title: Hornby Ward - Canterbury - New Zealand - Cell Sites
 
 #### Hornby Ward
 
+* [Hornby](#hornby)
 * [Islington](#islington)
 * [Jones Road (Templeton)](#jones-road-templeton)
 * [Main South Road](#main-south-road-templeton)
+
+---
+
+#### Hornby
+
+* **Date:** 1 January 2015
+* **Operator:** [Vodafone]
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-164342.jpg)
 
 ---
 
