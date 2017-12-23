@@ -8,20 +8,10 @@ title: Canterbury - New Zealand - Cell Sites
 
 ### [Canterbury](../)
 
-* [Hornby](#hornby)
 * [Middleton](#middleton)
 * [Sockburn](#sockburn)
 * [Upper Riccarton](#upper-riccarton)
 * [Woolston](#woolston)
-
----
-
-#### Hornby
-
-* **Date:** 1 January 2015
-* **Operator:** [Vodafone]
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-164342.jpg)
 
 ---
 
