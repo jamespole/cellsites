@@ -1,12 +1,12 @@
 ---
-title: Playa Del Rey - United States - Cell Sites
+title: Playa del Rey - United States - Cell Sites
 ---
 
 # [Cell Sites](../)
 
 ## [United States of America](./)
 
-### Playa Del Rey
+### Playa del Rey
 
 * **Date:** 19 August 2015
 * **Operator:** [AT&T Mobility](https://en.wikipedia.org/wiki/AT%26T_Mobility)
