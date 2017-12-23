@@ -10,6 +10,22 @@ title: Brisbane - Queensland - Australia - Cell Sites
 
 #### Brisbane
 
+* [Albert and Mary Streets](#albert-and-mary-street)
+* [Brisbane Central Railway Station](#brisbane-central-railway-station)
+* [Charlotte Exchanage](#charlotte-exchange)
+* [Queensland Parliament](#queensland-parliament)
+
+---
+
+##### Albert and Mary Streets
+
+* **Date:** 23 February 2012
+* **Operator:** [Telstra]
+
+![](https://f001.backblazeb2.com/file/CellSites/AU/QLD/20120223-181510.jpg)
+
+![](https://f001.backblazeb2.com/file/CellSites/AU/QLD/20120223-181607.jpg)
+
 ---
 
 ##### Brisbane Central Railway Station
@@ -39,16 +55,5 @@ title: Brisbane - Queensland - Australia - Cell Sites
 * **RFNSA#:** 4000033
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/QLD/20120223-171740.jpg)
-
----
-
-##### Albert and Mary Streets
-
-* **Date:** 23 February 2012
-* **Operator:** [Telstra]
-
-![](https://f001.backblazeb2.com/file/CellSites/AU/QLD/20120223-181510.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/AU/QLD/20120223-181607.jpg)
 
 [Telstra]: https://en.wikipedia.org/wiki/Telstra
