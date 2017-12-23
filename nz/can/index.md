@@ -8,22 +8,25 @@ title: Canterbury - New Zealand - Cell Sites
 
 ### Canterbury
 
-* [Addington](#addington)
 * **[Aoraki](aoraki) (Mount Cook)** (1 site)
+* **[Redcliffs](redcliffs)** (2)
+* **[Sugarloaf](sugarloaf)** (1)
+* **[Sumner](sumner)** (3)
+* **[Templeton](templeton)** (2)
+* **[Te Onepoto](te-onopoto)** (Taylors Mistake) (1)
+* **[Waltham](waltham)** (2)
+
+---
+
+* [Addington](#addington)
 * [Ashburton](#ashburton)
 * [Halswell](#halswell)
 * [Heathcote Valley](#heathcote-valley)
 * [Hornby](#hornby)
 * [Islington](#islington)
 * [Middleton](#middleton)
-* **[Redcliffs](redcliffs)** (2)
 * [Sockburn](#sockburn)
-* **[Sugarloaf](sugarloaf)** (1)
-* **[Sumner](sumner)** (3)
-* **[Templeton](templeton)** (2)
-* **[Te Onepoto](te-onopoto)** (Taylors Mistake) (1)
 * [Upper Riccarton](#upper-riccarton)
-* **[Waltham](waltham)** (2)
 * [Woolston](#woolston)
 
 ---
