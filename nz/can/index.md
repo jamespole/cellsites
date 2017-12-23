@@ -9,7 +9,7 @@ title: Canterbury - New Zealand - Cell Sites
 ### Canterbury
 
 * **[Aoraki](aoraki) (Mount Cook)** (1 site)
-* **[Christchurch](christchurch)
+* **[Christchurch](christchurch)**
 * **[Redcliffs](redcliffs)** (2)
 * **[Sugarloaf](sugarloaf)** (1)
 * **[Sumner](sumner)** (3)
