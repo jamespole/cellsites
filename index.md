@@ -6,5 +6,5 @@ title: Cell Sites
 
 * [New Zealand](nz)
 * [Turkey](tr) (2)
-* [United Kingdom](gb)
+* [United Kingdom](gb) (2)
 * [United States](us)
