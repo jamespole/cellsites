@@ -1,5 +1,5 @@
 ---
-title: Banks Peninsula Ward - Canterbury - New Zealand - Cell Sites
+title: Christchurch - Canterbury - New Zealand - Cell Sites
 ---
 
 # [Cell Sites](../../)
@@ -8,9 +8,22 @@ title: Banks Peninsula Ward - Canterbury - New Zealand - Cell Sites
 
 ### [Canterbury](./)
 
-#### Banks Peninsula Ward
+#### Christchurch
 
-#### Sugarloaf
+* [Inversen Terrace](#inversen-terrace)
+* [Sugarloaf](#sugarloaf)
+
+---
+
+##### Iversen Terrace
+
+* **Operator:** Spark
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-162534.jpg)
+
+---
+
+##### Sugarloaf
 
 * **Date:** 30 December 2014
 * **Operators:** [Vodafone] and other non-mobile operators
