@@ -13,7 +13,7 @@ title: Hornby Ward - Canterbury - New Zealand - Cell Sites
 * [Hornby](#hornby)
 * [Islington](#islington)
 * [Jones Road (Templeton)](#jones-road-templeton)
-* [Main South Road](#main-south-road-templeton)
+* [Main South Road (Templeton)](#main-south-road-templeton)
 
 ---
 
