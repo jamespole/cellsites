@@ -10,7 +10,14 @@ title: Devonport-Takapuna - Auckland - New Zealand - Cell Sites
 
 #### [Devonport-Takapuna Local Board](./)
 
-##### Mozeley Avenue
+##### Devonport
+
+* [Mozeley Avenue](#mozeley-avenue)
+* [Victoria Road](#victoria-road)
+
+---
+
+###### Mozeley Avenue
 
 * **Date:** 16 January 2016
 * **Operators:** [Spark]
@@ -23,7 +30,9 @@ title: Devonport-Takapuna - Auckland - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-150421.jpg)
 
-##### Victoria Road
+---
+
+###### Victoria Road
 
 * **Date:** 16 January 2016
 * **Operators:** [2degrees], [Spark] and [Vodafone]
