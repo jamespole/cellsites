@@ -22,3 +22,5 @@ title: Devonport-Takapuna - Auckland - New Zealand - Cell Sites
 * **Operator:** [Telecom]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20120206-123916.jpg)
+
+[Telecom]: https://en.wikipedia.org/wiki/Spark_New_Zealand
