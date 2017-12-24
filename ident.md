@@ -9,9 +9,7 @@ title: Identification Guide - Cell Sites
 * [Vodafone](#vodafone) (formerly BellSouth)
 * [Woosh](#woosh)
 
----
-
-### 2degrees
+## 2degrees
 
 2degrees sites almost always have a red on white caution sign on or near the base station cabinet, similar to the one below, with the 2degrees site ID. Many older sites had signs with the name 'NZ Communications' which is the name they operated under prior to their public launch. However these have mostly been replaced with 2degrees ones in recent times.
 
@@ -21,9 +19,7 @@ title: Identification Guide - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Rodney/20170318-143642.jpg)
 
----
-
-### Spark
+## Spark
 
 Many older Spark NZ cell sites built during the time of Telecom ownership were built next to telephone exchanges.
 
@@ -33,9 +29,7 @@ Some cell sites had shipping containers to house the base station gear.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-150211.jpg)
 
----
-
-### Vodafone
+## Vodafone
 
 Most Vodafone NZ cell sites will have a white warning sign similar to the below near the base station hut or cabinet.
 
@@ -49,9 +43,7 @@ Some older Vodafone NZ cell sites built during the time of BellSouth owership wi
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-142552.jpg)
 
----
-
-### Woosh
+## Woosh
 
 Woosh is no longer operating in most of the areas it used to operate in. However many of their equipment are still in situ in major cities. Some have since been removed, usually due to the land owner redeveloping the land.
 
