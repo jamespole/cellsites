@@ -13,6 +13,10 @@ title: Identification Guide - Cell Sites
 
 ### 2degrees
 
+2degrees sites almost always have a red on white caution sign on or near the base station cabinet, similar to the one below, with the 2degrees site ID. Many older sites had signs with the name 'NZ Communications' which is the name they operated under prior to their public launch. However these have mostly been replaced with 2degrees ones in recent times.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Rodney/20170318-143739.jpg)
+
 2degrees sites usually use Huwawei cabinets which can be seen on the left in the below photo. Note that Spark has started using their cabinets as well in recent times. Some sites also have another cabinet for the power supply which is shown on the right in the photo below.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Rodney/20170318-143642.jpg)
