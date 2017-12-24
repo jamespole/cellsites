@@ -12,6 +12,20 @@ title: Devonport-Takapuna - Auckland - New Zealand - Cell Sites
 
 ##### Takapuna
 
+###### 54 and 79 Barrys Point Road
+
+* **Date:** 26 December 2015
+* **Operator:** [2degrees] (distant right) and [Spark] (left)
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20151226-112650.jpg)
+
+###### 59 Barrys Point Road
+
+* **Date:** 26 December 2015
+* **Operator:** [Vodafone]
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20151226-112720.jpg)
+
 ###### Lake Road
 
 * **Date:** 15 January 2012
