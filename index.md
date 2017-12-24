@@ -18,3 +18,7 @@ title: Cell Sites
 ---
 
 [Links to more photos of cell sites from around the world.](links)
+
+---
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
