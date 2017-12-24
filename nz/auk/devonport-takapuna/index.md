@@ -12,11 +12,7 @@ title: Devonport-Takapuna - Auckland - New Zealand - Cell Sites
 
 * **[Devonport](devonport)** (1 site)
 * **[Stanley Point](stanley-point)** (2 sites)
-
----
-
-* [Forrest Hill](#forrest-hill)
-* [Takapuna](#takapuna)
+* **[Takapuna](takapuna)** (1 site)
 
 ---
 
@@ -26,23 +22,3 @@ title: Devonport-Takapuna - Auckland - New Zealand - Cell Sites
 * **Operator:** [Telecom]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20120206-123916.jpg)
-
----
-
-##### Takapuna
-
-* **Date:** 15 January 2012
-* **Operator:** [Telecom]
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20120115-174019.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20120115-174107.jpg)
-
-* **Date:** 26 December 2015
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20151226-122919.jpg)
-
-[2degrees]: https://en.wikipedia.org/wiki/2degrees
-[Spark]: https://en.wikipedia.org/wiki/Spark_New_Zealand
-[Telecom]: https://en.wikipedia.org/wiki/Spark_New_Zealand
-[Vodafone]: https://en.wikipedia.org/wiki/Vodafone_New_Zealand
