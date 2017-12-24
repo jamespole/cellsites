@@ -13,4 +13,8 @@ title: Cell Sites
 
 ---
 
+[Tips for identifying cell sites.](ident)
+
+---
+
 [Links to more photos of cell sites from around the world.](links)
