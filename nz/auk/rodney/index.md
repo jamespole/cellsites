@@ -11,6 +11,8 @@ title: Rodney - Auckland - New Zealand - Cell Sites
 * **Date:** 19 March 2016
 * **Operator:** Vodafone
 
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Rodney/20160319-134312.jpg)
+
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Rodney/20160319-133718.jpg)
 
 ---
