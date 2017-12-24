@@ -18,6 +18,10 @@ title: Rodney - Auckland - New Zealand - Cell Sites
 * **Date:** 18 March 2017
 * **Operator:** 2degrees and Vodafone
 
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Rodney/20170319-135024.jpg)
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Rodney/20170319-135031.jpg)
+
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Rodney/20170318-143550.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Rodney/20170318-143537.jpg)
