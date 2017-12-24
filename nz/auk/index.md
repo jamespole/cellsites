@@ -8,4 +8,4 @@ title: Auckland - New Zealand - Cell Sites
 
 ### Auckland
 
-* **[Devonport-Takapuna](devonport-takapuna)** (2 cell sites)
+* **[Devonport-Takapuna](devonport-takapuna)** (9 cell sites)
