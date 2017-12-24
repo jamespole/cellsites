@@ -21,6 +21,8 @@ title: Devonport-Takapuna - Auckland - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-150113.jpg)
 
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-150421.jpg)
+
 ##### Victoria Road
 
 * **Date:** 16 January 2016
