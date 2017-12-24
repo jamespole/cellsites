@@ -2,9 +2,7 @@
 title: Identification Guide - Cell Sites
 ---
 
-# [Cell Sites](./)
-
-## Identification guide
+# Cell sites identification guide
 
 * 2degrees (formerly NZ Communications)
 * [Spark](#spark) (formerly Telecom)
@@ -27,9 +25,13 @@ Some cell sites had shipping containers to house the base station gear.
 
 ### Vodafone
 
-Most Vodafone NZ cell sites will have a warning sign similar to the below near the base station hut or cabinet.
+Most Vodafone NZ cell sites will have a white warning sign similar to the below near the base station hut or cabinet.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-142520.jpg)
+
+Some may also have a yellow caution sign as well.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Rodney/20160319-133827.jpg)
 
 Some older Vodafone NZ cell sites built during the time of BellSouth owership will have a power meter labelled `BELL SOUTH`. These older cell sites often have the ability to be powered from an external generator via a power socket.
 
