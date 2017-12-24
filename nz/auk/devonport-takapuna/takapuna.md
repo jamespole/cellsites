@@ -8,9 +8,11 @@ title: Devonport-Takapuna - Auckland - New Zealand - Cell Sites
 
 ### [Auckland](../)
 
-#### Devonport-Takapuna Local Board
+#### [Devonport-Takapuna Local Board](./)
 
 ##### Takapuna
+
+###### Lake Road
 
 * **Date:** 15 January 2012
 * **Operator:** [Telecom]
