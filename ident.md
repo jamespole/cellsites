@@ -34,6 +34,12 @@ Some older Vodafone NZ cell sites built during the time of BellSouth owership wi
 
 ### Woosh
 
-The now-defunct Woosh Wireless network almost always used cabinets to house their equipment.
+Woosh is no longer operating in most of the areas it used to operate in. However many of their equipment are still in situ in major cities. Some have since been removed, usually due to the land owner redeveloping the land.
+
+Woosh, as a new entrant, often co-located with another operator. When they co-located on a tower, their eqipment would typically be placed below the host operator.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-150113.jpg)
+
+Woosh almost always used cabinets to house their equipment.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-150346.jpg)
