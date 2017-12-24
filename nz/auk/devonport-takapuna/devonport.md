@@ -10,7 +10,18 @@ title: Devonport-Takapuna - Auckland - New Zealand - Cell Sites
 
 #### [Devonport-Takapuna Local Board](./)
 
-##### Devonport
+##### Mozeley Avenue
+
+* **Date:** 16 January 2016
+* **Operators:** [Spark]
+
+[Spark] (top) and defunct Woosh Wireless (bottom).
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-145929.jpg)
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-150113.jpg)
+
+##### Victoria Road
 
 * **Date:** 16 January 2016
 * **Operators:** [2degrees], [Spark] and [Vodafone]
