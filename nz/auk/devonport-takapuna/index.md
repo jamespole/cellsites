@@ -11,6 +11,7 @@ title: Devonport-Takapuna - Auckland - New Zealand - Cell Sites
 #### Devonport-Takapuna Local Board
 
 * **[Devonport](devonport)** (1 site)
+* **[Stanley Point](stanley-point)** (2 sites)
 
 ---
 
