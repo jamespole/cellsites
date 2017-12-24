@@ -4,10 +4,18 @@ title: Identification Guide - Cell Sites
 
 # Cell sites identification guide
 
-* 2degrees (formerly NZ Communications)
+* [2degrees](#2degrees) (formerly NZ Communications)
 * [Spark](#spark) (formerly Telecom)
 * [Vodafone](#vodafone) (formerly BellSouth)
 * [Woosh](#woosh)
+
+---
+
+### 2degrees
+
+2degrees sites usually use Huwawei cabinets which can be seen on the left in the below photo. Note that Spark has started using their cabinets as well in recent times. Some sites also have another cabinet for the power supply which is shown on the right in the photo below.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Rodney/20170318-143642.jpg)
 
 ---
 
