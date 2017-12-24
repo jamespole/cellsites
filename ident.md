@@ -54,3 +54,7 @@ Woosh, as a new entrant, often co-located with another operator. When they co-lo
 Woosh almost always used cabinets to house their equipment.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-150346.jpg)
+
+---
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
