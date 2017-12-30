@@ -10,11 +10,10 @@ title: Pupuke Road - Kaipātiki - Auckland - New Zealand - Cell Sites
 * **Operators:** [Spark], [Vodafone] and Woosh
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-162737.jpg)
+
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-163336.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-163618.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-163821.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164102.jpg)
 
