@@ -6,9 +6,9 @@ title: Devonport-Takapuna Local Board - Auckland - New Zealand - Cell Sites
 
 # Devonport-Takapuna Local Board
 
-* **[Devonport](devonport)** (2 sites)
-* **[Stanley Point](stanley-point)** (2 sites)
-* **[Takapuna](takapuna)** (4 sites)
+* **[Devonport](devonport)** (2 cell sites)
+* **[Stanley Point](stanley-point)** (2 cell sites)
+* **[Takapuna](takapuna)** (4 cell sites)
 
 ## Forrest Hill
 
