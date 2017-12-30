@@ -6,7 +6,7 @@ title: Identification Guide - Cell Sites
 
 * [2degrees](#2degrees) (formerly NZ Communications)
 * [Spark](#spark) (formerly Telecom)
-* **[Vodafone](ident/nz-vodafone)** (formerly BellSouth)
+* **[Vodafone](nz-vodafone)** (formerly BellSouth)
 * [Woosh](#woosh)
 
 ## 2degrees
