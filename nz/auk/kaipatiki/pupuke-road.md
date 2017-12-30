@@ -15,8 +15,6 @@ title: Pupuke Road - Kaipātiki - Auckland - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164344.jpg)
 
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164411.jpg)
-
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164421.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164602.jpg)
@@ -31,9 +29,13 @@ Vodafone base station.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164706.jpg)
 
-Woosh Wireless antennas (white panel and dish antennas on left) and base station (green cabinet on right).
+Woosh Wireless antennas (white panel and dish antennas on left) and base station (green cabinet on right). The dish antenna was a microwave link to Woosh's Sky Tower hub.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-163236.jpg)
+
+Woosh Wireless antennas. These are on the other side of the water tower. The dish antenna was a microwave link to the [Forrest Hill](../devonport-takapuna/#forrest-hill) cell site.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164411.jpg)
 
 Woosh Wireless base station.
 
