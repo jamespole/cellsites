@@ -1,8 +1,8 @@
 ---
-title: Pupuke Road - Kaipātiki - Auckland - New Zealand - Cell Sites
+title: Pupuke Road - Kaipātiki Local Board - Auckland - New Zealand - Cell Sites
 ---
 
-[Cell Sites](../../../) > [New Zealand](../../) > [Auckland](../) > [Kaipātiki](./)
+[Cell Sites](../../../) > [New Zealand](../../) > [Auckland](../) > [Kaipātiki Local Board](./)
 
 # Pupuke Road
 
