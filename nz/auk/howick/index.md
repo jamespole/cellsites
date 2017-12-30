@@ -6,6 +6,8 @@ title: Howick Local Board - Auckland - New Zealand - Cell Sites
 
 # Howick Local Board
 
+* **[Howick Village](howick)** (2 cell sites)
+
 ## Botany Road
 
 * **Date:** 28 April 2009
@@ -46,32 +48,12 @@ Woosh cell site located on an power pylon.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090412-161527.jpg)
 
-## Picton Street
-
-* **Date:** 28 April 2009
-* **Operator:** [Vodafone] and Woosh
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-130640.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-130423.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-131143.jpg)
-
 ## Vincent Street
 
 * **Date:** 28 April 2009
 * **Operator:** [Vodafone]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-123444.jpg)
-
-## Wellington Street
-
-* **Date:** 28 April 2009
-* **Operator:** [Vodafone]
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-125712.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-125910.jpg)
 
 ---
 
