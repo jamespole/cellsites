@@ -1,5 +1,5 @@
 ---
-title: Kaipātiki - Auckland - New Zealand - Cell Sites
+title: Kaipātiki Local Board - Auckland - New Zealand - Cell Sites
 ---
 
 [Cell Sites](../../../) > [New Zealand](../../) > [Auckland](../)
