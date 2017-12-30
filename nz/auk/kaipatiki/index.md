@@ -6,7 +6,7 @@ title: Kaipātiki - Auckland - New Zealand - Cell Sites
 
 # Kaipātiki
 
-* **[Pupuke Road](pupuke-road)
+* **[Pupuke Road](pupuke-road)**
 
 ---
 
