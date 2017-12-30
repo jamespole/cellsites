@@ -2,7 +2,7 @@
 title: Auckland - New Zealand - Cell Sites
 ---
 
-[Cell Sites](../../) > [New Zealand](../)
+[Cell Sites](../../) > [New Zealand](../) > Auckland
 
 # Auckland
 
@@ -12,12 +12,22 @@ title: Auckland - New Zealand - Cell Sites
 
 ---
 
+* [Clarks Beach](#clarks-beach)
+* [Homai](#homai)
+
 ## Clarks Beach
 
 * **Date:** 5 December 2005
 * **Operator:** Telecom
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Franklin/20051205-131054.jpg)
+
+## Homai
+
+* **Date:** 9 March 2009
+* **Operator:** NZ Communications
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Manurewa/20090309-145859.jpg)
 
 ---
 
