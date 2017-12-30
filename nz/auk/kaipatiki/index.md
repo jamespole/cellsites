@@ -4,7 +4,7 @@ title: Kaipātiki - Auckland - New Zealand - Cell Sites
 
 [Cell Sites](../../../) > [New Zealand](../../) > [Auckland](../)
 
-# Kaipātiki
+# Kaipātiki Local Board
 
 * **[Pupuke Road](pupuke-road)** (1 cell site)
 
