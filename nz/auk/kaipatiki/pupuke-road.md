@@ -11,7 +11,6 @@ title: Pupuke Road - Kaipātiki - Auckland - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-162737.jpg)
 
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-163618.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164344.jpg)
 
@@ -21,13 +20,23 @@ title: Pupuke Road - Kaipātiki - Auckland - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164629.jpg)
 
+## Spark
+
+Spark antennas.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-163618.jpg)
+
 Spark base station.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-163404.jpg)
 
+## Vodafone
+
 Vodafone base station.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164706.jpg)
+
+## Woosh Wireless
 
 Woosh Wireless antennas (white panel and dish antennas on left) and base station (green cabinet on right). The dish antenna was a microwave link to Woosh's Sky Tower hub.
 
