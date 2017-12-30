@@ -9,13 +9,9 @@ title: Pupuke Road - Kaipātiki - Auckland - New Zealand - Cell Sites
 * **Date:** 16 January 2016
 * **Operators:** [Spark], [Vodafone] and Woosh
 
+This multi-operator cell site is located at a water tower.
+
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-162737.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164344.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164602.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164629.jpg)
 
 ## Spark
 
