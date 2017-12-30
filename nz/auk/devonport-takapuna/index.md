@@ -13,8 +13,10 @@ title: Devonport-Takapuna - Auckland - New Zealand - Cell Sites
 ## Forrest Hill
 
 * **Date:** 6 February 2012
-* **Operator:** [Telecom]
+* **Operator:** [Telecom] and Woosh
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20120206-123916.jpg)
+
+Woosh's dish antenna (just below their panel antennas) is a microwave link to the [Pupuke Road](../kaipatiki/pupuke-road) cell site.
 
 [Telecom]: https://en.wikipedia.org/wiki/Spark_New_Zealand
