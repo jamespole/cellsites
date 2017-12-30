@@ -63,9 +63,13 @@ Woosh, as a new entrant, often co-located with another operator. When they co-lo
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-150113.jpg)
 
-Woosh almost always used cabinets to house their equipment.
+Woosh almost always used cabinets to house their equipment, typically cream coloured.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-150346.jpg)
+
+However sometimes they are green.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164831.jpg)
 
 ---
 
