@@ -6,6 +6,10 @@ title: Kaipātiki - Auckland - New Zealand - Cell Sites
 
 # Kaipātiki
 
+* **[Pupuke Road](pupuke-road)
+
+---
+
 * [71 Onewa Road](#71-onewa-road)
 * [129 Onewa Road](#129-onewa-road)
 * [214 Onewa Road](#214-onewa-road)
