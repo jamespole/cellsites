@@ -12,7 +12,7 @@ title: Devonport - Devonport-Takapuna Local Board - Auckland - New Zealand - Cel
 ## Mozeley Avenue
 
 * **Date:** 16 January 2016
-* **Operators:** [Spark]
+* **Operators:** [Spark] and Woosh
 
 [Spark] (top) and defunct Woosh Wireless (bottom).
 
