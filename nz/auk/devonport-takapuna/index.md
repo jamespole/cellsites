@@ -15,8 +15,8 @@ title: Devonport-Takapuna - Auckland - New Zealand - Cell Sites
 * **Date:** 6 February 2012
 * **Operator:** [Telecom] and Woosh
 
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20120206-123916.jpg)
+Telecom panel antennas on the top. Their green equipment shelter can barely be seen directly behind the tower. Woosh antennas below. Woosh's dish antenna (just below their panel antennas) is a microwave link to the [Pupuke Road](../kaipatiki/pupuke-road) cell site. Their cream coloured equipment cabinet is to the right.
 
-Woosh's dish antenna (just below their panel antennas) is a microwave link to the [Pupuke Road](../kaipatiki/pupuke-road) cell site.
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20120206-123916.jpg)
 
 [Telecom]: https://en.wikipedia.org/wiki/Spark_New_Zealand
