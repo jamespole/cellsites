@@ -19,4 +19,8 @@ Telecom panel antennas on the top. Their green equipment shelter can barely be s
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20120206-123916.jpg)
 
+---
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 [Telecom]: https://en.wikipedia.org/wiki/Spark_New_Zealand
