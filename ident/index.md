@@ -2,7 +2,7 @@
 title: Identification Guide - Cell Sites
 ---
 
-# Cell sites identification guide
+# Identification Guide
 
 * [2degrees](#2degrees) (formerly NZ Communications)
 * [Spark](#spark) (formerly Telecom)
