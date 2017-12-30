@@ -2,21 +2,15 @@
 title: Devonport-Takapuna - Auckland - New Zealand - Cell Sites
 ---
 
-# [Cell Sites](../../../)
+[Cell Sites](../../../) > [New Zealand](../../) > [Auckland](../)
 
-## [New Zealand](../../)
-
-### [Auckland](../)
-
-#### Devonport-Takapuna Local Board
+# Devonport-Takapuna Local Board
 
 * **[Devonport](devonport)** (2 sites)
 * **[Stanley Point](stanley-point)** (2 sites)
 * **[Takapuna](takapuna)** (4 sites)
 
----
-
-##### Forrest Hill
+## Forrest Hill
 
 * **Date:** 6 February 2012
 * **Operator:** [Telecom]
