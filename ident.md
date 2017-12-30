@@ -21,6 +21,10 @@ title: Identification Guide - Cell Sites
 
 ## Spark
 
+Some Spark cell sites bult during the time of Telecom ownership may have signs like the following. Note that many Telecom cell sites did not have those signs so the absence of any signs at all is a good indicator of a Spark cell site.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-163428.jpg)
+
 Many older Spark NZ cell sites built during the time of Telecom ownership were built next to telephone exchanges.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-145929.jpg)
@@ -34,6 +38,10 @@ Some cell sites had shipping containers to house the base station gear.
 Most Vodafone NZ cell sites will have a white warning sign similar to the below near the base station hut or cabinet.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-142520.jpg)
+
+Newer sites have a small `SITE I.D.` sign. It is often affixed on top of the warning sign as below.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164135.jpg)
 
 Some may also have a yellow caution sign as well.
 
