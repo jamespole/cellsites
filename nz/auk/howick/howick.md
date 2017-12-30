@@ -1,5 +1,5 @@
 ---
-title: Howick Local Board - Auckland - New Zealand - Cell Sites
+title: Howick Village - Howick Local Board - Auckland - New Zealand - Cell Sites
 ---
 
 [Cell Sites](../../../) > [New Zealand](../../) > [Auckland](../) > [Howick Local Board](./) > Howick Village
