@@ -11,10 +11,7 @@ title: Pupuke Road - Kaipātiki - Auckland - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-162737.jpg)
 
-
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164344.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164421.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164602.jpg)
 
@@ -31,6 +28,10 @@ Spark base station.
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-163404.jpg)
 
 ## Vodafone
+
+Vodafone antennas.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164421.jpg)
 
 Vodafone base station.
 
