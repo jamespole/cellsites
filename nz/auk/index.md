@@ -7,7 +7,7 @@ title: Auckland - New Zealand - Cell Sites
 # Auckland
 
 * **[Devonport-Takapuna](devonport-takapuna)** (9 cell sites)
-* **[Kaipātiki](kaipatiki)** (4 cell sites)
+* **[Kaipātiki](kaipatiki)** (6 cell sites)
 * **[Rodney](rodney)** (1 cell site)
 
 ---
