@@ -6,8 +6,8 @@ title: Wellington - New Zealand - Cell Sites
 
 # Wellington
 
-* **[Mount Kaukau](mount-kaukau)** (1 site)
-* **[Wadestown](wadestown)** (2)
+* **[Mount Kaukau](mount-kaukau)** (1 cell site)
+* **[Wadestown](wadestown)** (2 cell sites)
 
 ---
 
