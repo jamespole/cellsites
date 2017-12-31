@@ -15,7 +15,7 @@ title: Howick Local Board - Auckland - New Zealand - Cell Sites
 * [Grammar School Road](#grammar-school-road)
 * [Pakuranga Road](#pakuranga-road)
 * [Parkview Place](#parkview-place)
-* [Ti Rakau Drive](#ti-rakau-place)
+* [Ti Rakau Drive](#ti-rakau-drive)
 * [Vincent Street](#vincent-street)
 
 ## 4-6 Botany Road
