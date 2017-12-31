@@ -11,13 +11,9 @@ title: Ōtara-Papatoetoe Local Board - Auckland - New Zealand - Cell Sites
 * **Date:** 22 September 2013
 * **Operators:** 2degrees, Vodafone and Woosh
 
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20130922-141352.jpg)
-
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20130922-141715.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20130922-142205.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20130922-142345.jpg)
 
 ## Grayson Avenue
 
