@@ -7,6 +7,7 @@ title: Auckland - New Zealand - Cell Sites
 # Auckland
 
 * **[Devonport-Takapuna Local Board](devonport-takapuna)** (9 cell sites)
+* **[Henderson-Massey Local Board](henderson-massey)** (3 cell sites)
 * **[Howick Local Board](howick)** (10 cell sites)
 * **[Kaipātiki Local Board](kaipatiki)** (6 cell sites)
 * **[Rodney Local Board](rodney)** (1 cell site)
