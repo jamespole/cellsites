@@ -15,7 +15,7 @@ title: Identification Guide - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Rodney/20170318-143739.jpg)
 
-2degrees cell sites usually use Huwawei cabinets which can be seen on the left in the below photo. Note that Spark also uses Huawei cabinets. Some sites have a different type of cabinet for the power supply which is shown on the right in the photo below.
+Newer 2degrees cell sites usually use Huwawei cabinets which can be seen on the left in the below photo. Huawei cabinets have distinctive rounded corners.  Note that Spark also uses these Huawei cabinets. Some sites have a different type of cabinet for the power supply which is shown in the middle in the photo below.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Rodney/20170318-143642.jpg)
 
