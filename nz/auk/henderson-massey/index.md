@@ -25,21 +25,13 @@ Vodafone in foreground (2degrees in distance).
 ## Sunhill Road
 
 * **Date:** 22 June 2010
-* **Operator:** Woosh (and other non-mobile operators)
+* **Operators:** Woosh (and other non-mobile operators)
 
 This is one of two Woosh Wireless cell sites located on water towers—the other being [Pupuke Road](../kaipatiki/pupuke-road#woosh-wireless).
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Henderson-Massey/20171118-195050.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Henderson-Massey/20171118-195052.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Henderson-Massey/20100622-143808.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Henderson-Massey/20100622-144435.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Henderson-Massey/20100622-144652.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Henderson-Massey/20100622-145125.jpg)
 
 ---
 
