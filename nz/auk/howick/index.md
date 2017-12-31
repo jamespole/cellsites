@@ -18,7 +18,7 @@ title: Howick Local Board - Auckland - New Zealand - Cell Sites
 * [Ti Rakau Drive](#ti-rakau-place)
 * [Vincent Street](#vincent-street)
 
-## 4–6 Botany Road
+## 4-6 Botany Road
 
 * **Date:** 28 April 2009
 * **Operators:** [NZ Communications] and Woosh
