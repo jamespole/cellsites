@@ -31,6 +31,8 @@ This is one of two Woosh Wireless cell sites located on water towers—the other
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Henderson-Massey/20171118-195050.jpg)
 
+**From left:** Microwave link to another Woosh wite in Henderson, Woosh antenna and an antenna for an unknown operator. Note how Woosh went to the effort to have their antennas blend in. Yet another operator installed antennas that stick out like a sore thumb!
+
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Henderson-Massey/20171118-195052.jpg)
 
 ---
