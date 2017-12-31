@@ -11,13 +11,21 @@ title: Henderson-Massey Local Board - Auckland - New Zealand - Cell Sites
 
 ## Great North Road
 
+* **Date:** 22 June 2010
+* **Operators:** 2degrees and Vodafone
+
+2degrees in foreground (Vodafone in distance).
+
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Henderson-Massey/20100622-150351.jpg)
+
+Vodafone in foreground (2degrees in distance).
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Henderson-Massey/20100622-150624.jpg)
 
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Henderson-Massey/20100622-150940.jpg)
-
 ## Sunhill Road
+
+* **Date:** 22 June 2010
+* **Operator:** Woosh
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Henderson-Massey/20171118-195050.jpg)
 
