@@ -77,6 +77,8 @@ Woosh cell site located on an power pylon.
 * **Date:** 28 April 2009
 * **Operator:** [Vodafone]
 
+Vodafone site in foreground. In the distance the NZ Communications and Woosh cell sites at [4-6 Botany Road](#4-6-botany-road) can be seen.
+
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-123444.jpg)
 
 ---
