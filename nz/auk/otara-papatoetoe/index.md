@@ -1,10 +1,10 @@
 ---
-title: Ōtara-Papatoetoe - Auckland - New Zealand - Cell Sites
+title: Ōtara-Papatoetoe Local Board - Auckland - New Zealand - Cell Sites
 ---
 
-[Cell Sites](../../../) > [New Zealand](../../) > [Auckland](../) > Ōtara-Papatoetoe
+[Cell Sites](../../../) > [New Zealand](../../) > [Auckland](../) > Ōtara-Papatoetoe Local Board
 
-# Ōtara-Papatoetoe
+# Ōtara-Papatoetoe Local Board
 
 ## Great South Road
 
