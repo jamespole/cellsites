@@ -6,6 +6,20 @@ title: Ōtara-Papatoetoe Local Board - Auckland - New Zealand - Cell Sites
 
 # Ōtara-Papatoetoe Local Board
 
+## Amersham Way
+
+* **Date:** 22 September 2013
+* **Operator:** 2degrees and Vodafone
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20130922-141352.jpg)
+
+## Grayson Avenue
+
+* **Date:** 22 September 2013
+* **Operator:** 2degrees
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20130922-125014.jpg)
+
 ## Great South Road
 
 * **Date:** 15 April 2012
@@ -41,6 +55,15 @@ This was a tempoary site which was later replaced with a more permanent installa
 * **Operators:** Telecom, 2degrees and Vodafone
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20130922-122544.jpg)
+
+## Putney Way
+
+* **Date:** 22 September 2013
+* **Operators:** Vodafone
+
+Vodafone previously used this site as a microwave link hub.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20130922-141429.jpg)
 
 ## Station Road
 
