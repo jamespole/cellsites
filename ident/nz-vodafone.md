@@ -26,7 +26,7 @@ Some may also have a yellow caution sign as well.
 
 ## Generator Inlets
 
-Important 2degrees cell sites located on buildings will have a place for generators to provide power supply in case of a power failure. Usually it'll be at the bottom of the building in a place with easy access for vehicles (e.g. loading spaces, car parks, etc).
+Important cell sites located on buildings will have a place for generators to provide power supply in case of a power failure. Usually it'll be at the bottom of the building in a place with easy access for vehicles (e.g. loading spaces, car parks, etc).
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20161227-111901.jpg)
 
