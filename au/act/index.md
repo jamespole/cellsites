@@ -2,13 +2,11 @@
 title: Australian Capital Territory - Australia - Cell Sites
 ---
 
-# [Cell Sites](../../)
+[Cell Sites](../../) > [Australia](../) > Australian Capital Territory
 
-## [Australia](../)
+# Australian Capital Territory
 
-### Australian Capital Territory
-
-#### Telstra Tower
+## Telstra Tower
 
 * **Date:** 5 March 2015
 * **Operators:** [Optus], [Telstra], [Vodafone] and other non-mobile operators  *(as of 2017)*
