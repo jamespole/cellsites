@@ -10,7 +10,7 @@ title: Australia - Cell Sites
 * **[New South Wales](./nsw)** (10 sites)
 * **[Queensland](./qld)** (9 sites)
 
-**Note:** There is currently a fault with the Queensland photos.
+**Note:** There is currently a fault with some of the Queensland photos.
 
 ## RFNSA Numbers
 
