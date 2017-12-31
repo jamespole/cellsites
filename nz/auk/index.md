@@ -11,6 +11,7 @@ title: Auckland - New Zealand - Cell Sites
 * **[Hibiscus and Bays Local Board](hibiscus-and-bays)** (3 cell sites)
 * **[Howick Local Board](howick)** (10 cell sites)
 * **[Kaipātiki Local Board](kaipatiki)** (6 cell sites)
+* **[Ōtara-Papatoetoe Local Board](otara-papatoetoe)** (5 cell sites)
 * **[Papakura Local Board](papakura)** (7 cell sites)
 * **[Rodney Local Board](rodney)** (1 cell site)
 * **[Waitākere Ranges Local Board](waitakere-ranges)** (5 cell sites)
