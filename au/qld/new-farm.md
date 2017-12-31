@@ -2,21 +2,15 @@
 title: New Farm - Queensland - Australia - Cell Sites
 ---
 
-# [Cell Sites](../../)
+[Cell Sites](../../) > [Australia](../) >  [Queensland](./) > New Farm
 
-## [Australia](../)
-
-### [Queensland](./)
-
-#### New Farm
+# New Farm
 
 * [Brisbane Powerhouse](#brisbane-powerhouse)
 * [Brunswick Street](#brunswick-street)
 * [Merthyr Road](#merthyr-road)
 
----
-
-##### Brisbane Powerhouse
+## Brisbane Powerhouse
 
 * **Date:** 22 February 2012
 * **Operators:** [Optus] and [Vodafone]
@@ -24,9 +18,7 @@ title: New Farm - Queensland - Australia - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/QLD/20120222-094358.jpg)
 
----
-
-##### Brunswick Street
+## Brunswick Street
 
 * **Date:** 22 February 2012
 * **Operators:** [Optus], [Telstra] and [Vodafone]
@@ -34,9 +26,7 @@ title: New Farm - Queensland - Australia - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/QLD/20120222-091525.jpg)
 
----
-
-##### Merthyr Road
+## Merthyr Road
 
 * **Date:** 22 February 2012
 * **Operator:** [Telstra]
