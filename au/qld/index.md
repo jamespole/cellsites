@@ -2,11 +2,9 @@
 title: Queensland - Australia - Cell Sites
 ---
 
-# [Cell Sites](../../)
+[Cell Sites](../../) > [Australia](../) > Queensland
 
-## [Australia](../)
-
-### Queensland
+# Queensland
 
 * **[Brisbane](brisbane)** (4 cell sites)
 * **[New Farm](new-farm)** (3 cell sites)
@@ -16,9 +14,7 @@ title: Queensland - Australia - Cell Sites
 * [Bulimba](#bulimba)
 * [Tamborine Mountain](#tamborine-mountain)
 
----
-
-#### Bulimba
+## Bulimba
 
 * **Date:** 24 February 2012
 * **Operator:** [Telstra]\(?)
@@ -28,9 +24,7 @@ title: Queensland - Australia - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/QLD/20120224-124111.jpg)
 
----
-
-#### Tamborine Mountain
+## Tamborine Mountain
 
 * **Date:** 21 February 2012
 * **Operators:** [Optus], [Telstra] and [Vodafone] *(as of 2017)*
@@ -41,3 +35,7 @@ title: Queensland - Australia - Cell Sites
 [Telstra]: https://en.wikipedia.org/wiki/Telstra
 [Optus]: https://en.wikipedia.org/wiki/Optus
 [Vodafone]: https://en.wikipedia.org/wiki/Vodafone_(Australia)
+
+---
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
