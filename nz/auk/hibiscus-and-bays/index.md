@@ -13,6 +13,8 @@ title: Hibiscus and Bays Local Board - Auckland - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Hibiscus+and+Bays/20120206-132851.jpg)
 
+Telecom's antennas for mobile services can be seen just above the dish antennas.
+
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Hibiscus+and+Bays/20120206-132934.jpg)
 
 ## Lonely Track Road
