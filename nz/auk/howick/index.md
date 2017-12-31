@@ -8,7 +8,17 @@ title: Howick Local Board - Auckland - New Zealand - Cell Sites
 
 * **[Howick Village](howick)** (2 cell sites)
 
-## Botany Road
+---
+
+* [4–6 Botany Road](#4-6-botany-road)
+* [107 Botany Road](#107-botany-road)
+* [Grammar School Road](#grammar-school-road)
+* [Pakuranga Road](#pakuranga-road)
+* [Parkview Place](#parkview-place)
+* [Ti Rakau Drive](#ti-rakau-place)
+* [Vincent Street](#vincent-street)
+
+## 4–6 Botany Road
 
 * **Date:** 28 April 2009
 * **Operators:** [NZ Communications] and Woosh
@@ -24,6 +34,13 @@ NZ Comms on left and Woosh on right.
 NZ Comms on left and Woosh on right.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-123224.jpg)
+
+## 107 Botany Road
+
+* **Date:** 28 April 2009
+* **Operator:** Woosh
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-143651.jpg)
 
 ## Grammar School Road
 
@@ -47,6 +64,13 @@ NZ Comms on left and Woosh on right.
 Woosh cell site located on an power pylon.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090412-161527.jpg)
+
+## Ti Rakau Drive
+
+* **Date:** 28 April 2009
+* **Operator:** [Telecom] and [Vodafone]
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-151146.jpg)
 
 ## Vincent Street
 
