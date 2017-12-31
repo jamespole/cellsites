@@ -24,12 +24,6 @@ This was a tempoary site which was later replaced with a more permanent installa
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20120415-161326.jpg)
 
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20120415-161412.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20120415-161647.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20120415-162040.jpg)
-
 ## 20 Lakewood Court
 
 * **Date:** 15 April 2012
