@@ -33,13 +33,16 @@ Some may also have a yellow caution sign as well.
 
 ## Generator Inlets
 
-Important cell sites located on buildings will have a place for generators to provide power supply in case of a power failure. Usually it'll be at the bottom of the building in a place with easy access for vehicles (e.g. loading spaces, car parks, etc).
+Important cell sites located on buildings will have a place for generators to provide power supply in case of a power
+failure. Usually it'll be at the bottom of the building in a place with easy access for vehicles (e.g. loading spaces,
+car parks, etc).
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20161227-111901.jpg)
 
 ## Power Meters
 
-Some older Vodafone NZ cell sites built during the time of BellSouth owership will have a power meter labelled `BELL SOUTH`. These older cell sites often have the ability to be powered from an external generator via a power socket.
+Some older Vodafone NZ cell sites built during the time of BellSouth owership will have a power meter labelled `BELL
+SOUTH`. These older cell sites often have the ability to be powered from an external generator via a power socket.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-142552.jpg)
 

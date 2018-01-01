@@ -13,7 +13,9 @@ title: Spark New Zealand - Identification Guide - Cell Sites
 
 ## Signs
 
-Some Spark cell sites bult during the time of Telecom ownership may have signs like the following. Note that many Telecom cell sites did not have those signs so the absence of any signs at all is a good indicator of a Spark cell site.
+Some Spark cell sites bult during the time of Telecom ownership may have signs like the following. Note that many
+Telecom cell sites did not have those signs so the absence of any signs at all is a good indicator of a Spark cell
+site.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-163428.jpg)
 
