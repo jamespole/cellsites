@@ -56,7 +56,7 @@ This cell site was located at the Manukau telephone exchange.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20120415-161729.jpg)
 
-## 68 Pluket Avenue
+## 68 Plunket Avenue
 
 * **Date:** Unknown *(prior to November 2009)*
 * **Operator:** Telecom
