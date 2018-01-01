@@ -30,12 +30,7 @@ However, this photo from the other direction along Hillsborough Road shows four 
 * **Date:** 8 April 2012
 * **Operator:** Vodafone
 
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20120408-133427.jpg)
-
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20120408-133603.jpg)
-
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20120408-133812.jpg)
 
 ## 719 Richardson Road
 
@@ -44,12 +39,14 @@ However, this photo from the other direction along Hillsborough Road shows four 
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20120408-132928.jpg)
 
+This site had been superseded by a new site at [734-740 Richardson Road](#730-740-richardson-road) pictured below which took over UMTS services. CDMA services from this site continued until 31 July 2012.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20120408-133001.jpg)
+
 ## 734-740 Richardson Road
 
 * **Date:** 8 April 2012
 * **Operator:** Telecom
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20120408-133001.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20120408-134049.jpg)
 
