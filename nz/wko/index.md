@@ -2,11 +2,9 @@
 title: Waikato - New Zealand - Cell Sites
 ---
 
-# [Cell Sites](../../)
+[Cell Sites](../../) > [New Zealand](../) > Waikato
 
-## [New Zealand](../)
-
-### Waikato
+# Waikato
 
 * **[Dinsale](dinsale)** (3 cell sites)
 * **[Te Aroha](te-aroha)** (3 cell sites)
@@ -20,45 +18,35 @@ title: Waikato - New Zealand - Cell Sites
 * [Te Kauwhata](#te-kauwhata)
 * [Tūākau](#tūākau)
 
----
-
-#### Hamilton Railway Station
+## Hamilton Railway Station
 
 * **Date:** 20 November 2010
 * **Operator:** [Vodafone] and other non-mobile operators
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/WKO/20101120-095446.jpg)
 
----
-
-#### Hampton Downs
+## Hampton Downs
 
 * **Date:** 14 April 2017
 * **Operators:** [Spark] (left) and [Vodafone] (right)
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/WKO/20170414-092830.jpg)
 
----
-
-#### Opito Bay
+## Opito Bay
 
 * **Date:** 19 January 2012
 * **Operators:** [Telecom] and [Vodafone]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/WKO/20120119-124026.jpg)
 
----
-
-#### Te Kauwhata
+## Te Kauwhata
 
 * **Date:** 14 April 2017
 * **Operators:** [2degrees] and [Vodafone]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/WKO/20170414-142733.jpg)
 
----
-
-#### Tūākau
+## Tūākau
 
 * **Date:** 5 December 2005
 * **Operator:** [Telecom]

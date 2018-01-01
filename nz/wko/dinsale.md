@@ -2,13 +2,9 @@
 title: Dinsale - Waikato - New Zealand - Cell Sites
 ---
 
-# [Cell Sites](../../)
+[Cell Sites](../../) > [New Zealand](../) > [Waikato](./) > Dinsale
 
-## [New Zealand](../)
-
-### [Waikato](./)
-
-#### Dinsale
+# Dinsale
 
 * [Killarney Road](#killarney-road)
 * [Tuhikaramea Road](#tuhikaramea-road)
@@ -20,7 +16,7 @@ Panoramic view of (from left) Spark, Vodafone and 2degrees cell sites.
 
 ---
 
-##### Killarney Road
+## Killarney Road
 
 * **Date:** 14 April 2017
 * **Operator:** 2degrees
@@ -32,7 +28,7 @@ View of 2degrees site in foreground with [Vodafone site on Tuhikaramea Road](#tu
 
 ---
 
-##### Tuhikaramea Road
+## Tuhikaramea Road
 
 * **Date:** 14 April 2017
 * **Operator:** Vodafone
@@ -43,7 +39,7 @@ View of Vodafone site in foreground with [2degrees site on Killarney Road](#kill
 
 ---
 
-##### Whatawhata Road
+## Whatawhata Road
 
 * **Date:** 14 April 2017
 * **Operator:** Spark
