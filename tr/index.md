@@ -2,16 +2,14 @@
 title: Turkey - Cell Sites
 ---
 
-# [Cell Sites](../)
+[Cell Sites](../) > Turkey
 
-## Turkey
+# Turkey
 
 * [Anadolukavağı Hill](#anadolukavağı-hill)
 * [Anadolukavağı Town](#anadolukavağı-town)
 
----
-
-### Anadolukavağı Hill
+## Anadolukavağı Hill
 
 * **Date:** 27 July 2015
 * **Operators:** [Turkcell] and [Vodafone]
@@ -36,9 +34,7 @@ Close-up of [Turkcell] antennas.
 
 ![](https://f001.backblazeb2.com/file/CellSites/TR/20150727-162412.jpg)
 
----
-
-### Anadolukavağı Town
+## Anadolukavağı Town
 
 * **Date:** 27 July 2015
 * **Operator:** Unknown
