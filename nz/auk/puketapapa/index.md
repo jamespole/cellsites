@@ -22,15 +22,14 @@ title: Puketāpapa Local Board - Auckland - New Zealand - Cell Sites
 * **Date:** 8 April 2012
 * **Operator:** Telecom
 
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20120408-135138.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20120408-135304.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20120408-135322.jpg)
-
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20120408-135515.jpg)
 
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20120408-135138.jpg)
+
 ## Herd Road
+
+* **Date:** 4 October 2015
+* **Operator:** Vodafone
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20151004-145556.jpg)
 
