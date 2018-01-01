@@ -41,6 +41,19 @@ Note the onmidirectional antennas on either ends of the building for CDMA servic
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20151004-145821.jpg)
 
+## Mount Albert Road
+
+* **Date:** 4 October 2015
+* **Operator:** Vodafone
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20151004-153147.jpg)
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20151004-153046.jpg)
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20151004-152450.jpg)
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20151004-152441.jpg)
+
 ---
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
