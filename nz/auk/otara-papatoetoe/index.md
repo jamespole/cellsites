@@ -77,7 +77,7 @@ Thanks to [Malaysia Airlines](https://en.wikipedia.org/wiki/Malaysia_Airlines) f
 * **Date:** 5 April 2012
 * **Operators:** 2degrees and Vodafone
 
-I beleive this was one of the first examples of 2degrees co-locating their gear on top of a Vodafone tower, heralding the start of a more co-operative era in New Zealand. 2degrees had microwave links to the [Amersham Way](./manukau#amersham-way).
+I beleive this was one of the first examples of 2degrees co-locating their gear on top of a Vodafone tower, heralding the start of a more co-operative era in New Zealand. 2degrees had a microwave link to the [Amersham Way](./manukau#amersham-way) cell site.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20120405-173835.jpg)
 
