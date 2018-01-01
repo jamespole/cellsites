@@ -2,18 +2,14 @@
 title: Iceland - Cell Sites
 ---
 
-# [Cell Sites](../)
+[Cell Sites](../) > [Iceland](./) > Seltjarnarnes
 
-## [Iceland](./)
-
-### Seltjarnarnes
+# Seltjarnarnes
 
 * [Bygggarðar](#bygggarðar)
 * [Eiðistorg](#eiðistorg)
 
----
-
-#### Bygggarðar
+## Bygggarðar
 
 * **Date:** 12 August 2015
 * **Operator:** Unknown
@@ -24,9 +20,7 @@ title: Iceland - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/IS/20150812-075626.jpg)
 
----
-
-#### Eiðistorg
+## Eiðistorg
 
 * **Date:** 12 August 2015
 * **Operator:** Unknown
