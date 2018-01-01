@@ -41,5 +41,9 @@ Close-up of [Turkcell] antennas.
 
 ![](https://f001.backblazeb2.com/file/CellSites/TR/20150727-164226.jpg)
 
+---
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 [Turkcell]: https://en.wikipedia.org/wiki/Turkcell
 [Vodafone]: https://en.wikipedia.org/wiki/Vodafone_Turkey
