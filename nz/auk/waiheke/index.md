@@ -6,6 +6,15 @@ title: Waiheke - Auckland - New Zealand - Cell Sites
 
 # Waiheke Local Board
 
+## Albert Crescent
+
+* **Date:** 16 October 2016
+* **Operator:** Spark
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-141005.jpg)
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-141056.jpg)
+
 ## Belgium Street
 
 * **Date:** 16 October 2016
@@ -25,6 +34,42 @@ title: Waiheke - Auckland - New Zealand - Cell Sites
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161015-161342.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161015-161349.jpg)
+
+## Korora Road
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-144224.jpg)
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-144318.jpg)
+
+## Marama Avenue
+
+* **Date:** 16 October 2016
+* **Operator:** Vodafone
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-142936.jpg)
+
+## Miami Avenue
+
+* **Date:** 16 October 2016
+* **Operator:** Vodafone
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-142415.jpg)
+
+## Moa Avenue
+
+* **Date:** 16 October 2016
+* **Operator:** Vodafone
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-143511.jpg)
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-143630.jpg)
+
+## Ocean View Road
+
+* **Date:** 16 October 2016
+* **Operator:** Spark
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-145609.jpg)
 
 ## 24 Onetangi Road
 
