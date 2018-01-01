@@ -44,3 +44,7 @@ Two omni antennas and a panel for [Vodafone].
 [2degrees]: https://en.wikipedia.org/wiki/2degrees
 [Telecom]: https://en.wikipedia.org/wiki/Spark_New_Zealand
 [Vodafone]: https://en.wikipedia.org/wiki/Vodafone_New_Zealand
+
+---
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
