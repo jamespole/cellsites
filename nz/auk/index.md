@@ -19,6 +19,7 @@ title: Auckland - New Zealand - Cell Sites
   * **[Whau Local Board](whau)** (5 cell sites)
 * South Auckland
   * **[Howick Local Board](howick)** (10 cell sites)
+  * **[Māngere-Ōtāhuhu Local Board](māngere-ōtāhuhu)** (6 cell sites)
   * **[Ōtara-Papatoetoe Local Board](otara-papatoetoe)** (14 cell sites)
   * **[Papakura Local Board](papakura)** (7 cell sites)
 
