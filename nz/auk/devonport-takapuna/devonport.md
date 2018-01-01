@@ -16,7 +16,8 @@ title: Devonport - Devonport-Takapuna Local Board - Auckland - New Zealand - Cel
 
 [Spark] (top) and defunct Woosh Wireless (bottom).
 
-This is one of two Woosh Wireless cell sites co-located on a Telecom tower—the other being [Forrest Hill](./#forrest-hill).
+This is one of two Woosh Wireless cell sites co-located on a Telecom tower—the other being [Forrest
+Hill](./#forrest-hill).
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-145929.jpg)
 

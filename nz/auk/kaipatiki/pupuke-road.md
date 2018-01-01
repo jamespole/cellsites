@@ -35,13 +35,16 @@ Vodafone base station.
 
 ## Woosh Wireless
 
-This is one of two Woosh Wireless cell sites located on water towers—the other being [Sunhill Road](../henderson-massey#sunhill-road).
+This is one of two Woosh Wireless cell sites located on water towers—the other being [Sunhill
+Road](../henderson-massey#sunhill-road).
 
-Woosh Wireless antennas (white panel and dish antennas on left) and base station (green cabinet on right). The dish antenna was a microwave link to Woosh's Sky Tower hub.
+Woosh Wireless antennas (white panel and dish antennas on left) and base station (green cabinet on right). The dish
+antenna was a microwave link to Woosh's Sky Tower hub.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-163236.jpg)
 
-Woosh Wireless antennas. These are on the other side of the water tower. The dish antenna was a microwave link to the [Forrest Hill](../devonport-takapuna/#forrest-hill) cell site.
+Woosh Wireless antennas. These are on the other side of the water tower. The dish antenna was a microwave link to the
+[Forrest Hill](../devonport-takapuna/#forrest-hill) cell site.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164411.jpg)
 

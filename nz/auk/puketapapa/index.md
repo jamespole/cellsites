@@ -29,7 +29,8 @@ title: Puketāpapa Local Board - Auckland - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20120408-135515.jpg)
 
-Note the onmidirectional antennas on either ends of the building for CDMA services which closed down on 31 July 2012. The panel antennas provided UMTS services.
+Note the onmidirectional antennas on either ends of the building for CDMA services which closed down on 31 July 2012.
+The panel antennas provided UMTS services.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20120408-135138.jpg)
 
