@@ -40,3 +40,7 @@ title: Venice - United States - Cell Sites
 * **Operators:** Unknown
 
 ![](https://f001.backblazeb2.com/file/CellSites/US/20150818-062505.jpg)
+
+---
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
