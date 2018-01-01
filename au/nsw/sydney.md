@@ -2,21 +2,15 @@
 title: Sydney - New South Wales - Australia - Cell Sites
 ---
 
-# [Cell Sites](../../)
+[Cell Sites](../../) > [Australia](../) > [New South Wales](./) > Sydney
 
-## [Australia](../)
-
-### [New South Wales](./)
-
-#### Sydney
+# Sydney
 
 * [Hospital and Prince Albert Roads](#hospital-and-prince-albert-roads)
 * [71 Macquarie Street](#71-macquarie-street)
 * [139-141 Macquarie Street](#139-141-macquarie-street)
 
----
-
-##### Hospital and Prince Albert Roads
+## Hospital and Prince Albert Roads
 
 * **Date:** 6 March 2011
 * **Operators:** [Optus] and [Vodafone]
@@ -26,9 +20,7 @@ title: Sydney - New South Wales - Australia - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/NSW/20110306-145729.jpg)
 
----
-
-##### 71 Macquarie Street
+## 71 Macquarie Street
 
 * **Date:** 6 March 2011
 * **Operators:** [Optus], [Telstra] and [Vodafone]
@@ -38,9 +30,7 @@ title: Sydney - New South Wales - Australia - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/NSW/20110306-151905.jpg)
 
----
-
-##### 139-141 Macquarie Street
+## 139-141 Macquarie Street
 
 * **Date:** 6 March 2011
 * **Operators:** [Optus] and [Vodafone]  *(as of 2017)*
