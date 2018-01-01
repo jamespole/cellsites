@@ -34,3 +34,7 @@ title: Parramatta - New South Wales - Australia - Cell Sites
 * **RFNSA#:** 2150026
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/NSW/20110307-210958.jpg)
+
+---
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
