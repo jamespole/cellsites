@@ -6,6 +6,13 @@ title: Hillsborough - Puketāpapa Local Board - Auckland - New Zealand - Cell Si
 
 # Hillsborough
 
+* [Alex Boyd Link](#alex-boyd-link)
+* [Hillsborough Road](#hillsborough-road)
+* [719 Richardson Road](#719-richardson-road)
+* [734-740 Richardson Road](#734-740-richardson-road)
+
+---
+
 Three cell sites near the Hillsborough and Richardson Roads intersection can be seen in this one photo.
 
 **From left:** 2degrees at [Alex Boyd Link](#alex-boyd-link), Vodafone (on light pole closest to foreground) at [Hillsborough Road](#hillsborough-road) and Telecom UMTS at [734-740 Richardson Road](#734-740-richardson-road).
