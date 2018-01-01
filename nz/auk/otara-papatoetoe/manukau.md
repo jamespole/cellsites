@@ -42,9 +42,26 @@ This was a tempoary site which was later replaced with a more permanent installa
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20120415-161729.jpg)
 
-## Pluket Avenue
+## 68 Pluket Avenue
+
+* **Date:** Unknown *(prior to November 2009)*
+* **Operator:** Telecom
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20171118-201028.jpg)
+
+* **Date:** 8 January 2017
+* **Operator:** Spark
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20170108-161914.jpg)
+
+## 71 Plunket Avenue
+
+* **Date:** 8 January 2017
+* **Operator:** Vodafone
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20170108-162338.jpg)
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20170108-162340.jpg)
 
 ## Putney Way
 
