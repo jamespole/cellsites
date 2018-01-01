@@ -43,3 +43,7 @@ title: Los Angeles International Airport (LAX) - United States - Cell Sites
 
 [AT&T Mobility]: https://en.wikipedia.org/wiki/AT%26T_Mobility
 [Verizon Wireless]: https://en.wikipedia.org/wiki/Verizon_Wireless
+
+---
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
