@@ -6,6 +6,14 @@ title: Manukau - Ōtara-Papatoetoe Local Board - Auckland - New Zealand - Cell S
 
 # Manukau
 
+* [Amersham Way](#amersham-way)
+* [Great South Road](#great-south-road)
+* [18 Lakewood Court](#18-lakewood-court)
+* [20 Lakewood Court](#20-lakewood-court)
+* [68 Plunket Avenue](#68-plunket-avenue)
+* [71 Plunket Avenue](#71-plunket-avenue)
+* [Putney Way](#putney-way)
+
 ## Amersham Way
 
 * **Date:** 22 September 2013
@@ -58,8 +66,6 @@ This was a tempoary site which was later replaced with a more permanent installa
 
 * **Date:** 8 January 2017
 * **Operator:** Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20170108-162338.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20170108-162340.jpg)
 
