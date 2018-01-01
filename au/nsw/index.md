@@ -2,11 +2,9 @@
 title: New South Wales - Australia - Cell Sites
 ---
 
-# [Cell Sites](../../)
+[Cell Sites](../../) > [Australia](../) > New South Wales
 
-## [Australia](../)
-
-### New South Wales
+# New South Wales
 
 * **[Blue Mountains](blue-mountains)** (2 cell sites)
 * **[Parramatta](parramatta)** (2 cell sites)
@@ -18,9 +16,7 @@ title: New South Wales - Australia - Cell Sites
 * [Haymarket](#haymarket)
 * [Ultimo](#ultimo)
 
----
-
-#### Cockatoo Island
+## Cockatoo Island
 
 * **Date:** 1 March 2012
 * **Operators:** [Optus], [Telstra] and [Vodafone] *(as of 2017)*
@@ -32,9 +28,7 @@ title: New South Wales - Australia - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/NSW/20120301-112800.jpg)
 
----
-
-#### Haymarket
+## Haymarket
 
 * **Date:** 6 March 2011
 * **Operators:** [Optus] and [Vodafone] *(as of 2017)*
@@ -44,9 +38,7 @@ title: New South Wales - Australia - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/NSW/20110306-174250.jpg)
 
----
-
-#### Ultimo
+## Ultimo
 
 * **Date:** 6 March 2011
 * **Operators:** [Optus], [Telstra] and [Vodafone] *(as of 2017)*
