@@ -39,3 +39,7 @@ title: New Farm - Queensland - Australia - Cell Sites
 [Telstra]: https://en.wikipedia.org/wiki/Telstra
 [Optus]: https://en.wikipedia.org/wiki/Optus
 [Vodafone]: https://en.wikipedia.org/wiki/Vodafone_(Australia)
+
+---
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
