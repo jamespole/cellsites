@@ -44,8 +44,6 @@ This was a tempoary site which was later replaced with a more permanent installa
 
 ## Pluket Avenue
 
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20170108-161910.jpg)
-
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20170108-161914.jpg)
 
 ## Putney Way
