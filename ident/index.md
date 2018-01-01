@@ -36,7 +36,7 @@ situ in major cities. Some have since been removed, usually due to the land owne
 
 Some Woosh cell sites have a warning sign similar to the below on or near their cabinet.
 
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164903.jpg)
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/M%C4%81ngere-%C5%8Ct%C4%81huhu/20100515-145713.jpg)
 
 Woosh, as a new entrant, often co-located with another operator. When they co-located on a tower, their eqipment would
 typically be placed below the host operator.

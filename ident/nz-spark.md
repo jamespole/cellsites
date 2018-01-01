@@ -13,6 +13,10 @@ title: Spark New Zealand - Identification Guide - Cell Sites
 
 ## Signs
 
+Newer Spark cell sites have signs like the following. Note these include the site number and name.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/M%C4%81ngere-%C5%8Ct%C4%81huhu/20161203-173015.jpg)
+
 Some Spark cell sites bult during the time of Telecom ownership may have signs like the following. Note that many
 Telecom cell sites did not have those signs so the absence of any signs at all is a good indicator of a Spark cell
 site.
