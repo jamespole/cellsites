@@ -36,3 +36,7 @@ title: Blue Mountains - New South Wales - Australia - Cell Sites
 ![](https://f001.backblazeb2.com/file/CellSites/AU/NSW/20120227-154855.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/NSW/20120227-154638.jpg)
+
+---
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
