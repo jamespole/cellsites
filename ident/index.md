@@ -29,11 +29,15 @@ Some Spark cell sites bult during the time of Telecom ownership may have signs l
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-163428.jpg)
 
-Many older Spark NZ cell sites built during the time of Telecom ownership were built next to telephone exchanges.
+Many older cell sites built during the time of Telecom ownership were built next to telephone exchanges.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-145929.jpg)
 
-Some cell sites had shipping containers to house the base station gear.
+Many cell sites have equipment huts like the following.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20170108-161956.jpg)
+
+Some cell sites have shipping containers instead of equipment huts.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-150211.jpg)
 
