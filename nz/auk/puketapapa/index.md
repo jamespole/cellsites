@@ -10,6 +10,11 @@ title: Puketāpapa Local Board - Auckland - New Zealand - Cell Sites
 
 ---
 
+* [Dominion Road](#dominion-road)
+* [Gerbic Place](#gerbic-place)
+* [Herd Road](#herd-road)
+* [Mount Albert Road](#mount-albert-road)
+
 ## Dominion Road
 
 * **Date:** 29 December 2011
@@ -51,8 +56,6 @@ Note the onmidirectional antennas on either ends of the building for CDMA servic
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20151004-153046.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20151004-152450.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20151004-152441.jpg)
 
 ---
 
