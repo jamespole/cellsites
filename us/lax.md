@@ -2,27 +2,21 @@
 title: Los Angeles International Airport (LAX) - United States - Cell Sites
 ---
 
-# [Cell Sites](../)
+[Cell Sites](../) > [United States of America](./) > Los Angeles International Airport (LAX)
 
-## [United States of America](./)
-
-### Los Angeles International Airport (LAX)
+# Los Angeles International Airport (LAX)
 
 * [Parking Building 2A](#parking-building-2a)
 * [Parking Building 4](#parking-building-4)
 
----
-
-#### Parking Building 2A
+## Parking Building 2A
 
 * **Date:** 19 August 2015
 * **Operator:** [T-Mobile US](https://en.wikipedia.org/wiki/T-Mobile_US)(?)
 
 ![](https://f001.backblazeb2.com/file/CellSites/US/20150819-154221.jpg)
 
----
-
-#### Parking Building 4
+## Parking Building 4
 
 * **Date:** 19 August 2015
 * **Operators:** [AT&T Mobility](?) and [Verizon Wireless]
