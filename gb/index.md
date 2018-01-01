@@ -23,7 +23,11 @@ title: United Kingdom - Cell Sites
 * **Date:** 11 July 2015
 * **Operators:** [EE](https://en.wikipedia.org/wiki/EE_Limited), [Three] and [Vodafone]
 
-Eight years to the day I originally visited this cell site in 2007 I made another visit. The most obvious change is the reduction in antennas! [Orange] and [T-Mobile] merged to become [EE]. [EE] and [Three] have a joint venture called Mobile Broadband Network Limited (MBNL). This meant that one set of antennas for MBNL replaced what was previously three sets of antennas for [Orange], [Three] and [T-Mobile]. This leaves only [Vodafone] as the only operator remaning from my last visit!
+Eight years to the day I originally visited this cell site in 2007 I made another visit. The most obvious change is the
+reduction in antennas! [Orange] and [T-Mobile] merged to become [EE]. [EE] and [Three] have a joint venture called
+Mobile Broadband Network Limited (MBNL). This meant that one set of antennas for MBNL replaced what was previously
+three sets of antennas for [Orange], [Three] and [T-Mobile]. This leaves only [Vodafone] as the only operator remaning
+from my last visit!
 
 ![](https://f001.backblazeb2.com/file/CellSites/GB/SRY/20150711-091629.jpg)
 
@@ -34,7 +38,8 @@ Eight years to the day I originally visited this cell site in 2007 I made anothe
 ## Hindhead Exchange
 
 * **Date:** 11 July 2015
-* **Operators:** [Airwave](https://en.wikipedia.org/wiki/Airwave_Solutions) and [O2](https://en.wikipedia.org/wiki/O2_(UK))
+* **Operators:**
+    [Airwave](https://en.wikipedia.org/wiki/Airwave_Solutions) and [O2](https://en.wikipedia.org/wiki/O2_(UK))
 
 ![](https://f001.backblazeb2.com/file/CellSites/GB/SRY/20150711-084604.jpg)
 
