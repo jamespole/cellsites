@@ -14,3 +14,7 @@ title: Playa del Rey - United States - Cell Sites
 ![](https://f001.backblazeb2.com/file/CellSites/US/20150819-133006.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/US/20150819-133251.jpg)
+
+---
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
