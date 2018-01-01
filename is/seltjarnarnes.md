@@ -36,3 +36,7 @@ title: Iceland - Cell Sites
 ![](https://f001.backblazeb2.com/file/CellSites/IS/20150812-073306.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/IS/20150812-073404.jpg)
+
+---
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
