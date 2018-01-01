@@ -8,6 +8,16 @@ title: Ōtara-Papatoetoe Local Board - Auckland - New Zealand - Cell Sites
 
 * **[Manukau](manukau)** (7 cell sites)
 
+---
+
+* [Franklin Avenue](#franklin-avenue)
+* [Grayson Avenue](#grayson-avenue)
+* [316 Puhinui Road](#316-puhinui-road)
+* [454 Puhinui Road](#454-puhinui-road)
+* [485 Puhinui Road](#485-puhinui-road)
+* [555 Puhinui Road](#555-puhinui-road)
+* [Station Road](#station-road)
+
 ## Franklin Avenue
 
 * **Date:** 30 September 2013
