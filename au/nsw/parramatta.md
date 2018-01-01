@@ -2,20 +2,14 @@
 title: Parramatta - New South Wales - Australia - Cell Sites
 ---
 
-# [Cell Sites](../../)
+[Cell Sites](../../) > [Australia](../) > [New South Wales](./) > Parramatta
 
-## [Australia](../)
-
-### [New South Wales](./)
-
-#### Parramatta
+# Parramatta
 
 * [Macquarie and Smith Streets](#macquarie-and-smith-streets)
 * [Station and Parkes Streets](#station-and-parkes-streets)
 
----
-
-##### Macquarie and Smith Streets
+## Macquarie and Smith Streets
 
 * **Date:** 7 March 2011
 * **Operator:** [Three](https://en.wikipedia.org/wiki/Hutchison_3G#Australia)
@@ -25,9 +19,7 @@ title: Parramatta - New South Wales - Australia - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/NSW/20110307-210819.jpg)
 
----
-
-##### Station and Parkes Streets
+## Station and Parkes Streets
 
 * **Date:** 7 March 2011
 * **Operator:** [Telstra](https://en.wikipedia.org/wiki/Telstra)
