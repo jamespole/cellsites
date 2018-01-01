@@ -22,7 +22,8 @@ title: Blue Mountains - New South Wales - Australia - Cell Sites
 ## Wentworth Falls
 
 * **Date:** 27 February 2012
-* **Operator:** [Optus](https://en.wikipedia.org/wiki/Optus) and [Vodafone](https://en.wikipedia.org/wiki/Vodafone_(Australia))  *(as of 2017)*
+* **Operator:** [Optus](https://en.wikipedia.org/wiki/Optus) and
+  [Vodafone](https://en.wikipedia.org/wiki/Vodafone_(Australia)) *(as of 2017)*
 * **RFNSA#:** 2782005
 
 ![](https://f001.backblazeb2.com/file/CellSites/AU/NSW/20120227-154855.jpg)
