@@ -33,7 +33,8 @@ Telecom's antennas for mobile services can be seen just above the dish antennas.
 * **Date:** 4 July 2016
 * **Operator:** Spark
 
-This site is unsual for two reasons. Firstly, it's located on a toilet building! Secondly, it's one of the few urban Spark cell sites that have not yet been converted from omnidirectional antenas to panel antennas.
+This site is unsual for two reasons. Firstly, it's located on a toilet building! Secondly, it's one of the few urban
+Spark cell sites that have not yet been converted from omnidirectional antenas to panel antennas.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Hibiscus+and+Bays/20160704-131511.jpg)
 

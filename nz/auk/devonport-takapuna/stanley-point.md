@@ -2,7 +2,8 @@
 title: Stanley Point - Devonport-Takapuna Local Board - Auckland - New Zealand - Cell Sites
 ---
 
-[Cell Sites](../../../) > [New Zealand](../../) > [Auckland](../) > [Devonport-Takapuna Local Board](./) > Stanley Point
+[Cell Sites](../../../) > [New Zealand](../../) > [Auckland](../) > [Devonport-Takapuna Local Board](./) > Stanley
+Point
 
 # Stanley Point
 
