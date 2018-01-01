@@ -7,7 +7,7 @@ title: Auckland - New Zealand - Cell Sites
 # Auckland
 
 * Central Auckland
-  * **[Puketāpapa Local Board](puketapapa)**
+  * **[Puketāpapa Local Board](puketapapa)** (8 cell sites)
 * North Shore
   * **[Devonport-Takapuna Local Board](devonport-takapuna)** (9 cell sites)
   * **[Hibiscus and Bays Local Board](hibiscus-and-bays)** (3 cell sites)
