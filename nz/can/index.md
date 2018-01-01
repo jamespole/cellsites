@@ -2,24 +2,20 @@
 title: Canterbury - New Zealand - Cell Sites
 ---
 
-# [Cell Sites](../../)
+[Cell Sites](../../) > [New Zealand](../) > Canterbury
 
-## [New Zealand](../)
+# Canterbury
 
-### Canterbury
-
-* **[Christchurch](christchurch)** (10 sites)
-  * **[Heathcote Ward](heathcote)** (7)
-  * **[Hornby Ward](hornby)** (5)
+* **[Christchurch](christchurch)** (10 cell sites)
+  * **[Heathcote Ward](heathcote)** (7 cell sites)
+  * **[Hornby Ward](hornby)** (5 cell sites)
 
 ---
 
 * [Aoraki](#aoraki) (Mount Cook)
 * [Ashburton](#ashburton)
 
----
-
-#### Aoraki
+## Aoraki
 
 * **Date:** 25 April 2013
 * **Operators:** [Telecom] (left) and [Vodafone] (right)
@@ -32,9 +28,7 @@ Two omni antennas and a panel for [Vodafone].
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20130425-123144.jpg)
 
----
-
-#### Ashburton
+## Ashburton
 
 * **Date:** 31 December 2014
 * **Operators:** [2degrees] and [Vodafone]

@@ -2,13 +2,9 @@
 title: Christchurch - Canterbury - New Zealand - Cell Sites
 ---
 
-# [Cell Sites](../../)
+[Cell Sites](../../) > [New Zealand](../) > [Canterbury](./) > Christchurch
 
-## [New Zealand](../)
-
-### [Canterbury](./)
-
-#### Christchurch
+# Christchurch
 
 * [Addington](#addington)
 * [Ferry Road](#ferry-road)
@@ -20,45 +16,35 @@ title: Christchurch - Canterbury - New Zealand - Cell Sites
 * [Upper Riccarton](#upper-riccarton)
 * [Woolston](#woolston)
 
----
-
-##### Addington
+## Addington
 
 * **Date:** 2 January 2015
 * **Operator:** [2degrees]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-132650.jpg)
 
----
-
-##### Ferry Road
+## Ferry Road
 
 * **Date:** 2 January 2015
 * **Operator:** [2degrees]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-175554.jpg)
 
----
-
-##### Halswell
+## Halswell
 
 * **Date:** 1 January 2015
 * **Operator:** [Spark]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-164213.jpg)
 
----
-
-##### Iversen Terrace
+## Iversen Terrace
 
 * **Date:** 1 January 2015
 * **Operator:** [Spark]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-162534.jpg)
 
----
-
-##### Middleton
+## Middleton
 
 * **Date:** 1 January 2015
 * **Operator:** [2degrees] and [Vodafone]
@@ -67,18 +53,14 @@ title: Christchurch - Canterbury - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-163651.jpg)
 
----
-
-##### Sockburn
+## Sockburn
 
 * **Date:** 2 January 2015
 * **Operator:** [2degrees]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-132250.jpg)
 
----
-
-##### Sugarloaf
+## Sugarloaf
 
 * **Date:** 30 December 2014
 * **Operators:** [Vodafone] and other non-mobile operators
@@ -87,18 +69,14 @@ title: Christchurch - Canterbury - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20141230-210622.jpg)
 
----
-
-#### Upper Riccarton
+## Upper Riccarton
 
 * **Date:** 1 January 2015
 * **Operator:** [Spark]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-163841.jpg)
 
----
-
-##### Woolston
+## Woolston
 
 * **Date:** 2 January 2015
 * **Operator:** [Vodafone]

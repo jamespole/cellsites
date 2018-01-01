@@ -2,13 +2,9 @@
 title: Heathcote Ward - Canterbury - New Zealand - Cell Sites
 ---
 
-# [Cell Sites](../../)
+[Cell Sites](../../) > [New Zealand](../) > [Canterbury](./) > Heathcote Ward
 
-## [New Zealand](../)
-
-### [Canterbury](./)
-
-#### Heathcote Ward
+# Heathcote Ward
 
 * [Augusta Street (Redcliffs)](#augusta-street-redcliffs)
 * [Beachville Road (Redcliffs)](#beachville-road-redcliffs)
@@ -18,47 +14,38 @@ title: Heathcote Ward - Canterbury - New Zealand - Cell Sites
 * [Te Onepoto](#te-onepoto) (Taylors Mistake)
 * [Wakefield Avenue (Sumner)](#wakefield-avenue-sumner)
 
----
-
-##### Augusta Street (Redcliffs)
+## Augusta Street (Redcliffs)
 
 * **Date:** 2 January 2015
 * **Operator:** [Spark]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-174132.jpg)
 
----
-
-##### Beachville Road (Redcliffs)
+## Beachville Road (Redcliffs)
 
 * **Date:** 2 January 2015
 * **Operator:** [Vodafone]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-173925.jpg)
 
----
-
-##### Heathcote Valley
+## Heathcote Valley
 
 * **Date:** 1 January 2015
 * **Operator:** [2degrees]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-145318.jpg)
 
----
-
-##### 29 Nayland Street (Sumner)
+## 29 Nayland Street (Sumner)
 
 * **Date:** 1 January 2015
 * **Operator:** [Spark]
 
-This cell site replaced the [Wakefield Avenue](#wakefield-avenue-sumner) cell site destroyed by earthquake on 22 February 2011.
+This cell site replaced the [Wakefield Avenue](#wakefield-avenue-sumner) cell site destroyed by earthquake on 22
+February 2011.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-154046.jpg)
 
----
-
-##### 40 Nayland Street (Sumner)
+## 40 Nayland Street (Sumner)
 
 * **Date:** 1 January 2015
 * **Operator:** [Vodafone]
@@ -67,9 +54,7 @@ This cell site replaced the [Wakefield Avenue](#wakefield-avenue-sumner) cell si
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-154744.jpg)
 
----
-
-##### Te Onepoto
+## Te Onepoto
 
 * **Date:** 2 January 2015
 * **Operator:** [Spark]
@@ -78,9 +63,7 @@ This cell site replaced the [Wakefield Avenue](#wakefield-avenue-sumner) cell si
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-171303.jpg)
 
----
-
-##### Wakefield Avenue (Sumner)
+## Wakefield Avenue (Sumner)
 
 * **Date:** 1 January 2015
 * **Operator:** [Spark] (former)
@@ -92,9 +75,7 @@ It was replaced by a new cell site on [29 Nayland Street](#29-nayland-street-sum
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-154442.jpg)
 
----
-
-##### Links
+## Links
 
 * [Sumner Cellphone Towers](http://www.sumnercommunity.co.nz/The-Hub/Current-News/Sumner-Cellphone-Towers)
 
