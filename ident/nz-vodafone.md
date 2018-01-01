@@ -6,9 +6,16 @@ title: Vodafone New Zealand - Identification Guide - Cell Sites
 
 # Vodafone New Zealand
 
+* [Cabinets](#cabinets)
 * [Signs](#signs)
 * [Generator Inlets](#generator-inlets)
 * [Power Meters](#power-meters)
+
+## Cabinets
+
+Many urban cell sites will have a equipment cabinet similar to the one in the following picture.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20151004-152441.jpg)
 
 ## Signs
 
