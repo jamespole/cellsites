@@ -7,20 +7,20 @@ title: Auckland - New Zealand - Cell Sites
 # Auckland
 
 * Central Auckland
-  * **[Puketāpapa Local Board](puketapapa)** (8 cell sites)
+  * **[Puketāpapa Local Board](puketāpapa)** (8 cell sites)
 * North Shore
   * **[Devonport-Takapuna Local Board](devonport-takapuna)** (9 cell sites)
   * **[Hibiscus and Bays Local Board](hibiscus-and-bays)** (3 cell sites)
-  * **[Kaipātiki Local Board](kaipatiki)** (6 cell sites)
+  * **[Kaipātiki Local Board](kaipātiki)** (6 cell sites)
   * **[Rodney Local Board](rodney)** (1 cell site)
 * West Auckland
   * **[Henderson-Massey Local Board](henderson-massey)** (3 cell sites)
-  * **[Waitākere Ranges Local Board](waitakere-ranges)** (5 cell sites)
+  * **[Waitākere Ranges Local Board](waitākere-ranges)** (5 cell sites)
   * **[Whau Local Board](whau)** (5 cell sites)
 * South Auckland
   * **[Howick Local Board](howick)** (10 cell sites)
   * **[Māngere-Ōtāhuhu Local Board](māngere-ōtāhuhu)** (6 cell sites)
-  * **[Ōtara-Papatoetoe Local Board](otara-papatoetoe)** (14 cell sites)
+  * **[Ōtara-Papatoetoe Local Board](ōtara-papatoetoe)** (14 cell sites)
   * **[Papakura Local Board](papakura)** (7 cell sites)
 
 ---

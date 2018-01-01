@@ -17,7 +17,7 @@ title: Devonport-Takapuna Local Board - Auckland - New Zealand - Cell Sites
 
 Telecom panel antennas on the top. Their green equipment shelter can barely be seen directly behind the tower. Woosh
 antennas below. Woosh's dish antenna (just below their panel antennas) is a microwave link to the [Pupuke
-Road](../kaipatiki/pupuke-road) cell site. Their cream coloured equipment cabinet is to the right.
+Road](../kaipātiki/pupuke-road) cell site. Their cream coloured equipment cabinet is to the right.
 
 This is one of two Woosh Wireless cell sites co-located on a Telecom tower—the other being [Mozeley
 Avenue](./devonport#mozeley-avenue).
