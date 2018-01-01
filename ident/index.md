@@ -47,7 +47,7 @@ Woosh almost always used cabinets to house their equipment, typically cream colo
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-150346.jpg)
 
-However sometimes they are green.
+However sometimes they are green. Note the warning sign on this cabinet.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-164831.jpg)
 

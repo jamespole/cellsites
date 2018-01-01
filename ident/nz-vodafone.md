@@ -39,6 +39,10 @@ car parks, etc).
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20161227-111901.jpg)
 
+Some older cell sites will have generator inlets labelled `BELLSOUTH` after the previous owner of the network.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-144502.jpg)
+
 ## Power Meters
 
 Some older Vodafone NZ cell sites built during the time of BellSouth owership will have a power meter labelled `BELL
