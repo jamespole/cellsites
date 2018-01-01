@@ -6,13 +6,13 @@ title: United States - Cell Sites
 
 # United States of America
 
-* **[Los Angeles International Airport (LAX)](lax)** (2 sites)
-* **[Venice](venice)** (3)
+* **[Los Angeles International Airport (LAX)](lax)** (2 cell sites)
+* **[Venice](venice)** (3 cell sites)
 
 ---
 
-* [Playa Del Rey](#playa-del-rey) (1)
-* [Westchester](#westchester) (1)
+* [Playa Del Rey](#playa-del-rey)
+* [Westchester](#westchester)
 
 ## Playa del Rey
 
