@@ -53,8 +53,6 @@ Note the onmidirectional antennas on either ends of the building for CDMA servic
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20151004-153147.jpg)
 
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20151004-153046.jpg)
-
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Puket%C4%81papa/20151004-152450.jpg)
 
 ---
