@@ -41,6 +41,8 @@ This was a tempoary site which was later replaced with a more permanent installa
 * **Date:** 15 April 2012
 * **Operator:** Telecom
 
+This cell site was located at the Manukau telephone exchange.
+
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20120415-161326.jpg)
 
 ## 20 Lakewood Court
