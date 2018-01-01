@@ -34,3 +34,7 @@ Services at this cell site were transferred to the [Wadestown Road](#wadestown-r
 Services at this cell site were transferred from the [Pitt Street](#pitt-street) cell site.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/WGN/20130101-134754.jpg)
+
+---
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
