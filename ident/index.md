@@ -5,7 +5,7 @@ title: Identification Guide - Cell Sites
 # Identification Guide
 
 * [2degrees](#2degrees) (formerly NZ Communications)
-* [Spark](#spark) (formerly Telecom)
+* **[Spark](spark)** (formerly Telecom)
 * **[Vodafone](nz-vodafone)** (formerly BellSouth)
 * [Woosh](#woosh)
 
@@ -22,24 +22,6 @@ Newer 2degrees cell sites usually use Huwawei cabinets which can be seen on the 
 Important 2degrees cell sites located on buildings will have a place for generators to provide power supply in case of a power failure. Usually it'll be at the bottom of the building in a place with easy access for vehicles (e.g. loading spaces, car parks, etc).
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20161227-111901.jpg)
-
-## Spark
-
-Some Spark cell sites bult during the time of Telecom ownership may have signs like the following. Note that many Telecom cell sites did not have those signs so the absence of any signs at all is a good indicator of a Spark cell site.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-163428.jpg)
-
-Many older cell sites built during the time of Telecom ownership were built next to telephone exchanges.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-145929.jpg)
-
-Many cell sites have equipment huts like the following.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20170108-161956.jpg)
-
-Some cell sites have shipping containers instead of equipment huts.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Devonport-Takapuna/20160116-150211.jpg)
 
 ## Woosh
 
