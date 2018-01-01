@@ -6,7 +6,7 @@ title: Puketāpapa Local Board - Auckland - New Zealand - Cell Sites
 
 # Puketāpapa Local Board
 
-* **[Hillsborough](./hillsborough)**
+* **[Hillsborough](./hillsborough)** (4 cell sites)
 
 ---
 
