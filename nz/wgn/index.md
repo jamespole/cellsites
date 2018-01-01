@@ -74,7 +74,8 @@ Three [Telecom] panels on monopole (left), two [Telecom] omni antennas (centre) 
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/WGN/20121229-192302.jpg)
 
-One [2degrees] panel on side of building (left), three [Telecom] panels on monopole (centre) and two [Telecom] onmi antennas (right).
+One [2degrees] panel on side of building (left), three [Telecom] panels on monopole (centre) and two [Telecom] onmi
+antennas (right).
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/WGN/20121229-192314.jpg)
 

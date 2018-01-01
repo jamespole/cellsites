@@ -2,13 +2,9 @@
 title: Mount Kaukau - Wellington - New Zealand - Cell Sites
 ---
 
-# [Cell Sites](../../)
+[Cell Sites](../../) > [New Zealand](../) > [Wellington](./) > Mount Kaukau
 
-## [New Zealand](../)
-
-### [Wellington](./)
-
-#### Mount Kaukau
+# Mount Kaukau
 
 * **Date:** 10 September 2012
 * **Operators:** Vodafone and other non-mobile operators
