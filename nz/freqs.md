@@ -2,7 +2,7 @@
 title: Frequency Allocations - New Zealand - Cell Sites
 ---
 
-[Cell sites](,,/) > [New Zealand](./) > Frequency Allocations
+[Cell sites](../) > [New Zealand](./) > Frequency Allocations
 
 # Frequency Allocations
 
@@ -37,10 +37,11 @@ Frequency start | Frequency end | Allocated to
 1717.5 MHz      | 1732.5 MHz    | **2degrees (LTE 15 MHz uplink; EARFCN 1350)**
 1732.5 MHz      | 1735 MHz      | 2degrees (Unused 2.5 MHz)
 
-# Downlink
+### Downlink
 
 Frequency start | Frequency end | Allocated to
 --------------- | ------------- | ------------
 1805 MHz        | 1812.5 MHz    | 2degrees (Unused 7.5 MHz)
 1812.5 MHz      | 1827.5 MHz    | **2degrees (LTE 15 MHz downlink EARFCN 1350)**
 1827.5 MHz      | 1830 MHz      | 2degrees (Unused 2.5 MHz)
+
