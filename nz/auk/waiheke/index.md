@@ -10,6 +10,19 @@ title: Waiheke - Auckland - New Zealand - Cell Sites
 * **[Onetangi](onetangi)**
 * **[Ostend](ostend)**
 
+## Cory Road
+
+* **Date:** 15 October 2016
+* **Operators:** Spark[?] and Vodafone
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161015-160132.jpg)
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161015-160143.jpg)
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161015-161342.jpg)
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161015-161349.jpg)
+
 ## Marama Avenue
 
 * **Date:** 16 October 2016

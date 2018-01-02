@@ -6,19 +6,6 @@ title: Oneroa - Waiheke - Auckland - New Zealand - Cell Sites
 
 # Oneroa
 
-## Cory Road
-
-* **Date:** 15 October 2016
-* **Operators:** Spark[?] and Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161015-160132.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161015-160143.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161015-161342.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161015-161349.jpg)
-
 ## Korora Road
 
 * **Date:** 16 October 2016
@@ -39,10 +26,24 @@ title: Oneroa - Waiheke - Auckland - New Zealand - Cell Sites
 
 ## Ocean View Road
 
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-150311.jpg)
+
+## 10 Ocean View Road
+
 * **Date:** 16 October 2016
 * **Operator:** Spark
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-145609.jpg)
+
+## 112 Ocean View Road
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-151513.jpg)
+
+## 132 Ocean View Roada
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-151909.jpg)
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-152135.jpg)
 
 ---
 
