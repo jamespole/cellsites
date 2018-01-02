@@ -7,6 +7,7 @@ title: Waiheke - Auckland - New Zealand - Cell Sites
 # Waiheke Local Board
 
 * **[Oneroa](oneroa)**
+* **[Onetangi](onetangi)**
 * **[Ostend](ostend)**
 
 ## Marama Avenue
@@ -22,31 +23,6 @@ title: Waiheke - Auckland - New Zealand - Cell Sites
 * **Operator:** Vodafone
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-142415.jpg)
-
-## 24 Onetangi Road
-
-* **Date:** 16 October 2016
-* **Operator:** Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-134212.jpg)
-
-## 74 Onetangi Road
-
-* **Date:** 16 October 2014
-* **Operator:** Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-135708.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-135804.jpg)
-
-## Totara Road
-
-* **Date:** 16 October 2016
-* **Operator:** Spark
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-134825.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-134915.jpg)
 
 ---
 
