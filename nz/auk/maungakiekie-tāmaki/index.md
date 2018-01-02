@@ -7,6 +7,7 @@ title: Maungakiekie-Tāmaki Local Board - Auckland - New Zealand - Cell Sites
 # Maungakiekie-Tāmaki Local Board
 
 * **[Mount Wellington](mount-wellington)** (seven cell sites)
+* **[Onehunga](onehunga)** (six cell sites)
 
 ---
 
