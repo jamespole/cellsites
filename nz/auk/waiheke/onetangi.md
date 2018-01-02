@@ -6,6 +6,10 @@ title: Onetangi - Waiheke - Auckland - New Zealand - Cell Sites
 
 # Onetangi
 
+* [24 Onetangi Road](#24-onetangi-road)
+* [74 Onetangi Road](#74-onetangi-road)
+* [Totara Road](#totara-road)
+
 ## 24 Onetangi Road
 
 * **Date:** 16 October 2016

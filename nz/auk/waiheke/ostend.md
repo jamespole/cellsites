@@ -6,6 +6,10 @@ title: Ostend - Waiheke - Auckland - New Zealand - Cell Sites
 
 # Ostend
 
+* [Albert Crescent](#albert-crescent)
+* [Belgium Street](#belgium-street)
+* [Ostend Road](#ostend-road)
+
 ## Albert Crescent
 
 * **Date:** 16 October 2016

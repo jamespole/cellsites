@@ -6,9 +6,15 @@ title: Waiheke - Auckland - New Zealand - Cell Sites
 
 # Waiheke Local Board
 
-* **[Oneroa](oneroa)**
-* **[Onetangi](onetangi)**
-* **[Ostend](ostend)**
+* **[Oneroa](oneroa)** (six cell sites)
+* **[Onetangi](onetangi)** (three cell sites)
+* **[Ostend](ostend)** (three cell sites)
+
+---
+
+* [Cory Road](#cory-road)
+* [Marama Avenue](#marama-avenue)
+* [Miami Avenue](#miami-avenue)
 
 ## Cory Road
 
