@@ -22,9 +22,9 @@ title: Onetangi - Waiheke - Auckland - New Zealand - Cell Sites
 * **Date:** 16 October 2014
 * **Operator:** Vodafone
 
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-135708.jpg)
-
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-135804.jpg)
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-135708.jpg)
 
 ## Totara Road
 

@@ -33,6 +33,9 @@ title: Oneroa - Waiheke - Auckland - New Zealand - Cell Sites
 
 ## Ocean View Road
 
+* **Date:** 16 October 2016
+* **Operator:** Vodafone
+
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-150311.jpg)
 
 ## 10 Ocean View Road
@@ -44,9 +47,15 @@ title: Oneroa - Waiheke - Auckland - New Zealand - Cell Sites
 
 ## 112 Ocean View Road
 
+* **Date:** 16 October 2016
+* **Operator:** Spark
+
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-151513.jpg)
 
-## 132 Ocean View Roada
+## 132 Ocean View Road
+
+* **Date:** 16 October 2016
+* **Operator:** Vodafone
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-151909.jpg)
 
