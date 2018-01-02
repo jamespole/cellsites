@@ -7,22 +7,7 @@ title: Waiheke - Auckland - New Zealand - Cell Sites
 # Waiheke Local Board
 
 * **[Oneroa](oneroa)**
-
-## Albert Crescent
-
-* **Date:** 16 October 2016
-* **Operator:** Spark
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-141005.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-141056.jpg)
-
-## Belgium Street
-
-* **Date:** 16 October 2016
-* **Operator:** Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-132957.jpg)
+* **[Ostend](ostend)**
 
 ## Marama Avenue
 
@@ -53,13 +38,6 @@ title: Waiheke - Auckland - New Zealand - Cell Sites
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-135708.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-135804.jpg)
-
-## Ostend Road
-
-* **Date:** 16 October 2016
-* **Operator:** Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-133310.jpg)
 
 ## Totara Road
 
