@@ -7,6 +7,7 @@ title: Auckland - New Zealand - Cell Sites
 # Auckland
 
 * Central Auckland
+  * **[Maungakiekie-Tāmaki Local Board](maungakiekie-tāmaki)** (24 cell sites)
   * **[Puketāpapa Local Board](puketāpapa)** (eight cell sites)
   * **[Waiheke Local Board](waiheke)** (15 cell sites)
 * North Shore
