@@ -6,6 +6,8 @@ title: Albert-Eden Local Board - Auckland - New Zealand - Cell Sites
 
 # Albert-Eden Local Board
 
+* **[Epsom](epsom)** (two cell sites and two other sites)
+
 ## New Bond Street
 
 * **Date:** 3 July 2009
