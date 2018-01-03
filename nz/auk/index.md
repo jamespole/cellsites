@@ -16,7 +16,7 @@ title: Auckland - New Zealand - Cell Sites
   * **[Henderson-Massey Local Board](henderson-massey)** (three cell sites)
   * **[Whau Local Board](whau)** (five cell sites)
 * Central Aucklanda
-  * *Albert-Eden Local Board* (coming soon)
+  * **[Albert-Eden Local Board](albert-eden)** (one cell site)
   * **[Puketāpapa Local Board](puketāpapa)** (eight cell sites)
   * **[Maungakiekie-Tāmaki Local Board](maungakiekie-tāmaki)** (24 cell sites)
 * East Auckland
