@@ -8,7 +8,7 @@ title: Eden Park - Albert-Eden Local Board - Auckland - New Zealand - Cell Sites
 
 Eden Park is apparently the site of New Zealand's largest Distributed Antennas System (DAS). It appears that Spark and
 Vodafone jointly established the system while 2degrees may have gone have gone with a more traditional approach. I've
-included some links at the end of this page to web pages and documents of interest.
+included some links at the end of this page to web pages and documents of interest related to this DAS deployment.
 
 * **[Entry A](#entry-a)**
 * **[Entry D](#entry-d)**
@@ -29,10 +29,9 @@ the left of the field, you can see the antenna.
 * **Date:** 17 September 2015
 * **Operators:** Spark, 2degrees and Vodafone
 
-Near Entry D were two antennas, both with a down-tilt. My guess is the antenna on the left ia part of the Distributed
-Antenna System (DAS) that provides Spark and Vodafone service and the antenna on the right is for 2degrees.
-
-What seems like WiFi atennas can also be seen on the red ceiling in the foreground.
+Near Entry D were two antennas on top of the stands, both with a down-tilt. My guess is the antenna on the left is part
+of the DAS providing Spark and Vodafone services and the antenna on the right provides 2degrees services. WiFi antennas
+can also be seen on the red ceiling in the foreground.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Albert-Eden/20150917-153747.jpg)
 
@@ -48,7 +47,8 @@ this time Spark added 700 MHz and 2600 Mhz LTE services which may have needed ad
 * **Date:** 17 September 2015
 * **Operators:** Spark and Vodafone
 
-Near Entry K are two antennas for the Distributed Antenna System (DAS) that provides Spark and Vodafone services.
+Near Entry K are two antennas for the Distributed Antenna System (DAS) that provides Spark and Vodafone services. One
+antenna can clearly be seen on the right while another antenna can partialy be seen on the left.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Albert-Eden/20150917-155245.jpg)
 
