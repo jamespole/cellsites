@@ -11,6 +11,7 @@ title: Albert-Eden Local Board - Auckland - New Zealand - Cell Sites
 * **[Mount Albert](mount-albert)** (seven cell sites)
 * **[Mount Eden](mount-eden)** (four cell sites)
 * **[Point Chevalier](point-chevalier)** (five cell sites)
+* **[United](unitec)** (three cell sites)
 
 ---
 
