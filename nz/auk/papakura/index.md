@@ -7,12 +7,12 @@ title: Papakura Local Board - Auckland - New Zealand - Cell Sites
 # Papakura Local Board
 
 Panoramic view of cell sites in the Papakura town centre. From left: [2degrees, Vodafone](#great-south-road) and
-[Telecom](#oshannessey-street).
+[Telecom](#oshannessey-street). *(9 March 2009)*
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Papakura/20090309-141737.jpg)
 
 View of cell sites in the Papakura town centre. From left: [Telecom](#oshannessey-street), [Vodafone and
-2degrees](#great-south-road).
+2degrees](#great-south-road). *(9 March 2009)*
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Papakura/20090309-142757.jpg)
 

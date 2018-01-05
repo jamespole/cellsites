@@ -6,7 +6,7 @@ title: Ōtara-Papatoetoe Local Board - Auckland - New Zealand - Cell Sites
 
 # Ōtara-Papatoetoe Local Board
 
-* **[Manukau](manukau)** (7 cell sites)
+* **[Manukau](manukau)** (6 cell sites and one other site)
 
 ---
 
