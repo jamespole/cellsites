@@ -6,7 +6,19 @@ title: List of 2degrees Sites - New Zealand - Cell Sites
 
 # List of 2degrees Sites
 
-## Auckland (`AKL`)
+This is a list of 2degrees sites on this website sorted by its 2degrees site ID.
+
+* [Auckland](#auckland) (`AKL`)
+* [Canterbury](#canterbury) (`CAN`)
+* [Christchurch](#christchurch) (`CHC`)
+* [Waikato](#waikato) (`WKT`)
+
+There is also a list of [Cells On Wells](#cells-on-wheels) (COWs) which don't have a site ID.
+
+## Auckland
+
+In Auckland, 2degrees site IDs are grouped by the boundaries of the old city and district councils prior to their
+merger into the Auckland Council.
 
 Site ID       | Site Location
 ------------- | -------------
@@ -18,6 +30,13 @@ Site ID       | Site Location
 `AKL-006-017` | [Waikumete Road](./auk/waitākere-ranges/#waikumete-road), Glen Eden
 `AKL-006-032` | [Great North Road](./auk/henderson-massey/#great-north-road), Glendene
 `AKL-006-034` | [Mcentee Road](./auk/waitākere-ranges/#mcentee-road), Waitākere
+`AKL-009-004` | [Great South Road](./auk/papakura/#great-south-road), Papakura
+`AKL-009-006` | [Dumas Place](./auk/papakura/#dumas-place), Papakura
+
+## Auckland City (`AKL-007`)
+
+Site ID       | Site Location
+------------- | -------------
 `AKL-007-008` | [Unitec](./auk/albert-eden/unitec#spotless-facility), Mount Albert
 `AKL-007-010` | [Saint Lukes Road](./auk/albert-eden/mount-albert#saint-lukes-road), Mount Albert
 `AKL-007-029` | [955 New North Road](./auk/albert-eden/mount-albert#955-new-north-road), Mount Albert
@@ -27,11 +46,11 @@ Site ID       | Site Location
 `AKL-007-129` | [Great North Road](./auk/albert-eden/point-chevalier#great-north-road), Point Chevalier
 `AKL-007-134` | [New Bond Street](./auk/albert-eden/#new-bond-street), Kingsland
 `AKL-007-136` | [Western Springs Road](./auk/albert-eden/#western-springs-road), Morningside
-`AKL-009-004` | [Great South Road](./auk/papakura/#great-south-road), Papakura
-`AKL-009-006` | [Dumas Place](./auk/papakura/#dumas-place), Papakura
 
-### Manukau (`AKL-008`)
+### Manukau City (`AKL-008`)
 
+Site ID       | Site Location
+------------- | -------------
 `AKL-008-004` | [Puhinui Road](./auk/ōtara-papatoetoe/#316-puhinui-road), Papatoetoe
 `AKL-008-016` | [James Fletcher Drive](./auk/māngere-ōtāhuhu/#266-james-fletcher-drive), Māngere
 `AKL-008-018` | [Amersham Way](./auk/ōtara-papatoetoe/manukau#amersham-way), Manukau
@@ -43,4 +62,46 @@ Site ID       | Site Location
 `AKL-008-073` | [Puhinui Road](./auk/ōtara-papatoetoe/#316-puhinui-road), Wiri
 `AKL-008-081` | [Station Road](./auk/ōtara-papatoetoe/#316-puhinui-road), Papatoetoe
 `AKL-008-084` | [Taylor Road](./auk/māngere-ōtāhuhu/#taylor-road), Māngere Bridge
+
+## Canterbury
+
+Site ID       | Site Location
+------------- | -------------
+`CAN-063-004` | [Ashburton](./can/#ashburton)
+
+## Christchurch
+
+Site ID       | Site Location
+------------- | -------------
+`CHC-060-017` | [Sockburn](./can/christchurch#sockburn)
+`CHC-060-038` | [Templeton](./can/hornby#main-south-road-templeton)
+`CHC-060-053` | [Waltham](./can/christchurch#ferry-road)
+`CHC-060-094` | [Middleton](./can/christchurch#middleton)
+`CHC-060-119` | [Heathcote Valley](./can/heathcote#heathcote-valley)
+`CHC-060-146` | [Addington](./can/christchurch#addington)
+
+## Waikato
+
+### Waikato District
+
+Site ID       | Site Location
+------------- | -------------
+`WKT-013-004` | [Te Kauwhata](./wko/#te-kauwhata)
+
+### Matamata-Piako District (`WKT-015`)
+
+Site ID       | Site Location
+------------- | -------------
+`WKT-015-009` | [Te Aroha](./wko/te-aroha#lawrence-avenue)
+
+
+### Hamilton City (`WKT-016`)
+
+Site ID       | Site Location
+------------- | -------------
+`WKT-016-002` | [Dinsdale](./wko/dinsale#killarney-road)
+
+## Cell on Wheels
+
+* [Whangamatā](./wko/whangamatā#632-port-road)
 
