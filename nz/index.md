@@ -13,7 +13,8 @@ title: New Zealand - Cell Sites
 
 ---
 
-* [Frequency Allocations](frequency-allocations)
+* [Frequency allocations](frequency-allocations)
+* [List of 2degrees sites](sites-2degrees)
 
 ---
 
