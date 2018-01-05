@@ -18,7 +18,7 @@ not compatible with the license (i.e. commercial use) please contact me.
 
 * **[Australia](au)** (20 cell sites)
 * **[Iceland](is)** (five cell sites)
-* **[New Zealand](nz)** (176 cell sites)
+* **[New Zealand](nz)** (178 cell sites)
 * **[Turkey](tr)** (two cell sites)
 * **[United Kingdom](gb)** (two cell sites)
 * **[United States](us)** (seven cell sites)
