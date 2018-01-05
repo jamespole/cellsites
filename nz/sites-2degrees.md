@@ -12,6 +12,7 @@ This is a list of 2degrees sites on this website sorted by its 2degrees site ID.
 * [Canterbury](#canterbury) (`CAN`)
 * [Christchurch](#christchurch) (`CHC`)
 * [Waikato](#waikato) (`WKT`)
+* [Wellington](#wellington) (`WLG`)
 
 There is also a list of [Cells On Wells](#cells-on-wheels) (COWs) which don't have a site ID.
 
@@ -100,6 +101,15 @@ Site ID       | Site Location
 Site ID       | Site Location
 ------------- | -------------
 `WKT-016-002` | [Dinsdale](./wko/dinsale#killarney-road)
+
+## Wellington
+
+### Wellington City (`WLG-047`)
+
+Site ID       | Site Location
+------------- | -------------
+`WLG-047-018` | [Wilton](./wgn/#wilton)
+`WLG-047-020` | [Karori](./wgn/#karori)
 
 ## Cell on Wheels
 
