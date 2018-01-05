@@ -25,11 +25,8 @@ not compatible with the license (i.e. commercial use) please contact me.
 
 ---
 
-[Tips for identifying cell sites.](ident)
-
----
-
-[Links to more photos of cell sites from around the world.](links)
+* [Identification Guide](identification-guide)
+* [Links](links)
 
 ---
 

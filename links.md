@@ -15,6 +15,10 @@ title: Links - Cell Sites
 
 * [Radio Frequency National Site Archive](http://www.rfnsa.com.au/) — Database of cell sites in Australia.
 
+## Information
+
+* [Wikipedia: New Zealand masts](https://en.wikipedia.org/wiki/New_Zealand_masts)
+
 ---
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).

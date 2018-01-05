@@ -2,7 +2,7 @@
 title: Frequency Allocations - New Zealand - Cell Sites
 ---
 
-[Cell sites](../) > [New Zealand](./) > Frequency Allocations
+[Cell Sites](../) > [New Zealand](./) > Frequency Allocations
 
 # Frequency Allocations
 
