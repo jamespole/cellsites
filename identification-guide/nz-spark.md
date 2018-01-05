@@ -6,10 +6,19 @@ title: Spark New Zealand - Identification Guide - Cell Sites
 
 # Spark New Zealand
 
+* [Antennas](#antennas)
 * [Signs](#signs)
 * [Telephone Exchanges](#telephone-exchanges)
 * [Equipment Huts](#equipment-huts)
 * [Shipping Containers](#shipping-containers)
+
+## Antennas
+
+Spark sites providing UMTS 850 MHz and UMTS 2100 MHz services may have three antennas for each sector (i.e. nine
+antennas total for a typical three-sector site). One thin antenna will be for the 2100 MHz service and two fatter
+antennas will be for the 850 MHz service. This configuration was common prior to the rollout of LTE services.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Albert-Eden/20110225-221918.jpg)
 
 ## Signs
 

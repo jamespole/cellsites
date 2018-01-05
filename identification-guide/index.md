@@ -11,6 +11,12 @@ title: Identification Guide - Cell Sites
 
 ## 2degrees
 
+The first batch of 2degrees site have distinctive antennas which looks like the following. These antennas provide all
+services—i.e. GSM/UMTS 900 MHz, GSM/LTE 1800 MHz and UMTS 2100 MHz all from one antenna. Many 2degrees sites also had
+microwave dishes (like the in the following picture). It was also common for light poles to be used.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Albert-Eden/20110226-142509.jpg)
+
 2degrees cell sites typically have red on white caution signs. It will look like the one below. Usually it will show
 the 2degrees site ID. Older sites had signs with the name 'NZ Communications' which is the name they operated under
 prior to their public launch. However these have been replaced with 2degrees.

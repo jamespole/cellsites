@@ -31,7 +31,7 @@ Some may also have a yellow caution sign as well.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Rodney/20160319-133827.jpg)
 
-## Generator Inlets
+## Generator Supply Inlets
 
 Important cell sites located on buildings will have a place for generators to provide power supply in case of a power
 failure. Usually it'll be at the bottom of the building in a place with easy access for vehicles (e.g. loading spaces,
@@ -39,9 +39,13 @@ car parks, etc).
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20161227-111901.jpg)
 
-Some older cell sites will have generator inlets labelled `BELLSOUTH` after the previous owner of the network.
+Some older cell sites will have generator supply inlets labelled `BELLSOUTH` after the previous owner of the network.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Waiheke/20161016-144502.jpg)
+
+Some have them labelled `BELL SOUTH GENERATOR SUPPLY`.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Albert-Eden/20101227-171300.jpg)
 
 ## Power Meters
 
