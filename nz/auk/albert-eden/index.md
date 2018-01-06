@@ -7,7 +7,7 @@ title: Albert-Eden Local Board - Auckland - New Zealand - Cell Sites
 # Albert-Eden Local Board
 
 * **[Eden Park](eden-park)** (one cell site)
-* **[Epsom](epsom)** (two cell sites and two other sites)
+* **[Epsom](epsom)** (two cell sites)
 * **[Mount Albert](mount-albert)** (seven cell sites)
 * **[Mount Eden](mount-eden)** (four cell sites)
 * **[Point Chevalier](point-chevalier)** (five cell sites)

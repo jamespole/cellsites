@@ -6,15 +6,16 @@ title: New Zealand - Cell Sites
 
 # New Zealand
 
-* **[Auckland](auk)** (142 cell sites and three other sites)
+* **[Auckland](auk)** (142 cell sites)
 * **[Canterbury](can)** (24 cell sites)
 * **[Waikato](wko)** (14 cell sites)
-* **[Wellington](wgn)** (11 cell sites and one other site)
+* **[Wellington](wgn)** (11 cell sites)
 
 ---
 
 * [Frequency allocations](frequency-allocations)
 * [List of 2degrees sites](sites-2degrees)
+* [TV Transmission Sites](tv-transmission-sites)
 
 ---
 
