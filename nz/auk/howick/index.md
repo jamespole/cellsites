@@ -13,6 +13,10 @@ title: Howick Local Board - Auckland - New Zealand - Cell Sites
 
 * [4–6 Botany Road](#4-6-botany-road)
 * [107 Botany Road](#107-botany-road)
+* [Bucklands Beach](#bucklands-beach)
+* [Farm Cove](#farm-cove)
+* [Highland Park](#highland-park)
+* [Mellons Bay](#mellons-bay)
 * [Ti Rakau Drive](#ti-rakau-drive)
 * [Vincent Street](#vincent-street)
 
@@ -40,6 +44,34 @@ NZ Comms on left and Woosh on right.
 * **Operator:** Woosh
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-143651.jpg)
+
+## Bucklands Beach
+
+* **Date:** 22 June 2005
+* **Operator:** Vodafone
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20050622-155859.jpg)
+
+## Farm Cove
+
+* **Date:** 6 August 2005
+* **Operator:** Telecom
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20050806-133228.jpg)
+
+## Highland Park
+
+* **Date:** 28 April 2009
+* **Operator:** Vodafone
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-121734.jpg)
+
+## Mellons Bay
+
+* **Date:** 6 August 2005
+* **Operator:** Vodafone
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20050806-145420.jpg)
 
 ## Ti Rakau Drive
 

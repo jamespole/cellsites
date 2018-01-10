@@ -2,7 +2,7 @@
 title: Pakuranga - Howick Local Board - Auckland - New Zealand - Cell Sites
 ---
 
-[Cell Sites](../../../) > [New Zealand](../../) > [Auckland](../) > [Howick Local Board] > Pakuranga
+[Cell Sites](../../../) > [New Zealand](../../) > [Auckland](../) > [Howick Local Board](./) > Pakuranga
 
 # Pakuranga
 
