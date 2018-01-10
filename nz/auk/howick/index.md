@@ -9,7 +9,6 @@ title: Howick Local Board - Auckland - New Zealand - Cell Sites
 * **[Howick](howick)** (two cell sites)
 * **[Howick Village](howick-village)** (two cell sites)
 * **[Pakuranga](pakuranga)** (two cell sites)
-* **[Pakuranga Heights](pakuranga-heights)** (one cell site)
 
 ---
 
@@ -19,6 +18,7 @@ title: Howick Local Board - Auckland - New Zealand - Cell Sites
 * [Golflands](#golflands)
 * [Highland Park](#highland-park)
 * [Mellons Bay](#mellons-bay)
+* [Pakuranga Heights](#pakuranga-heights)
 
 ## Botany Downs
 
@@ -61,6 +61,13 @@ title: Howick Local Board - Auckland - New Zealand - Cell Sites
 * **Operator:** Vodafone
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20050806-145420.jpg)
+
+## Pakuranga Heights
+
+* **Date:** 12 April 2009
+* **Operator:** Vodafone
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090412-165134.jpg)
 
 ---
 
