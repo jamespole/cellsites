@@ -7,7 +7,6 @@ title: Pakuranga - Howick Local Board - Auckland - New Zealand - Cell Sites
 # Pakuranga
 
 * [Grammar School Road](#grammar-school-road)
-* [Pakuranga Road](#pakuranga-road)
 * [Parkview Place](#parkview-place)
 
 ## Grammar School Road
@@ -16,13 +15,6 @@ title: Pakuranga - Howick Local Board - Auckland - New Zealand - Cell Sites
 * **Operator:** Telecom
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090412-171158.jpg)
-
-## Pakuranga Road
-
-* **Date:** 12 April 2009
-* **Operator:** Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090412-165134.jpg)
 
 ## Parkview Place
 
