@@ -6,7 +6,7 @@ title: Howick Local Board - Auckland - New Zealand - Cell Sites
 
 # Howick Local Board
 
-* **[Howick Village](howick)** (two cell sites)
+* **[Howick Village](howick-village)** (two cell sites)
 * **[Pakuranga](pakuranga)** (three cell sites)
 
 ---
