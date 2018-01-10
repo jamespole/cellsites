@@ -64,6 +64,11 @@ title: Howick Local Board - Auckland - New Zealand - Cell Sites
 
 ## Pakuranga Heights
 
+* **Date:** 22 June 2005
+* **Operator:** Vodafone
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20050622-144226.jpg)
+
 * **Date:** 12 April 2009
 * **Operator:** Vodafone
 
