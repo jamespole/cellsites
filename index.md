@@ -8,7 +8,7 @@ Welcome to my collection of cell site photos. I have been taking photos of cell 
 sparked by my natural curiosity in how things work. I wanted to find out how mobile phones worked. I discovered that
 other people had their own collections of cell site photos. So I decided I would create my own.
 
-My collection contains photos of over 200 cell sites in six countries. My collection is my own work. You are free to
+My collection contains photos of over 240 cell sites in six countries. My collection is my own work. You are free to
 use my work under the Creative Commons license provided at the bottom of each page. If you wish to use my work in a way
 not compatible with the license (i.e. commercial use) please contact me.
 
@@ -18,7 +18,7 @@ not compatible with the license (i.e. commercial use) please contact me.
 
 * **[Australia](au)** (20 cell sites)
 * **[Iceland](is)** (five cell sites)
-* **[New Zealand](nz)** (191 cell sites)
+* **[New Zealand](nz)** (208 cell sites)
 * **[Turkey](tr)** (two cell sites)
 * **[United Kingdom](gb)** (two cell sites)
 * **[United States](us)** (seven cell sites)

@@ -8,9 +8,9 @@ title: Howick Local Board - Auckland - New Zealand - Cell Sites
 
 * **[Cockle Bay](cockle-bay)** (two cell sites)
 * **[East Tāmaki](east-tāmaki)** (three cell sites)
-* **[Howick](howick)** (two cell sites)
-* **[Howick Village](howick-village)** (two cell sites)
-* **[Pakuranga](pakuranga)** (two cell sites)
+* **[Howick](howick)** (six cell sites)
+* **[Howick Village](howick-village)** (three cell sites)
+* **[Pakuranga](pakuranga)** (six cell sites)
 
 ---
 
