@@ -6,13 +6,23 @@ title: Howick Village - Howick Local Board - Auckland - New Zealand - Cell Sites
 
 # Howick Village
 
-* [Picton Street](#picton-street)
+* [22 Picton Street](#22-picton-street)
+* [114 Picton Street](#114-picton-street)
 * [Wellington Street](#wellington-street)
 
-## Picton Street
+## 22 Picton Street
 
 * **Date:** 28 April 2009
-* **Operator:** [Vodafone] and Woosh
+* **Operator:** Telecom
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-125215.jpg)
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-125515.jpg)
+
+## 114 Picton Street
+
+* **Date:** 28 April 2009
+* **Operator:** Vodafone and Woosh
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-130640.jpg)
 
@@ -23,7 +33,7 @@ title: Howick Village - Howick Local Board - Auckland - New Zealand - Cell Sites
 ## Wellington Street
 
 * **Date:** 28 April 2009
-* **Operator:** [Vodafone]
+* **Operator:** Vodafone
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-125712.jpg)
 
@@ -32,7 +42,3 @@ title: Howick Village - Howick Local Board - Auckland - New Zealand - Cell Sites
 ---
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-[NZ Communications]: https://en.wikipedia.org/wiki/2degrees
-[Telecom]: https://en.wikipedia.org/wiki/Spark_New_Zealand
-[Vodafone]: https://en.wikipedia.org/wiki/Vodafone_New_Zealand
