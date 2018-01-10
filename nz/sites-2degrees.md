@@ -56,9 +56,12 @@ Site ID       | Site Location
 `AKL-008-016` | [James Fletcher Drive](./auk/māngere-ōtāhuhu/#266-james-fletcher-drive), Māngere
 `AKL-008-018` | [Amersham Way](./auk/ōtara-papatoetoe/manukau#amersham-way), Manukau
 `AKL-008-019` | [Franklin Avenue](./auk/ōtara-papatoetoe/#franklin-avenue), Papatoetoe
-`AKL-008-029` | [Botany Road](./auk/howick/#4-6-botany-road), Howick
+`AKL-008-029` | [Botany Road](./auk/howick/howick#botany-road), Howick
+`AKL-008-030` | [Aylesbury Street](./auk/howick/pakuranga#aylesbury-street), Pakuranga
 `AKL-008-036` | [Lakewood Court](./auk/ōtara-papatoetoe/manukau#20-lakewood-court), Manukau
 `AKL-008-039` | [Grayson Avenue](./auk/ōtara-papatoetoe/#grayson-avenue), Papatoetoe
+`AKL-008-045` | [Ron Driver Place](./auk/howick/east-tāmaki#ron-driver-place), East Tamaki
+`AKL-008-047` | [Johns Lane](./auk/howick/pakuranga#johns-lane), Pakuranga
 `AKL-008-055` | [Andrew McKee Avenue](./auk/māngere-ōtāhuhu/#andrew-mckee-avenue), Auckland Airport
 `AKL-008-073` | [Puhinui Road](./auk/ōtara-papatoetoe/#316-puhinui-road), Wiri
 `AKL-008-081` | [Station Road](./auk/ōtara-papatoetoe/#316-puhinui-road), Papatoetoe
