@@ -9,6 +9,8 @@ title: List of 2degrees Sites - New Zealand - Cell Sites
 This is a list of 2degrees sites on this website sorted by its 2degrees site ID.
 
 * [Auckland](#auckland) (`AKL`)
+    * [Auckland City](#auckland-city) (`AKL-007`)
+    * [Manukau City](#manukau-city)(`AKL-008`)
 * [Canterbury](#canterbury) (`CAN`)
 * [Christchurch](#christchurch) (`CHC`)
 * [Waikato](#waikato) (`WKT`)
@@ -34,7 +36,7 @@ Site ID       | Site Location
 `AKL-009-004` | [Great South Road](./auk/papakura/#great-south-road), Papakura
 `AKL-009-006` | [Dumas Place](./auk/papakura/#dumas-place), Papakura
 
-## Auckland City (`AKL-007`)
+### Auckland City
 
 Site ID       | Site Location
 ------------- | -------------
@@ -48,7 +50,7 @@ Site ID       | Site Location
 `AKL-007-134` | [New Bond Street](./auk/albert-eden/#new-bond-street), Kingsland
 `AKL-007-136` | [Western Springs Road](./auk/albert-eden/#western-springs-road), Morningside
 
-### Manukau City (`AKL-008`)
+### Manukau City
 
 Site ID       | Site Location
 ------------- | -------------
@@ -60,7 +62,7 @@ Site ID       | Site Location
 `AKL-008-030` | [Aylesbury Street](./auk/howick/pakuranga#aylesbury-street), Pakuranga
 `AKL-008-036` | [Lakewood Court](./auk/ōtara-papatoetoe/manukau#20-lakewood-court), Manukau
 `AKL-008-039` | [Grayson Avenue](./auk/ōtara-papatoetoe/#grayson-avenue), Papatoetoe
-`AKL-008-045` | [Ron Driver Place](./auk/howick/east-tāmaki#ron-driver-place), East Tamaki
+`AKL-008-045` | [Ron Driver Place](./auk/howick/east-tāmaki#ron-driver-place), East Tāmaki
 `AKL-008-047` | [Johns Lane](./auk/howick/pakuranga#johns-lane), Pakuranga
 `AKL-008-055` | [Andrew McKee Avenue](./auk/māngere-ōtāhuhu/#andrew-mckee-avenue), Auckland Airport
 `AKL-008-073` | [Puhinui Road](./auk/ōtara-papatoetoe/#316-puhinui-road), Wiri
