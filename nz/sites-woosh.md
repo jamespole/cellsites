@@ -12,6 +12,7 @@ Site ID | Site Location
 ------- | -------------
 `A2MAB` | [Mount Albert Road](./auk/albert-eden/mount-albert#mount-albert-road), Mount Albert
 `A2MRK` | [Dominion Road](./auk/puketāpapa/#dominion-road), Mount Roskill
+`A2STJ` | [Kohimarama Road](./auk/ōrākei/saint-johns#kohimarama-road), Saint Johns
 `A2WTV` | [Unitec](./auk/albert-eden/unitec#building-017)
 `A2XME` | [Poronui Street](./auk/albert-eden/mount-eden), Mount Eden
 `A3CRH` | [Forrest Hill](./auk/devonport-takapuna/#forrest-hill) (Crown Hill)
@@ -42,6 +43,8 @@ have a photo on this website. Names in bold are sites with more than one downstr
     * `A2MAB` Mount Albert
         * `A2WTV` Waterview
     * `A2MRK` Mount Roskill
+    * `A2ORK` *Orakei*
+        * `A2STJ` Saint Johns
     * `A2PEN` *Penrose*
         * `A4PGA` __Pakuranga__
             * `A4BDC` Botany Downs Club
