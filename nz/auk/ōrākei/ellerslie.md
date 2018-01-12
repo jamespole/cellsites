@@ -29,7 +29,7 @@ Vodafone antennas on light pole.
 * **Date:** 18 November 2012
 * **Operator:** Vodafone
 
-Antennas concealed in gray posts.
+Antennas concealed in gray posts. Dish antenna can be seen between the posts in the foreground.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20121118-173907.jpg)
 

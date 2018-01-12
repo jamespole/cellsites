@@ -22,7 +22,6 @@ light poles for this cell site.
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20041228-114829.jpg)
 
 * **Date:** 7 May 2010
-* **Operator:** Telecom
 
 Tempoary cell site being used while the cell site was converted from onmi-directional antennas to panel antennas. Note
 how they even moved the the foodlights onto the tempoary structure to make sure the tennis club could continue to play

@@ -46,7 +46,7 @@ A later picture taken from a different direction showing the Telecom panels (far
 * **Operator:** Vodafone
 
 Cell site based at a sewerage station. Note old omni-directional antenna on the left, replaced with two new panel
-antennas on either ends. The new antennas were replaced as part of upgrades to enable 3G services at this site. There
+antennas on either ends. The new antennas were installed as part of upgrades to enable 3G services at this site. There
 is a dish antenna pointing towards the [Coates Avenue](ōrākei#coates-avenue) site.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20040523-152235.jpg)

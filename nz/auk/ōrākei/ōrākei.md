@@ -18,9 +18,9 @@ title: Ōrākei - Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 * **Date:** 31 July 2004
 * **Operator:** Vodafone (backhaul only)
 
-This site had only two Vodafone dish antennas. This was a relay station between the isolated Okahu Bay site and
-Vodafone's microwave hub at Kepa Road. It wasn't until some years later that Vodafone would start to use this site for
-mobile services as well.
+This site had only two Vodafone dish antennas. This was a relay station between the isolated [38 Reihana
+Street](ōkahu-bay#38-reihana-street) cell site and their microwave hub at Kepa Road. It wasn't until some years later
+that Vodafone would start to use this site for mobile services as well.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20040731-130137.jpg)
 
