@@ -18,6 +18,7 @@ Site ID | Site Location
 ------- | -------------
 `A2MAB` | [Mount Albert Road](./auk/albert-eden/mount-albert#mount-albert-road), Mount Albert
 `A2MRK` | [Dominion Road](./auk/puketāpapa/#dominion-road), Mount Roskill
+`A2ORK` | [Kepa Road](./auk/ōrākei/ōrākei#152-kepa-road), Ōrākei
 `A2REM` | [Remuera Road](./auk/ōrākei/remuera#416-remuera-road), Remuera
 `A2SHL` | [Waimarie Street](./auk/ōrākei/saint-heliers#waimarie-street), Saint Heliers
 `A2STJ` | [Kohimarama Road](./auk/ōrākei/saint-johns#kohimarama-road), Saint Johns
@@ -55,7 +56,7 @@ have a photo on this website. Names in bold are sites with more than one downstr
     * `A2REM` __Remuera__
         * `A2SHL` Saint Heliers
         * `A2STJ` Saint Johns
-    * `A2ORK` *Orakei*
+    * `A2ORK` Orakei
     * `A2PEN` __*Penrose*__
         * `A2OTH` *Otahuhu*
             * `A4POE` *Papatoetoe*

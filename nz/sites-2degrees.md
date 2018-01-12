@@ -42,6 +42,7 @@ Site ID       | Site Location
 ------------- | -------------
 `AKL-007-008` | [Unitec](./auk/albert-eden/unitec#spotless-facility), Mount Albert
 `AKL-007-010` | [Saint Lukes Road](./auk/albert-eden/mount-albert#saint-lukes-road), Mount Albert
+`AKL-007-012` | [Kepa Road](./auk/ōrākei/ōrākei#opposite-180-kepa-road), Ōrākei
 `AKL-007-029` | [955 New North Road](./auk/albert-eden/mount-albert#955-new-north-road), Mount Albert
 `AKL-007-036` | [Melanesia Road](./auk/ōrākei/kohimarama#melanesia-road), Kohimarama
 `AKL-007-077` | [1203 Great North Road](./auk/albert-eden/mount-albert#1203-new-north-road), Mount Albert
