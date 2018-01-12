@@ -10,6 +10,7 @@ title: Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 * **[Glen Innes](glen-innes)** (four cell sites)
 * **[Kohimarama](kohimarama)** (four cell sites)
 * **[Meadowbank](meadowbank)** (two cell sites)
+* **[Remuera](remuera)** (seven cell sites)
 * **[Saint Johns](saint-johns)** (three cell sites)
 
 ---
