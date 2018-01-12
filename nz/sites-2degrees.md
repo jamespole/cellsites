@@ -1,10 +1,10 @@
 ---
-title: List of 2degrees Sites - New Zealand - Cell Sites
+title: List of 2degrees sites - New Zealand - Cell Sites
 ---
 
-[Cell Sites](../) > [New Zealand](./) > List of 2degrees Sites
+[Cell Sites](../) > [New Zealand](./) > List of 2degrees sites
 
-# List of 2degrees Sites
+# List of 2degrees sites
 
 This is a list of 2degrees sites on this website sorted by its 2degrees site ID.
 
@@ -120,3 +120,6 @@ Site ID       | Site Location
 
 * [Whangamatā](./wko/whangamatā#632-port-road)
 
+---
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).

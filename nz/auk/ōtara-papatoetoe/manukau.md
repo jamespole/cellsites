@@ -17,7 +17,7 @@ title: Manukau - Ōtara-Papatoetoe Local Board - Auckland - New Zealand - Cell S
 ## Amersham Way
 
 * **Date:** 22 September 2013
-* **Operators:** 2degrees, Vodafone and Woosh
+* **Operators:** 2degrees and Vodafone
 
 2degrees had microwave links to the [20 Lakewood Court](#20-lakewood-court), [316 Puhinui Road](./#316-puhinui-road),
 [Station Road](./#station-road) and other cell sites.
