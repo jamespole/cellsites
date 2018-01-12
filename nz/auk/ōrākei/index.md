@@ -10,6 +10,7 @@ title: Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 * **[Ellerslie](ellerslie)** (three cell sites)
 * **[Glen Innes](glen-innes)** (four cell sites)
 * **[Kohimarama](kohimarama)** (four cell sites)
+* **[Ōkahu Bay](ōkahu-bay)** (two cell sites)
 * **[Ōrākei](ōrākei)** (six cell sites)
 * **[Meadowbank](meadowbank)** (two cell sites)
 * **[Mission Bay](mission-bay)** (four cell sites)
