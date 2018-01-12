@@ -21,7 +21,7 @@ title: Auckland - New Zealand - Cell Sites
   * **[Maungakiekie-Tāmaki Local Board](maungakiekie-tāmaki)** (24 cell sites)
 * East Auckland (42 cell sites)
   * **[Waiheke Local Board](waiheke)** (15 cell sites)
-  * *Ōrākei Local Board* (coming soon)
+  * **[Ōrākei Local Board](ōrākei)**
   * **[Howick Local Board](howick)** (27 cell sites)
 * South Auckland (24 cell sites)
   * **[Māngere-Ōtāhuhu Local Board](māngere-ōtāhuhu)** (six cell sites)
