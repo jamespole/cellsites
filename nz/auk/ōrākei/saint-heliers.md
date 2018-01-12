@@ -44,12 +44,12 @@ View from nearby Glover Park.
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20080902-145932.jpg)
 
 No notable changes from the previous visit. This photo has a better view of Vodafone's dish antennas. Woosh also had
-dish antennas but they are on the other side of the water tower. There is a later photo below with a better view of
-Woosh's dish antennas.
+a dish antenna but it was on the other side of the water tower. There is a later photo below with a better view of
+Woosh's dish antenna.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20080902-145502.jpg)
 
-* **Date:** 18 January 2015
+* **Date:** 18 October 2015
 * **Operators:** 2degrees, Vodafone (linking only) and Woosh
 
 What a difference now! 2degrees is here with their wide panel antennas (alongside Woosh's narrower antennas). 2degrees
@@ -58,17 +58,18 @@ have also used this site for microwave linking as well.
 **Microwave dishes from left:** Two dishes for Vodafone to PriceWaterhouseCoopers Building(?), 2degrees to Remuera Hub,
 Vodafone to St Heliers Bay, Vodafone to Glendowie (decommissioned as I presume the PWC link would have make this
 redundant?) and Woosh to [416 Remuera Road](remuera#416-remuera-road). On the other side 2degrees also has a microwave
-link Musik Point.
+link to Musick Point.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20151018-143736.jpg)
 
 * **Date:** 7 January 2016
 * **Operators:** 2degrees, Vodafone and Woosh(?)
 
-Some more changes! Vodafone has finally deployed antennas for mobile services, the first time they have done so after
-over a decade at this site. 2degrees and Woosh's antennas remain unchanged. Vodafone has finally replaced an old dish
-for the St Heliers Bay link with a new one (which would soon later be decommisioned after they relocated the cell site
-at the other end to a line-fed site).
+Only three and a half months later and more changes! Vodafone has finally deployed antennas for mobile services, the
+first time they have done so after more than a decade at this site. 2degrees and Woosh's antennas remain unchanged.
+Vodafone has replaced the dish for the St Heliers Bay link with a new one. That dish would later be decommisioned after
+they relocated the cell site at the other end to a line-fed site. The dish for the Glendowie link has gone now becasuse
+by that point the Glendowie site had been decommissioned.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20160107-173252.jpg)
 
