@@ -6,6 +6,11 @@ title: Kohimarama - Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 
 # Kohimarama
 
+* [Averill Avenue](#averill-avenue)
+* [Grampian Road](#grampian-road)
+* [Kohimarama Road](#kohimarama-road)
+* [Melanesia Road](#melanesia-road)
+
 ## Averill Avenue
 
 * **Date:** Unknown *(prior to 3 June 2004)*
@@ -33,6 +38,15 @@ title: Kohimarama - Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20040605-160643.jpg)
 
+## Kohimarama Road
+
+* **Date:** 2 September 2008
+* **Operator:** Vodafone
+
+Note colourful cabinet in foreground, which houses Vodafone's equipment.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20080902-170120.jpg)
+
 ## Melanesia Road
 
 * **Date:** 28 December 2004
@@ -55,15 +69,6 @@ Note fresh poles installed in preparation for NZ Communications gear to be insta
 Nokia 8210 showing the Cell ID details for the 2degrees cell site, approx. 1 month after their launch.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20090806-145428.jpg)
-
-## Kohimarama Road
-
-* **Date:** 2 September 2008
-* **Operator:** Vodafone
-
-Note colourful cabinet in foreground, which houses Vodafone's equipment.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20080902-170120.jpg)
 
 ---
 
