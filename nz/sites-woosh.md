@@ -6,6 +6,12 @@ title: List of Woosh sites - New Zealand - Cell Sites
 
 # List of Woosh sites
 
+* [Cell sites](#cell-sites)
+* [Microwave hub sites](#microwave-hub-sites)
+* [Link tree](#link-tree)
+
+## Cell sites
+
 This is a list of Woosh Wireless cell sites that have photos on this website.
 
 Site ID | Site Location
@@ -69,3 +75,7 @@ have a photo on this website. Names in bold are sites with more than one downstr
     * `A3XDE` Devonport Exchange
 
 `A2XME` Mount Eden was apparently line-fed.
+
+---
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
