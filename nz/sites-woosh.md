@@ -47,7 +47,11 @@ have a photo on this website. Names in bold are sites with more than one downstr
     * `A2REM` Remuera
     * `A2ORK` *Orakei*
         * `A2STJ` Saint Johns (or via A2REM)
-    * `A2PEN` *Penrose*
+    * `A2PEN` __*Penrose*__
+        * `A2OTH` *Otahuhu*
+            * `A4POE` *Papatoetoe*
+                * `A4WRI` *Wiri*
+                    * Auckland Airport
         * `A4PGA` __Pakuranga__
             * `A4BDC` Botany Downs Club
             * `A4ETH` __*East Tāmaki Heights*__
@@ -62,3 +66,4 @@ have a photo on this website. Names in bold are sites with more than one downstr
         * `A3CRH` Crown Hill
     * `A3XDE` Devonport Exchange
 
+`A2XME` Mount Eden was apparently line-fed.
