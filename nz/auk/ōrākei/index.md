@@ -9,6 +9,7 @@ title: Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 * **[Bastion Point](bastion-point)** (three cell sites)
 * **[Glen Innes](glen-innes)** (four cell sites)
 * **[Kohimarama](kohimarama)** (four cell sites)
+* **[Ōrākei](ōrākei)** (six cell sites)
 * **[Meadowbank](meadowbank)** (two cell sites)
 * **[Mission Bay](mission-bay)** (four cell sites)
 * **[Remuera](remuera)** (seven cell sites)
