@@ -9,16 +9,14 @@ title: Remuera - Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 * [Brighton Road](#brighton-road)
 * [Minto Road](#minto-road)
 * [Rangitoto Avenue](#rangitoto-avenue)
-* [Upland Road](#upland-road)
 * [305-307 Remuera Road](#305-307-remuera-road)
 * [333 Remuera Road](#333-remuera-road)
 * [416 Remuera Road](#416-remuera-road)
+* [Upland Road](#upland-road)
 
 ## Brighton Road
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20131116-140852.jpg)
-
-![](
 
 ## Minto Road
 
