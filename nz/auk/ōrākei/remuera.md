@@ -59,6 +59,10 @@ title: Remuera - Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 
 Woosh site on left building. Building on right has UHF TV relay transmitter on top.
 
+This site was a major microwave backhaul hub for Woosh. There were microwave links to [Kohimarama
+Road](saint-johns#kohimarama-road), [Owens Road](../albert-eden/epsom#owens-road) and [Waimarie
+Street](saint-heliers#waimarie-street).
+
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20050205-131235.jpg)
 
 ## Upland Road
