@@ -4,7 +4,7 @@ title: Cell Sites
 
 # Cell Sites
 
-Welcome to my collection of cell site photos. I have been taking photos of cell sites since 2005. My interest was
+Welcome to my collection of cell site photos. I have been taking photos of cell sites since 2003. My interest was
 sparked by my natural curiosity in how things work. I wanted to find out how mobile phones worked. I discovered that
 other people had their own collections of cell site photos. So I decided I would create my own.
 
@@ -18,7 +18,7 @@ not compatible with the license (i.e. commercial use) please contact me.
 
 * **[Australia](au)** (20 cell sites)
 * **[Iceland](is)** (five cell sites)
-* **[New Zealand](nz)** (208 cell sites)
+* **[New Zealand](nz)** (221 cell sites)
 * **[Turkey](tr)** (two cell sites)
 * **[United Kingdom](gb)** (two cell sites)
 * **[United States](us)** (seven cell sites)

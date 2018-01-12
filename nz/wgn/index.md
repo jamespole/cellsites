@@ -43,7 +43,7 @@ title: Wellington - New Zealand - Cell Sites
 ## Mount Victoria
 
 * **Date:** 15 May 2009
-* **Operators:** Various non-mobile operators
+* **Operators:** TeamTalk and other non-mobile operators
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/WGN/20090515-184629.jpg)
 
