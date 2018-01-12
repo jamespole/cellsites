@@ -34,6 +34,7 @@ Site ID | Site Location
 `A4URD` | [Botany Road](./auk/howick/howick#botany-road), Howick
 `A5GLE` | [Sunhill Road](./auk/henderson-massey/#sunhill-road), Glen Eden
 n/a     | [Andrew McKee Avenue](./auk/māngere-ōtāhuhu/#andrew-mckee-avenue), Auckland Airport
+n/a     | [Tagalad Road](./auk/ōrākei/mission-bay#tagalad-road), Mission Bay
 
 ## Microwave hub sites
 
@@ -53,7 +54,7 @@ have a photo on this website. Names in bold are sites with more than one downstr
     * `A2MRK` Mount Roskill
     * `A2REM` __Remuera__
         * `A2SHL` Saint Heliers
-        * `A2STJ` Saint Johns (or via A2ORK)
+        * `A2STJ` Saint Johns
     * `A2ORK` *Orakei*
     * `A2PEN` __*Penrose*__
         * `A2OTH` *Otahuhu*
@@ -74,7 +75,7 @@ have a photo on this website. Names in bold are sites with more than one downstr
         * `A3CRH` Crown Hill
     * `A3XDE` Devonport Exchange
 
-`A2XME` Mount Eden was apparently line-fed.
+Mission Bay and Mount Eden (`A2XME`) was apparently line-fed.
 
 ---
 
