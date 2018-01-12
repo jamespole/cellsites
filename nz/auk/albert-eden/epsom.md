@@ -39,9 +39,10 @@ Vodafone's cell site at [583 Manukau Road](#583-manukau-road) is out of sight to
 ## Owens Road
 
 * **Date:** 9 March 2011
-* **Operator:** Vodafone
+* **Operator:** Vodafone (backhaul only) and Woosh (backhaul only)
 
-This was a major microwave hub for Vodafone.
+This was a microwave hub for Vodafone and Woosh. Woosh had microwave links to the [416 Remuera
+Road](../ōrākei/remuera#416-remuera-road)  and other sites. Vodafone had microwave links to a good number of sites.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Albert-Eden/20110309-154422.jpg)
 
