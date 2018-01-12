@@ -35,17 +35,17 @@ This is a list of Woosh Wireless sites that were only used as link stations betw
 ## Link tree
 
 All sites shown with the assumption the least-hops path to Sky Tower was used. Names in italics are sites that do not
-have a photo on this website.
+have a photo on this website. Names in bold are sites with more than one downstream sites.
 
-* *Sky Tower*
+* __*Sky Tower*__
     * Eden House
-    * `A2MAB` Mount Albert *
+    * `A2MAB` Mount Albert
         * `A2WTV` Waterview
     * `A2MRK` Mount Roskill
     * `A2PEN` *Penrose*
-        * `A4PGA` **Pakuranga**
+        * `A4PGA` __Pakuranga__
             * `A4BDC` Botany Downs Club
-                * `A4HWK` **Howick** (or via A4ETH)
+                * `A4HWK` Howick (or via A4ETH)
             * `A4ETH` *East Tāmaki Heights*
                 * `A4URD` Union Road
             * `A4PGP` Pakuranga Plaza
