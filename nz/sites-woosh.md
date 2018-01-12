@@ -13,6 +13,7 @@ Site ID | Site Location
 `A2MAB` | [Mount Albert Road](./auk/albert-eden/mount-albert#mount-albert-road), Mount Albert
 `A2MRK` | [Dominion Road](./auk/puketāpapa/#dominion-road), Mount Roskill
 `A2REM` | [Remuera Road](./auk/ōrākei/remuera#416-remuera-road), Remuera
+`A2SHL` | [Waimarie Street](./auk/ōrākei/saint-heliers#waimarie-street), Saint Heliers
 `A2STJ` | [Kohimarama Road](./auk/ōrākei/saint-johns#kohimarama-road), Saint Johns
 `A2WTV` | [Unitec](./auk/albert-eden/unitec#building-017)
 `A2XME` | [Poronui Street](./auk/albert-eden/mount-eden), Mount Eden
@@ -44,9 +45,10 @@ have a photo on this website. Names in bold are sites with more than one downstr
     * `A2MAB` Mount Albert
         * `A2WTV` Waterview
     * `A2MRK` Mount Roskill
-    * `A2REM` Remuera
+    * `A2REM` __Remuera__
+        * `A2SHL` Saint Heliers
+        * `A2STJ` Saint Johns (or via A2ORK)
     * `A2ORK` *Orakei*
-        * `A2STJ` Saint Johns (or via A2REM)
     * `A2PEN` __*Penrose*__
         * `A2OTH` *Otahuhu*
             * `A4POE` *Papatoetoe*
