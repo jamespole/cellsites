@@ -16,6 +16,7 @@ title: Meadowbank - Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20040404-161953.jpg)
 
+* **Date:** 20 January 2012
 * **Operators:** Telecom and Vodafone
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20120120-125436.jpg)
