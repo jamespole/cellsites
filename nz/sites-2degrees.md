@@ -46,7 +46,7 @@ Site ID       | Site Location
 `AKL-007-029` | [955 New North Road](./auk/albert-eden/mount-albert#955-new-north-road), Mount Albert
 `AKL-007-036` | [Melanesia Road](./auk/ōrākei/kohimarama#melanesia-road), Kohimarama
 `AKL-007-043` | [Reihana Street](./auk/ōrākei/ōkahu-bay#36-reihana-street), Ōrākei
-`AKL-007-059` | [Ōrākei Road](#217-219-ōrākei-road), Ōrākei
+`AKL-007-059` | [Ōrākei Road](./auk/ōrākei/ōrākei-station#217-219-ōrākei-road), Ōrākei
 `AKL-007-077` | [1203 New North Road](./auk/albert-eden/mount-albert#1203-new-north-road), Mount Albert
 `AKL-007-079` | [Waimarie Street](./auk/ōrākei/saint-heliers#waimarie-street), Saint Heliers
 `AKL-007-100` | [Point Chevalier Road](./auk/albert-eden/point-chevalier#212-point-chevalier-road), Point Chevalier
