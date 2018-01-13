@@ -16,7 +16,7 @@ title: Ōrākei Station - Ōrākei Local Board - Auckland - New Zealand - Cell S
 * **Date:** 6 September 2008
 * **Operator:** Vodafone
 
-Vodafone relocated here from the [236 Ōrākei Road](#236-ōrākei-road) site.
+Vodafone relocated here from the [228 Ōrākei Road](#228-ōrākei-road) site.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20080906-102615.jpg)
 
@@ -59,7 +59,7 @@ seen.
 * **Date:** 6 September 2008
 * **Operator:** Telecom
 
-Telecom relocated here from the [236 Ōrākei Road](#236-ōrākei-road) site.
+Telecom relocated here from the [228 Ōrākei Road](#228-ōrākei-road) site.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20080906-105524.jpg)
 
