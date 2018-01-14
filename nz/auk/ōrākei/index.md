@@ -8,6 +8,7 @@ title: Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 
 * **[Ellerslie](ellerslie)** (three cell sites)
 * **[Glen Innes](glen-innes)** (four cell sites)
+* **[Glendowie](glendowie)** (four cell sites)
 * **[Kohimarama](kohimarama)** (four cell sites)
 * **[Ōrākei](ōrākei)** (six cell sites)
     * **[Bastion Point](bastion-point)** (three cell sites)
