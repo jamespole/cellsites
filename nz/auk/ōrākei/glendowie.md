@@ -47,8 +47,8 @@ site is still yet to receive 4G services despite almost every other site in Auck
 * **Operators:** Telecom and Vodafone
 
 This site was a microwave hub for Vodafone. They had microwave links to the ASB Building hub, [Averill
-Avenue](./kohimarama#averill-avenue) cell site, [Highland Park](../howick/#highland-park) cell site, [Michaels
-Avenue](../ellerslie#michaels-avenue) cell site, [250 Saint Johns Road](saint-johns#350-saint-johns-road) cell site and
+Avenue](kohimarama#averill-avenue) cell site, [Highland Park](../howick/#highland-park) cell site, [Michaels
+Avenue](ellerslie#michaels-avenue) cell site, [250 Saint Johns Road](saint-johns#350-saint-johns-road) cell site and
 [Waimarie Street](saint-heliers#waimarie-street) cell site. They also provided 2G and 3G services from here as well.
 Telecom were also present at this site with their services line-fed via the nearby Glendowie exchange.
 
