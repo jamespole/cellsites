@@ -30,10 +30,10 @@ Eagle-eyed observers will note Waimarie Street has a new operator, 2degrees.
 * **Operators:** Vodafone (backhaul only) and Woosh
 
 Woosh panel antenna on front of tower. There also two more, in a typical 120&deg; configuration. Vodafone had two dish
-antennas at the top-right. One dish pointed at the isolated St Heliers Bay cell site. The other dish pointed at their
-major microwave hub at Glendowie. Vodafone actually had no mobile services from this site and only used this site as a
-relay station for its backhaul network. It would be some time before Vodafone started using this site for more than
-just backhaul!
+antennas at the top-right. One dish pointed at the isolated [Saint Heliers Bay](saint-heliers-bay) cell site. The other
+dish pointed at their major microwave hub at Glendowie. Vodafone actually had no mobile services from this site and
+only used this site as a relay station for its backhaul network. It would be some time before Vodafone started using
+this site for more than just backhaul!
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20040108-145343.jpg)
 
@@ -56,9 +56,9 @@ What a difference now! 2degrees is here with their wide panel antennas (alongsid
 have also used this site for microwave linking as well.
 
 **Microwave dishes from left:** Two dishes for Vodafone to PriceWaterhouseCoopers Building(?), 2degrees to Remuera Hub,
-Vodafone to St Heliers Bay, Vodafone to Glendowie (decommissioned as I presume the PWC link would have make this
-redundant?) and Woosh to [416 Remuera Road](remuera#416-remuera-road). On the other side 2degrees also has a microwave
-link to Musick Point.
+Vodafone to [Saint Heliers Bay](saint-heliers-bay), Vodafone to Glendowie (decommissioned as I presume the PWC link
+would have make this redundant?) and Woosh to [416 Remuera Road](remuera#416-remuera-road). On the other side 2degrees
+also has a microwave link to Musick Point.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20151018-143736.jpg)
 
@@ -67,9 +67,9 @@ link to Musick Point.
 
 Only three and a half months later and more changes! Vodafone has finally deployed antennas for mobile services, the
 first time they have done so after more than a decade at this site. 2degrees and Woosh's antennas remain unchanged.
-Vodafone has replaced the dish for the St Heliers Bay link with a new one. That dish would later be decommisioned after
-they relocated the cell site at the other end to a line-fed site. The dish for the Glendowie link has gone now becasuse
-by that point the Glendowie site had been decommissioned.
+Vodafone has replaced the dish for the [Saint Heliers Bay](saint-heliers-bay) link with a new one. That dish would
+later be decommisioned after they relocated the cell site at the other end to a line-fed site. The dish for the
+Glendowie link has gone now becasuse by that point the Glendowie site had been decommissioned.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20160107-173252.jpg)
 
