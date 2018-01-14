@@ -17,7 +17,7 @@ title: Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 * **[Mission Bay](mission-bay)** (four cell sites)
 * **[Remuera](remuera)** (seven cell sites)
 * **[Saint Heliers](saint-heliers)** (two cell sites)
-    * **[Saint Heliers Bay](saint-heliers-bay]** (one cell site)
+    * **[Saint Heliers Bay](saint-heliers-bay)** (one cell site)
 * **[Saint Johns](saint-johns)** (three cell sites)
 
 ---
