@@ -13,7 +13,6 @@ This is a list of 2degrees sites on this website sorted by its 2degrees site ID.
     * [Manukau City](#manukau-city)(`AKL-008`)
 * [Canterbury](#canterbury) (`CAN`)
 * [Christchurch](#christchurch) (`CHC`)
-* [Wellington](#wellington) (`WLG`)
 
 ## Auckland
 
