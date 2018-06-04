@@ -13,10 +13,7 @@ This is a list of 2degrees sites on this website sorted by its 2degrees site ID.
     * [Manukau City](#manukau-city)(`AKL-008`)
 * [Canterbury](#canterbury) (`CAN`)
 * [Christchurch](#christchurch) (`CHC`)
-* [Waikato](#waikato) (`WKT`)
 * [Wellington](#wellington) (`WLG`)
-
-There is also a list of [Cells On Wells](#cells-on-wheels) (COWs) which don't have a site ID.
 
 ## Auckland
 
@@ -94,27 +91,6 @@ Site ID       | Site Location
 `CHC-060-119` | [Heathcote Valley](./can/heathcote#heathcote-valley)
 `CHC-060-146` | [Addington](./can/christchurch#addington)
 
-## Waikato
-
-### Waikato District
-
-Site ID       | Site Location
-------------- | -------------
-`WKT-013-004` | [Te Kauwhata](./wko/#te-kauwhata)
-
-### Matamata-Piako District (`WKT-015`)
-
-Site ID       | Site Location
-------------- | -------------
-`WKT-015-009` | [Te Aroha](./wko/te-aroha#lawrence-avenue)
-
-
-### Hamilton City (`WKT-016`)
-
-Site ID       | Site Location
-------------- | -------------
-`WKT-016-002` | [Dinsdale](./wko/dinsale#killarney-road)
-
 ## Wellington
 
 ### Wellington City (`WLG-047`)
@@ -123,10 +99,6 @@ Site ID       | Site Location
 ------------- | -------------
 `WLG-047-018` | [Wilton](./wgn/#wilton)
 `WLG-047-020` | [Karori](./wgn/#karori)
-
-## Cell on Wheels
-
-* [Whangamatā](./wko/whangamatā#632-port-road)
 
 ---
 
