@@ -91,15 +91,6 @@ Site ID       | Site Location
 `CHC-060-119` | [Heathcote Valley](./can/heathcote#heathcote-valley)
 `CHC-060-146` | [Addington](./can/christchurch#addington)
 
-## Wellington
-
-### Wellington City (`WLG-047`)
-
-Site ID       | Site Location
-------------- | -------------
-`WLG-047-018` | [Wilton](./wgn/#wilton)
-`WLG-047-020` | [Karori](./wgn/#karori)
-
 ---
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
