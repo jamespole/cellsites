@@ -6,9 +6,9 @@ title: Auckland - New Zealand - Cell Sites
 
 # Auckland
 
-* North Auckland (19 cell sites)
+* North Auckland (9 cell sites)
   * **[Devonport-Takapuna Local Board](devonport-takapuna)** (nine cell sites)
-* West Auckland (13 cell sites)
+* West Auckland (11 cell sites)
   * **[Waitākere Ranges Local Board](waitākere-ranges)** (five cell sites)
   * **[Henderson-Massey Local Board](henderson-massey)** (one cell site)
   * **[Whau Local Board](whau)** (five cell sites)
