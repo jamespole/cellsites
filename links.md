@@ -12,7 +12,6 @@ title: Links - Cell Sites
 
 ## Photos
 
-* [GeckoBeach](http://www.geckobeach.com/cellular/cellpixs/) — Photos from around the world.
 * [Photos](https://web.archive.org/web/20060305010340/http://home.iprimus.com.au/cridland/cellphotos.htm) — Photos from Australia.
 
 ## Databases
