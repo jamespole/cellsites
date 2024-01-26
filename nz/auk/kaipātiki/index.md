@@ -6,27 +6,11 @@ title: Kaipātiki Local Board - Auckland - New Zealand - Cell Sites
 
 # Kaipātiki Local Board
 
-* [22A Mokoia Road](#22a-mokoia-road)
-* [100 Mokoia Road](#100-mokoia-road)
 * [71 Onewa Road](#71-onewa-road)
 * [129 Onewa Road](#129-onewa-road)
 * [214 Onewa Road](#214-onewa-road)
 
 ---
-
-## 22A Mokoia Road
-
-* **Date:** 16 January 2016
-* **Operator:** [Spark]
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-172205.jpg)
-
-## 100 Mokoia Road
-
-* **Date:** 16 January 2016
-* **Operator:** [Vodafone]
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Kaip%C4%81tiki/20160116-172426.jpg)
 
 ## 71 Onewa Road
 
