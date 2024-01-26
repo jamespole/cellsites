@@ -6,10 +6,6 @@ title: Kaipātiki Local Board - Auckland - New Zealand - Cell Sites
 
 # Kaipātiki Local Board
 
-* **[Pupuke Road](pupuke-road)** (1 cell site)
-
----
-
 * [22A Mokoia Road](#22a-mokoia-road)
 * [100 Mokoia Road](#100-mokoia-road)
 * [71 Onewa Road](#71-onewa-road)
