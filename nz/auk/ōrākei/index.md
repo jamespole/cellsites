@@ -6,12 +6,6 @@ title: Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 
 # Ōrākei Local Board
 
-* **[Glen Innes](glen-innes)** (four cell sites)
-* **[Mission Bay](mission-bay)** (three cell sites)
-* **[Saint Heliers](saint-heliers)** (two cell sites)
-
----
-
 ## Ellerslie
 
 * **Date:** Unknown *(prior to 18 March 2012)*
