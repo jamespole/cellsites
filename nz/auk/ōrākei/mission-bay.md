@@ -9,17 +9,8 @@ title: Mission Bay - Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 * [Marau Crescent](#marau-crescent)
 * [Tagalad Road](#tagalad-road)
 * [61-63 Tamaki Road](#61-63-tamaki-road)
-* [71 Tamaki Road](#71-tamaki-road)
 
 ## Marau Crescent
-
-* **Date:** 28 December 2004
-* **Operator:** Telecom
-
-**From left:** [Tagalad Road](#tagalad-road) cell site on apartment building. Omni-directional antennas on top of
-light poles for this cell site.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20041228-114829.jpg)
 
 * **Date:** 7 May 2010
 
@@ -81,13 +72,6 @@ The other side of the building still has the same original antenna. There is als
 the 2degrees network I'd think!
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20151027-145416.jpg)
-
-## 71 Tamaki Road
-
-* **Date:** 19 October 2004
-* **Operator:** Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20041019-154722.jpg)
 
 ---
 
