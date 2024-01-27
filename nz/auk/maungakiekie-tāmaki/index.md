@@ -6,10 +6,6 @@ title: Maungakiekie-Tāmaki Local Board - Auckland - New Zealand - Cell Sites
 
 # Maungakiekie-Tāmaki Local Board
 
-* **[Penrose](penrose)** (seven cell sites)
-
----
-
 * [Great South Road](#great-south-road)
 * [Manukau Road](#manukau-road)
 * [Queens Road](#queens-road)
