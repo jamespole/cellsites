@@ -10,7 +10,6 @@ title: Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 * **[Glen Innes](glen-innes)** (four cell sites)
 * **[Kohimarama](kohimarama)** (three cell sites)
 * **[Ōrākei](ōrākei)** (two cell sites)
-    * **[Bastion Point](bastion-point)** (two cell sites)
     * **[Ōkahu Bay](ōkahu-bay)** (two cell sites)
     * **[Ōrākei Station](ōrākei-station)** (one cell site)
 * **[Meadowbank](meadowbank)** (one cell site)
@@ -20,6 +19,19 @@ title: Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 * **[Saint Johns](saint-johns)** (three cell sites)
 
 ---
+
+## Bastion Point
+
+* **Date:** Unknown *(prior to 28 December 2004)*
+* **Operator:** Telecom and Vodafone
+
+**From left:** Telecom antennas on Orange building and Vodafone antennas on light pole.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20171119-124252.jpg)
+
+Telecom's antennas.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20171119-124253.jpg)
 
 ## Glendowie
 
