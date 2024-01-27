@@ -22,23 +22,6 @@ The first sign of change coming was the addition of panel antennas.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20171118-194022.jpg)
 
-* **Date:** 5 July 2004
-
-I beleive by this point the cell site had gone live on the new set of antennas for both 2G and 3G services.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20040705-121514.jpg)
-
-View from within the Saint Heliers Shopping Village on Saint Heliers Bay Road. Most photos on this page were taken from
-Turua Street.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20040705-121922.jpg)
-
-View of an onmi-directional antenna which had been relocated to make place for the installation of the panel antennas.
-This was a tempoary arrangement until services went live on the new set of antennas and the omni-directional antennas
-were no longer needed.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20040705-122009.jpg)
-
 * **Date:** 7 January 2016
 
 Picture from the last days of Vodafone's presence at this site. Note the new microwave dish as the old one would have
