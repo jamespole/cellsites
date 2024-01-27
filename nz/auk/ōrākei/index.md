@@ -19,19 +19,6 @@ Vodafone antennas on light pole.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20171119-124253d.jpg)
 
-## Glendowie
-
-* **Date:** 28 August 2005
-* **Operators:** Telecom and Vodafone
-
-This site was a microwave hub for Vodafone. They had microwave links to the ASB Building hub, [Averill
-Avenue](kohimarama#averill-avenue) cell site, [Highland Park](../howick/#highland-park) cell site, [Michaels
-Avenue](ellerslie#michaels-avenue) cell site, [250 Saint Johns Road](saint-johns#350-saint-johns-road) cell site and
-[Waimarie Street](saint-heliers#waimarie-street) cell site. They also provided 2G and 3G services from here as well.
-Telecom were also present at this site with their services line-fed via the nearby Glendowie exchange.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20050828-155221.jpg)
-
 ## Saint Heliers Bay
 
 * **Date:** Unknown *(prior to 5 July 2004)*
