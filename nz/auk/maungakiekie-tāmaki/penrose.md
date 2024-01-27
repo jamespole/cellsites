@@ -15,13 +15,6 @@ title: Penrose - Maungakiekie-Tāmaki Local Board - Auckland - New Zealand - Cel
 
 ## Church Street
 
-* **Date:** Unknown
-* **Operator:** Telecom
-
-An unusual feature of this site is an additinal panel antenna pointing in one direction.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20171118-200026.jpg)
-
 * **Date:** 24 March 2012
 * **Operator:** Telecom
 
