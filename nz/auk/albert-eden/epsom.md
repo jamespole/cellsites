@@ -6,22 +6,6 @@ title: Epsom - Albert-Eden Local Board - Auckland - New Zealand - Cell Sites
 
 # Epsom
 
-* [594-598 Manukau Road](#594-598-manukau-road)
-* [Owens Road](#owens-road)
-
-## 594-598 Manukau Road
-
-* **Date:** Unknown
-* **Operator:** Telecom
-
-Vodafone's cell site at [583 Manukau Road](#583-manukau-road) is out of sight to the right.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Albert-Eden/20171118-192418.jpg)
-
-Vodafone's cell site at [583 Manukau Road](#583-manukau-road) is out of sight to the left.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Albert-Eden/20171118-192423.jpg)
-
 ## Owens Road
 
 * **Date:** 9 March 2011
