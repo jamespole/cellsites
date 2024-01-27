@@ -6,7 +6,6 @@ title: Maungakiekie-Tāmaki Local Board - Auckland - New Zealand - Cell Sites
 
 # Maungakiekie-Tāmaki Local Board
 
-* **[Onehunga](onehunga)** (six cell sites)
 * **[Penrose](penrose)** (seven cell sites)
 
 ---
