@@ -8,7 +8,6 @@ title: East Tāmaki - Howick Local Board - Auckland - New Zealand - Cell Sites
 
 * [Ron Driver Place](#ron-driver-place)
 * [Harris Road](#harris-road)
-* [East Tāmaki Road](#east-tāmaki-road)
 
 ## Ron Driver Place
 
@@ -23,13 +22,6 @@ title: East Tāmaki - Howick Local Board - Auckland - New Zealand - Cell Sites
 * **Operator:** Vodafone
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-155414.jpg)
-
-## East Tāmaki Road
-
-* **Date:** 23 July 2005
-* **Operator:** Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20050723-151926.jpg)
 
 ---
 
