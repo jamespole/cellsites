@@ -42,16 +42,6 @@ a licence to operate a microwave link but cancelled soon after so that must have
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20050828-134152.jpg)
 
-* **Date:** 13 July 2009
-* **Operator:** NZ Communications, Vodafone and Woosh
-
-Note addition of NZ Communications antennas. They took up corners on the other side of the builing (away from the
-road). Note also addition of dish antenna pointing at [61-63 Tamaki Road](#61-63-tamaki-road). Neither ends have other
-dish antennas pointing elsewhere so it seems one end is line-fed—most likely this site as Vodafone is also line fed
-here.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20090713-174004.jpg)
-
 ## 61-63 Tamaki Road
 
 * **Date:** 27 October 2015
