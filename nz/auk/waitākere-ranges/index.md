@@ -6,20 +6,10 @@ title: Waitākere Ranges Local Board - Auckland - New Zealand - Cell Sites
 
 # Waitākere Ranges Local Board
 
-* [Clayburn Road](#clayburn-road)
 * [Glendale Road](#glendale-road)
 * [Mcentee Road](#mcentee-road)
 * [Piha Road](#piha-road)
 * [Waikumete Road](#waikumete-road)
-
-## Clayburn Road
-
-* **Date:** 5 October 2014
-* **Operator:** Spark
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Wait%C4%81kere+Ranges/20141005-171902.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Wait%C4%81kere+Ranges/20141005-172038.jpg)
 
 ## Glendale Road
 
@@ -58,10 +48,6 @@ Note the grey Telecom terminal post showing this site is line-fed rather than mi
 * **Operator:** 2degrees
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Wait%C4%81kere+Ranges/20100622-142137.jpg)
-
-* **Date:** 6 October 2014
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Wait%C4%81kere+Ranges/20141006-172100.jpg)
 
 ---
 
