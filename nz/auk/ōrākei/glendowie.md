@@ -6,19 +6,8 @@ title: Glendowie - Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 
 # Glendowie
 
-* [15 Maskell Street](#15-maskell-street)
 * [182-184 Saint Heliers Bay Road](#182-184-saint-heliers-bay-road)
 * [208A Saint Heliers Bay Road](#208a-saint-heliers-bay-road)
-
-## 15 Maskell Street
-
-* **Date:** 2 September 2008
-* **Operator:** NZ Communications
-
-One of a few handful of sites I managed to photograph before the official launch of the network. Interestingly, this
-site is still yet to receive 4G services despite almost every other site in Auckland having had this uprade.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20080902-153827.jpg)
 
 ## 182-184 Saint Heliers Bay Road
 
@@ -32,12 +21,6 @@ Avenue](ellerslie#michaels-avenue) cell site, [250 Saint Johns Road](saint-johns
 Telecom were also present at this site with their services line-fed via the nearby Glendowie exchange.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20050828-155221.jpg)
-
-* **Date:** 2 September 2008
-
-New panels for Telecom. They had two panels stacked vertically while Vodafone just had the one panel for each sector.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20080902-155025.jpg)
 
 ## 208A Saint Heliers Bay Road
 
