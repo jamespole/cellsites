@@ -6,17 +6,8 @@ title: Penrose - Maungakiekie-Tāmaki Local Board - Auckland - New Zealand - Cel
 
 # Penrose
 
-* [Church Street](#church-street)
 * [19 Station Road](#19-station-road)
 * [31 Station Road](#31-station-road)
-* [Walls Road](#walls-road)
-
-## Church Street
-
-* **Date:** 24 March 2012
-* **Operator:** Telecom
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20120324-171034.jpg)
 
 ## 19 Station Road
 
@@ -40,13 +31,6 @@ A new tower was built next door at [31 Station Road](#31-station-road) and servi
 Services at this tower were relocated from the [19 Station Road](#19-station-road) tower.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20151004-112807.jpg)
-
-## Walls Road
-
-* **Date:** 24 March 2012
-* **Operator:** Telecom
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20120324-165007.jpg)
 
 ---
 
