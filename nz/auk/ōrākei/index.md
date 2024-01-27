@@ -7,10 +7,6 @@ title: Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 # Ōrākei Local Board
 
 * **[Glen Innes](glen-innes)** (four cell sites)
-* **[Ōrākei](ōrākei)** (two cell sites)
-    * **[Ōkahu Bay](ōkahu-bay)** (two cell sites)
-    * **[Ōrākei Station](ōrākei-station)** (one cell site)
-* **[Meadowbank](meadowbank)** (one cell site)
 * **[Mission Bay](mission-bay)** (three cell sites)
 * **[Saint Heliers](saint-heliers)** (two cell sites)
 
