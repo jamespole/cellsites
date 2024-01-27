@@ -20,17 +20,6 @@ at night!
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20100507-111340.jpg)
 
-## Tagalad Road
-
-* **Date:** 28 August 2005
-* **Operator:** Vodafone and Woosh
-
-Note addition of Woosh antenna in centre. Note also the mounting bracket for a microwave dish. Interestingly, this was
-never used, making this site one of two line-fed Woosh sites that I know of. Woosh did go to the effort to register for
-a licence to operate a microwave link but cancelled soon after so that must have been the original plan.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20050828-134152.jpg)
-
 ## 61-63 Tamaki Road
 
 * **Date:** 27 October 2015
