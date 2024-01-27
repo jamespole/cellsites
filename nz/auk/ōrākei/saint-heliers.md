@@ -6,24 +6,6 @@ title: Saint Heliers - Ōrākei Local Board - Auckland - New Zealand - Cell Site
 
 # Saint Heliers
 
-* [Riddell Road](#riddell-road)
-* [Waimarie Street](#waimarie-street)
-
-## Riddell Road
-
-* **Date:** 14 January 2012
-* **Operator:** Telecom
-
-**From left:** Antennas on top of light pole and equipment cabinet the right of the NZ Post delivery point.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20120114-202414.jpg)
-
-View of [Waimarie Street](#waimarie-street) cell site. Telecom did not co-locate with other operators there. Telecom's
-cell site benefits from natural shielding to the West. This limits the service area of this cell site to the East.
-Eagle-eyed observers will note Waimarie Street has a new operator, 2degrees.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20120114-202429.jpg)
-
 ## Waimarie Street
 
 * **Date:** 8 January 2004
