@@ -22,11 +22,6 @@ at night!
 
 ## Tagalad Road
 
-* **Date:** 1 December 2003
-* **Operator:** Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20031201-122709.jpg)
-
 * **Date:** Unknown *(between 1 December 2003 and 28 August 2005)*
 
 Note 900 MHz antennas for 2G on right have been replaced with new 2100 MHz antennas for 3G.
