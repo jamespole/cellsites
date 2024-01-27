@@ -16,10 +16,18 @@ title: Ōrākei Local Board - Auckland - New Zealand - Cell Sites
     * **[Ōrākei Station](ōrākei-station)** (one cell site)
 * **[Meadowbank](meadowbank)** (one cell site)
 * **[Mission Bay](mission-bay)** (three cell sites)
-* **[Remuera](remuera)** (three cell sites)
 * **[Saint Heliers](saint-heliers)** (two cell sites)
     * **[Saint Heliers Bay](saint-heliers-bay)** (one cell site)
 * **[Saint Johns](saint-johns)** (three cell sites)
+
+--
+
+## Remuera
+
+* **Date:** Unknown (on or prior to 22 February 2004)
+* **Operator:** Telecom
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20171119-124251a.jpg)
 
 ---
 
