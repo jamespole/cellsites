@@ -16,12 +16,6 @@ Road](../kaipātiki/pupuke-road#woosh-wireless).
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Henderson-Massey/20171118-195050.jpg)
 
-**From left:** Microwave link to another Woosh wite in Henderson, Woosh antenna and an antenna for an unknown operator.
-Note how Woosh went to the effort to have their antennas blend in. Yet another operator installed antennas that stick
-out like a sore thumb!
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Henderson-Massey/20171118-195052.jpg)
-
 ---
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
