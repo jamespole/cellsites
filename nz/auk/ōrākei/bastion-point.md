@@ -22,13 +22,6 @@ Telecom's antennas.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20171119-124253.jpg)
 
-* **Date:** 1 July 2009
-* **Operator:** Telecom
-
-Telecom antennas.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20090701-162815.jpg)
-
 ## 30 Tāmaki Drive
 
 * **Date:** 1 December 2003
