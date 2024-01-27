@@ -7,20 +7,12 @@ Wellington
 
 # Mount Wellington
 
-* [Donnor Place](#donnor-place)
 * [Gavin Street](#gavin-street)
 * [Great South Road](#great-south-road)
 * [Harrison Road](#harrison-road)
 * [137 Marua Road](#137-marua-road)
 * [174 Marua Road](#174-marua-road)
 * [228-230 Marua Road](#228-230-marua-road)
-
-## Donnor Place
-
-* **Date:** Unknown
-* **Operator:** Telecom
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20171118-195433.jpg)
 
 ## Gavin Street
 
