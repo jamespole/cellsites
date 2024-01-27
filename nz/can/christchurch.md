@@ -6,16 +6,6 @@ title: Christchurch - Canterbury - New Zealand - Cell Sites
 
 # Christchurch
 
-* [Ferry Road](#ferry-road)
-* [Sugarloaf](#sugarloaf)
-
-## Ferry Road
-
-* **Date:** 2 January 2015
-* **Operator:** [2degrees]
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-175554.jpg)
-
 ## Sugarloaf
 
 * **Date:** 30 December 2014
@@ -25,7 +15,6 @@ title: Christchurch - Canterbury - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20141230-210622.jpg)
 
-[2degrees]: https://en.wikipedia.org/wiki/2degrees
 [Vodafone]: https://en.wikipedia.org/wiki/Vodafone_New_Zealand
 
 ---
