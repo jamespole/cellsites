@@ -35,13 +35,6 @@ Note fresh poles installed in preparation for NZ Communications gear to be insta
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20071231-202701.jpg)
 
-* **Date:** 6 September 2009
-* **Operator:** 2degrees
-
-Nokia 8210 showing the Cell ID details for the 2degrees cell site, approx. 1 month after their launch.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20090806-145428.jpg)
-
 ---
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
