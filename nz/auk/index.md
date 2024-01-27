@@ -6,8 +6,8 @@ title: Auckland - New Zealand - Cell Sites
 
 # Auckland
 
-* West Auckland (11 cell sites)
-  * **[Waitākere Ranges Local Board](waitākere-ranges)** (five cell sites)
+* West Auckland (ten cell sites)
+  * **[Waitākere Ranges Local Board](waitākere-ranges)** (four cell sites)
   * **[Henderson-Massey Local Board](henderson-massey)** (one cell site)
   * **[Whau Local Board](whau)** (five cell sites)
 * Central Auckland (59 cell sites)
@@ -18,10 +18,10 @@ title: Auckland - New Zealand - Cell Sites
   * **[Waiheke Local Board](waiheke)** (15 cell sites)
   * **[Ōrākei Local Board](ōrākei)** (49 cell sites)
   * **[Howick Local Board](howick)** (27 cell sites)
-* South Auckland (24 cell sites)
-  * **[Māngere-Ōtāhuhu Local Board](māngere-ōtāhuhu)** (six cell sites)
+* South Auckland (19 cell sites)
+  * **[Māngere-Ōtāhuhu Local Board](māngere-ōtāhuhu)** (three cell sites)
   * **[Ōtara-Papatoetoe Local Board](ōtara-papatoetoe)** (13 cell sites)
-  * **[Papakura Local Board](papakura)** (five cell sites)
+  * **[Papakura Local Board](papakura)** (three cell sites)
 
 ---
 
