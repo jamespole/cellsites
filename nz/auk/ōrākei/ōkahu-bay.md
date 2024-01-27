@@ -18,21 +18,6 @@ Three onmi-directional antennas.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20080825-142820.jpg)
 
-* **Date:** 1 July 2009
-* **Operators:** NZ Communications and Telecom
-
-**From left:** Telecom omni-directional antenna (CDMA 800 MHz), NZ Communications panel antenna (GSM 900 MHz), Telecom
-omni-directional (CDMA 800 MHz) and panel (UMTS 850 MHz) antennas, Telecom omni-directional (CDMA 800 MHz) and panel
-(UMTS 2100 MHz) antennas, NZ Communications panel antenna (GSM 900 MHz), Telecom panel antenna (UMTS 850 MHz) and
-Telecom panel antennas (UMTS 2100 MHz). Telecom has one more panel antenna for UMTS 850 MHz at the back of the
-building.
-
-Interesting to note that both NZ Communications and Vodafone make do with two sectors (generally due west and due
-south) for their panel antennas. However Telecom had a third sector pointing directly into the cliff behind the
-building.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20090701-164435.jpg)
-
 * **Date:** 27 January 2010
 * **Operators:** Telecom and 2degrees
 
