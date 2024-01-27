@@ -6,9 +6,6 @@ title: Penrose - Maungakiekie-Tāmaki Local Board - Auckland - New Zealand - Cel
 
 # Penrose
 
-* [19 Station Road](#19-station-road)
-* [31 Station Road](#31-station-road)
-
 ## 19 Station Road
 
 * **Date:** Unknown
