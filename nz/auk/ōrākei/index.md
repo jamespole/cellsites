@@ -8,7 +8,6 @@ title: Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 
 * **[Ellerslie](ellerslie)** (one cell site)
 * **[Glen Innes](glen-innes)** (four cell sites)
-* **[Glendowie](glendowie)** (three cell sites)
 * **[Kohimarama](kohimarama)** (three cell sites)
 * **[Ōrākei](ōrākei)** (two cell sites)
     * **[Bastion Point](bastion-point)** (two cell sites)
@@ -21,6 +20,19 @@ title: Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 * **[Saint Johns](saint-johns)** (three cell sites)
 
 --
+
+## Glendowie
+
+* **Date:** 28 August 2005
+* **Operators:** Telecom and Vodafone
+
+This site was a microwave hub for Vodafone. They had microwave links to the ASB Building hub, [Averill
+Avenue](kohimarama#averill-avenue) cell site, [Highland Park](../howick/#highland-park) cell site, [Michaels
+Avenue](ellerslie#michaels-avenue) cell site, [250 Saint Johns Road](saint-johns#350-saint-johns-road) cell site and
+[Waimarie Street](saint-heliers#waimarie-street) cell site. They also provided 2G and 3G services from here as well.
+Telecom were also present at this site with their services line-fed via the nearby Glendowie exchange.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20050828-155221.jpg)
 
 ## Remuera
 
