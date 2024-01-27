@@ -7,7 +7,6 @@ title: Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 # Ōrākei Local Board
 
 * **[Glen Innes](glen-innes)** (four cell sites)
-* **[Kohimarama](kohimarama)** (three cell sites)
 * **[Ōrākei](ōrākei)** (two cell sites)
     * **[Ōkahu Bay](ōkahu-bay)** (two cell sites)
     * **[Ōrākei Station](ōrākei-station)** (one cell site)
@@ -56,6 +55,13 @@ Avenue](ellerslie#michaels-avenue) cell site, [250 Saint Johns Road](saint-johns
 Telecom were also present at this site with their services line-fed via the nearby Glendowie exchange.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20050828-155221.jpg)
+
+## Kohimarama
+
+* **Date:** Unknown *(prior to 3 June 2004)*
+* **Operator:** Vodafone
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20171119-124251.jpg)
 
 ## Remuera
 
