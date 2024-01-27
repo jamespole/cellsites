@@ -6,20 +6,6 @@ title: Papakura Local Board - Auckland - New Zealand - Cell Sites
 
 # Papakura Local Board
 
-Panoramic view of cell sites in the Papakura town centre. From left: [2degrees, Vodafone](#great-south-road) and
-[Telecom](#oshannessey-street). *(9 March 2009)*
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Papakura/20090309-141737.jpg)
-
-View of cell sites in the Papakura town centre. From left: [Telecom](#oshannessey-street), [Vodafone and
-2degrees](#great-south-road). *(9 March 2009)*
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Papakura/20090309-142757.jpg)
-
-* [Dumas Place](#dumas-place)
-* [Great South Road](#great-south-road)
-* [O'Shannessey Street](#oshannessey-street)
-
 ## Dumas Place
 
 * **Date:** 11 February 2017
@@ -32,19 +18,6 @@ View of cell sites in the Papakura town centre. From left: [Telecom](#oshannesse
 **From left:** 2degrees and Spark.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Papakura/20170211-161644.jpg)
-
-## Great South Road
-
-* **Date:** 9 March 2009
-* **Operator:** 2degrees and Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Papakura/20090309-142430.jpg)
-
-## O'Shannessey Street
-
-* **Date:** 9 March 2009
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Papakura/20090309-142603.jpg)
 
 ---
 
