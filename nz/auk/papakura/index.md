@@ -19,8 +19,6 @@ View of cell sites in the Papakura town centre. From left: [Telecom](#oshannesse
 * [Dumas Place](#dumas-place)
 * [Great South Road](#great-south-road)
 * [O'Shannessey Street](#oshannessey-street)
-* [1 Spartan Road](#1-spartan-road)
-* [101 Spartan Road](#101-spartan-road)
 
 ## Dumas Place
 
@@ -37,11 +35,6 @@ View of cell sites in the Papakura town centre. From left: [Telecom](#oshannesse
 
 ## Great South Road
 
-* **Date:** 30 June 2005
-* **Operator:** Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Papakura/20050630-121332.jpg)
-
 * **Date:** 9 March 2009
 * **Operator:** 2degrees and Vodafone
 
@@ -49,30 +42,9 @@ View of cell sites in the Papakura town centre. From left: [Telecom](#oshannesse
 
 ## O'Shannessey Street
 
-* **Date:** 30 June 2005
-* **Operator:** Telecom
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Papakura/20050630-121648.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Papakura/20050630-122031.jpg)
-
 * **Date:** 9 March 2009
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Papakura/20090309-142603.jpg)
-
-## 1 Spartan Road
-
-* **Date:** 30 June 2005
-* **Operator:** Telecom
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Papakura/20050630-140336.jpg)
-
-## 101 Spartan Road
-
-* **Date:** 30 June 2005
-* **Operator:** Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Papakura/20050630-135120.jpg)
 
 ---
 
