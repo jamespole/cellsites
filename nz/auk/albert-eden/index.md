@@ -10,12 +10,6 @@ title: Albert-Eden Local Board - Auckland - New Zealand - Cell Sites
 
 ---
 
-* [New Bond Street](#new-bond-street)
-* [New North Road](#new-north-road)
-* [515-519 Sandringham Road](#515-519-sandringham-road)
-* [570-576 Sandringham Road](#570-576-sandringham-road)
-* [Western Springs Road](#western-springs-road)
-
 ## New Bond Street
 
 * **Date:** 3 July 2009
@@ -54,36 +48,6 @@ View looking West along State Highway 16. Not long after the 2009 photos, NZ Com
 for their microwave links to the Arch Hill (right-most dish antenna) and Dominion Road (left) cell sites.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Albert-Eden/20151204-122053.jpg)
-
-## New North Road
-
-* **Date:** 23 February 2011
-* **Operator:** Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Albert-Eden/20110223-175245.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Albert-Eden/20110223-174821.jpg)
-
-## 515-519 Sandringham Road
-
-* **Date:** 3 April 2011
-* **Operator:** 2degrees
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Albert-Eden/20110403-151625.jpg)
-
-## 570-576 Sandringham Road
-
-* **Date:** 3 April 2011
-* **Operators:** Telecom and Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Albert-Eden/20110403-151534.jpg)
-
-## Western Springs Road
-
-* **Date:** 23 February 2011
-* **Operator:** 2degrees
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Albert-Eden/20110223-174952.jpg)
 
 ---
 
