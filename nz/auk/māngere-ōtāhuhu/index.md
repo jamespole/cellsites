@@ -6,30 +6,8 @@ title: Māngere-Ōtāhuhu Local Board - Auckland - New Zealand - Cell Sites
 
 # Māngere-Ōtāhuhu Local Board
 
-* [Andrew McKee Avenue](#andrew-mckee-avenue)
 * [Shortt Avenue](#shortt-avenue)
 * [Taylor Road](#taylor-road)
-
-## Andrew McKee Avenue
-
-* **Date:** 15 May 2010
-* **Operators:** Telecom, 2degrees and Woosh
-
-**From top:** Woosh antenna, Woosh microwave link and 2degrees antenna.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/M%C4%81ngere-%C5%8Ct%C4%81huhu/20100515-145806.jpg)
-
-Woosh antenna[?].
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/M%C4%81ngere-%C5%8Ct%C4%81huhu/20100515-150028.jpg)
-
-Telecom antennas.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/M%C4%81ngere-%C5%8Ct%C4%81huhu/20100515-150914.jpg)
-
-2degrees antenna.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/M%C4%81ngere-%C5%8Ct%C4%81huhu/20100515-151153.jpg)
 
 ## Shortt Avenue
 
