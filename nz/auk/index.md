@@ -6,13 +6,10 @@ title: Auckland - New Zealand - Cell Sites
 
 # Auckland
 
-* West Auckland (one cell sites)
-  * **[Waitākere Ranges Local Board](waitākere-ranges)** (one cell site)
-* Central Auckland (many cell sites)
-  * **[Albert-Eden Local Board](albert-eden)** (27 cell sites)
-  * **[Maungakiekie-Tāmaki Local Board](maungakiekie-tāmaki)** (24 cell sites)
-* East Auckland (three cell sites)
-  * **[Ōrākei Local Board](ōrākei)** (three cell sites)
+* **[Albert-Eden Local Board](albert-eden)** (27 cell sites)
+* **[Maungakiekie-Tāmaki Local Board](maungakiekie-tāmaki)** (24 cell sites)
+* **[Ōrākei Local Board](ōrākei)** (two cell sites)
+* **[Waitākere Ranges Local Board](waitākere-ranges)** (one cell site)
 
 ---
 
