@@ -10,40 +10,9 @@ title: Ōtara-Papatoetoe Local Board - Auckland - New Zealand - Cell Sites
 
 ---
 
-* [Franklin Avenue](#franklin-avenue)
-* [Grayson Avenue](#grayson-avenue)
-* [316 Puhinui Road](#316-puhinui-road)
 * [454 Puhinui Road](#454-puhinui-road)
 * [485 Puhinui Road](#485-puhinui-road)
 * [555 Puhinui Road](#555-puhinui-road)
-
-## Franklin Avenue
-
-* **Date:** 30 September 2013
-* **Operator:** 2degrees
-
-This cell site had a microwave link to the Bairds Road cell site. The equipment cabinet can be seen on the left.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20130930-120441.jpg)
-
-## Grayson Avenue
-
-* **Date:** 22 September 2013
-* **Operator:** 2degrees
-
-This cell site had a microwave link to the [316 Puhinui Road](#316-puhinui-road) cell site.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20130922-125014.jpg)
-
-## 316 Puhinui Road
-
-* **Date:** 22 September 2013
-* **Operators:** Spark, 2degrees and Vodafone
-
-Vodafone in foreground. Spark in middle, 2degrees in far distance to the left. 2degrees had microwave links to the
-[Amersham Way](./manukau#amersham-way) and [Grayson Avenue](#grayson-avenue) cell sites.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20130922-122544.jpg)
 
 ## 454 Puhinui Road
 
