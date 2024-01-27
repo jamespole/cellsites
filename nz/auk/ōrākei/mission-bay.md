@@ -6,19 +6,6 @@ title: Mission Bay - Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 
 # Mission Bay
 
-* [Marau Crescent](#marau-crescent)
-* [61-63 Tamaki Road](#61-63-tamaki-road)
-
-## Marau Crescent
-
-* **Date:** 7 May 2010
-
-Tempoary cell site being used while the cell site was converted from onmi-directional antennas to panel antennas. Note
-how they even moved the the foodlights onto the tempoary structure to make sure the tennis club could continue to play
-at night!
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20100507-111340.jpg)
-
 ## 61-63 Tamaki Road
 
 * **Date:** 27 October 2015
