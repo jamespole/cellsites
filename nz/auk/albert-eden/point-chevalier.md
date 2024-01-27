@@ -6,18 +6,10 @@ title: Point Chevalier - Albert-Eden Local Board - Auckland - New Zealand - Cell
 
 # Point Chevalier
 
-* [Alberta Street](#alberta-street)
 * [Great North Road](#great-north-road)
 * [212 Point Chevalier Road](#212-point-chevalier-road)
 * [320 Point Chevalier Road](#320-point-chevalier-road)
 * [Target Street](#target-street)
-
-## Alberta Street
-
-* **Date:** Unknown
-* **Operator:** Telecom
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Albert-Eden/20171114-130312.jpg)
 
 ## Great North Road
 
