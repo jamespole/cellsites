@@ -11,13 +11,6 @@ title: Ōkahu Bay - Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 
 ## 36 Reihana Street
 
-* **Date:** 25 August 2008
-* **Operator:** Telecom
-
-Three onmi-directional antennas.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20080825-142820.jpg)
-
 * **Date:** 27 January 2010
 * **Operators:** Telecom and 2degrees
 
@@ -42,16 +35,6 @@ Vodafone equipment cabinets. The one on the right is the older type, proably use
 the one on the left is newer and probably used to support UMTS 2100 Mhz services.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20050828-142848.jpg)
-
-* **Date:** 25 August 2008
-
-Note new microwave dish for higher capacity backhaul link.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20080825-143133.jpg)
-
-Around this time a major sewer upgrade project started which would later see this cell site relocated.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20080825-143319.jpg)
 
 * **Date:** 27 December 2010
 
