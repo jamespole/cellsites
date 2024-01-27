@@ -18,12 +18,6 @@ title: Glen Innes - Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20040605-164502.jpg)
 
-* **Date:** 20 January 2012
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20120120-135545.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20120120-135651.jpg)
-
 ## 105 Felton Mathew Avenue
 
 * **Date:** Unknown
