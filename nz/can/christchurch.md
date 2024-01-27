@@ -8,12 +8,8 @@ title: Christchurch - Canterbury - New Zealand - Cell Sites
 
 * [Addington](#addington)
 * [Ferry Road](#ferry-road)
-* [Halswell](#halswell)
-* [Iversen Terrace](#iversen-terrace)
-* [Middleton](#middleton)
 * [Sockburn](#sockburn)
 * [Sugarloaf](#sugarloaf)
-* [Upper Riccarton](#upper-riccarton)
 * [Woolston](#woolston)
 
 ## Addington
@@ -30,29 +26,6 @@ title: Christchurch - Canterbury - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-175554.jpg)
 
-## Halswell
-
-* **Date:** 1 January 2015
-* **Operator:** [Spark]
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-164213.jpg)
-
-## Iversen Terrace
-
-* **Date:** 1 January 2015
-* **Operator:** [Spark]
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-162534.jpg)
-
-## Middleton
-
-* **Date:** 1 January 2015
-* **Operator:** [2degrees] and [Vodafone]
-
-[2degrees] cell site in foreground left and [Vodafone] cell site in background right.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-163651.jpg)
-
 ## Sockburn
 
 * **Date:** 2 January 2015
@@ -68,13 +41,6 @@ title: Christchurch - Canterbury - New Zealand - Cell Sites
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20141230-212934.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20141230-210622.jpg)
-
-## Upper Riccarton
-
-* **Date:** 1 January 2015
-* **Operator:** [Spark]
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150101-163841.jpg)
 
 ## Woolston
 
