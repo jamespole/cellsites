@@ -48,13 +48,6 @@ NZ Comms on left and Woosh on right.
 
 ## 7 Vincent Street
 
-* **Date:** 6 August 2005
-* **Operator:** Vodafone
-
-Vodafone site in foreground. In the distance the Woosh cell site at [Botany Road](#botany-road) can be seen.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20050806-134813.jpg)
-
 * **Date:** 28 April 2009
 * **Operator:** Vodafone
 
