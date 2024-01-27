@@ -7,7 +7,6 @@ title: Kohimarama - Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 # Kohimarama
 
 * [Averill Avenue](#averill-avenue)
-* [Kohimarama Road](#kohimarama-road)
 * [Melanesia Road](#melanesia-road)
 
 ## Averill Avenue
@@ -16,15 +15,6 @@ title: Kohimarama - Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 * **Operator:** Vodafone
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20171119-124251.jpg)
-
-## Kohimarama Road
-
-* **Date:** 2 September 2008
-* **Operator:** Vodafone
-
-Note colourful cabinet in foreground, which houses Vodafone's equipment.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20080902-170120.jpg)
 
 ## Melanesia Road
 
