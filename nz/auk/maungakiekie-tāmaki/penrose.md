@@ -7,8 +7,6 @@ title: Penrose - Maungakiekie-Tāmaki Local Board - Auckland - New Zealand - Cel
 # Penrose
 
 * [Church Street](#church-street)
-* [3 Sims Road](#3-sims-road)
-* [9-13 Sims Road](#9-13-sims-road)
 * [19 Station Road](#19-station-road)
 * [31 Station Road](#31-station-road)
 * [Walls Road](#walls-road)
@@ -19,26 +17,6 @@ title: Penrose - Maungakiekie-Tāmaki Local Board - Auckland - New Zealand - Cel
 * **Operator:** Telecom
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20120324-171034.jpg)
-
-## 3 Sims Road
-
-* **Date:** 21 December 2016
-* **Operator:** 2degrees
-
-Spark's cell site at [2 Sims Road](#2-sims-road) can be seen in the distance.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20161221-143353.jpg)
-
-## 9-13 Sims Road
-
-* **Date:** 21 December 2016
-* **Operator:** Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20161221-143520.jpg)
-
-**From left:** 2degrees cell site at [3 Sims Road](#3-sims-road) and this Vodafone cell site.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20161221-143506.jpg)
 
 ## 19 Station Road
 
