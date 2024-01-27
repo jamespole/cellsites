@@ -7,7 +7,6 @@ title: Penrose - Maungakiekie-Tāmaki Local Board - Auckland - New Zealand - Cel
 # Penrose
 
 * [Church Street](#church-street)
-* [2 Sims Road](#2-sims-road)
 * [3 Sims Road](#3-sims-road)
 * [9-13 Sims Road](#9-13-sims-road)
 * [19 Station Road](#19-station-road)
@@ -27,13 +26,6 @@ An unusual feature of this site is an additinal panel antenna pointing in one di
 * **Operator:** Telecom
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20120324-171034.jpg)
-
-## 2 Sims Road
-
-* **Date:** Unknown
-* **Operator:** Telecom
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20171118-200028.jpg)
 
 ## 3 Sims Road
 
