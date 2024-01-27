@@ -14,15 +14,6 @@ title: Onehunga - Maungakiekie-Tāmaki Local Board - Auckland - New Zealand - Ce
 
 ## Arthur Street
 
-* **Date:** Unknown
-* **Operator:** Vodafone
-
-This cell site no longer exists. The expansion of the Dressmart shopping mall involved the removal of this carparking
-area. Vodafone's cell site was in the middle of the carparking area so it had to go. Vodafone relocated to [235-245
-Onehunga Mall](#235-245-onehunga-mall).
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20171114-142355.jpg)
-
 * **Date:** 9 October 2014
 * **Operator:** 2degrees
 
