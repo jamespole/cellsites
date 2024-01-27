@@ -12,20 +12,10 @@ title: Howick Local Board - Auckland - New Zealand - Cell Sites
 
 ---
 
-* [Botany Downs](#botany-downs)
 * [Bucklands Beach](#bucklands-beach)
 * [Farm Cove](#farm-cove)
-* [Golflands](#golflands)
-* [Highland Park](#highland-park)
 * [Mellons Bay](#mellons-bay)
 * [Pakuranga Heights](#pakuranga-heights)
-
-## Botany Downs
-
-* **Date:** 28 April 2009
-* **Operator:** Woosh
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-143651.jpg)
 
 ## Bucklands Beach
 
@@ -40,20 +30,6 @@ title: Howick Local Board - Auckland - New Zealand - Cell Sites
 * **Operator:** Telecom
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20050806-133228.jpg)
-
-## Golflands
-
-* **Date:** 28 April 2009
-* **Operator:** Telecom and Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-151146.jpg)
-
-## Highland Park
-
-* **Date:** 28 April 2009
-* **Operator:** Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Howick/20090428-121734.jpg)
 
 ## Mellons Bay
 
