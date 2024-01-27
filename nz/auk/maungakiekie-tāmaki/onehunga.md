@@ -7,8 +7,6 @@ title: Onehunga - Maungakiekie-Tāmaki Local Board - Auckland - New Zealand - Ce
 # Onehunga
 
 * [Arthur Street](#arthur-street)
-* [Felix Street](#felix-street)
-* [Neilson Street](#neilson-street)
 * [134-136 Onehunga Mall](#134-136-onehunga-mall)
 * [235-245 Onehunga Mall](#235-245-onehunga-mall)
 
@@ -22,22 +20,6 @@ title: Onehunga - Maungakiekie-Tāmaki Local Board - Auckland - New Zealand - Ce
 The relocated Vodafone site at [235-245 Onehunga Mall](#235-245-onehunga-mall) can be seen to the left.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20141009-173807.jpg)
-
-## Felix Street
-
-* **Date:** 24 March 2012
-* **Operator:** Telecom
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20120324-175612.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20120324-175550.jpg)
-
-## Neilson Street
-
-* **Date:** 24 March 2012
-* **Operator:** Telecom
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20120324-172802.jpg)
 
 ## 134-136 Onehunga Mall
 
