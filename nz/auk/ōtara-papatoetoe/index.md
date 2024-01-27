@@ -6,7 +6,7 @@ title: Ōtara-Papatoetoe Local Board - Auckland - New Zealand - Cell Sites
 
 # Ōtara-Papatoetoe Local Board
 
-* **[Manukau](manukau)** (6 cell sites and one other site)
+* **[Manukau](manukau)** (two cell sites)
 
 ---
 
@@ -16,7 +16,6 @@ title: Ōtara-Papatoetoe Local Board - Auckland - New Zealand - Cell Sites
 * [454 Puhinui Road](#454-puhinui-road)
 * [485 Puhinui Road](#485-puhinui-road)
 * [555 Puhinui Road](#555-puhinui-road)
-* [Station Road](#station-road)
 
 ## Franklin Avenue
 
@@ -78,17 +77,6 @@ Thanks to [Malaysia Airlines](https://en.wikipedia.org/wiki/Malaysia_Airlines) f
 reality, I did on purpose to show how close this cell site is to the flight paths for Auckland Airport.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20161018-123614.jpg)
-
-## Station Road
-
-* **Date:** 5 April 2012
-* **Operators:** 2degrees and Vodafone
-
-I beleive this was one of the first examples of 2degrees co-locating their gear on top of a Vodafone tower, heralding
-the start of a more co-operative era in New Zealand. 2degrees had a microwave link to the [Amersham
-Way](./manukau#amersham-way) cell site.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Ctara-Papatoetoe/20120405-173835.jpg)
 
 ---
 
