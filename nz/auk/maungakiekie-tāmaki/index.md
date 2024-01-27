@@ -8,7 +8,6 @@ title: Maungakiekie-Tāmaki Local Board - Auckland - New Zealand - Cell Sites
 
 * [Great South Road](#great-south-road)
 * [Manukau Road](#manukau-road)
-* [Queens Road](#queens-road)
 
 ## Great South Road
 
@@ -31,15 +30,6 @@ title: Maungakiekie-Tāmaki Local Board - Auckland - New Zealand - Cell Sites
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20171114-142409.jpg)
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20171114-130233.jpg)
-
-## Queens Road
-
-* **Date:** Unknown
-* **Operator:** Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20171118-195451.jpg)
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/Maungakiekie-T%C4%81maki/20171118-195431.jpg)
 
 ---
 
