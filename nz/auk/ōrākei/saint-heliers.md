@@ -37,18 +37,6 @@ this site for more than just backhaul!
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20040108-145343.jpg)
 
-* **Date:** 2 September 2008
-
-View from nearby Glover Park.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20080902-145932.jpg)
-
-No notable changes from the previous visit. This photo has a better view of Vodafone's dish antennas. Woosh also had
-a dish antenna but it was on the other side of the water tower. There is a later photo below with a better view of
-Woosh's dish antenna.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20080902-145502.jpg)
-
 * **Date:** 18 October 2015
 * **Operators:** 2degrees, Vodafone (linking only) and Woosh
 
