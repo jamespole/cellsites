@@ -39,13 +39,6 @@ were no longer needed.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20040705-122009.jpg)
 
-* **Date:** 2 September 2008
-
-Omni-directional antennas now gone. However from this picture you can see one of the omni-directional antennas used by
-Telecom next door.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20080902-143406.jpg)
-
 * **Date:** 7 January 2016
 
 Picture from the last days of Vodafone's presence at this site. Note the new microwave dish as the old one would have
