@@ -15,7 +15,6 @@ title: Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 * **[Mission Bay](mission-bay)** (three cell sites)
 * **[Saint Heliers](saint-heliers)** (two cell sites)
     * **[Saint Heliers Bay](saint-heliers-bay)** (one cell site)
-* **[Saint Johns](saint-johns)** (three cell sites)
 
 ---
 
@@ -64,6 +63,13 @@ Telecom were also present at this site with their services line-fed via the near
 * **Operator:** Telecom
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20171119-124251a.jpg)
+
+## Saint Johns
+
+* **Date:** Unknown *(prior to 5 June 2004)*
+* **Operator:** Vodafone
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20171119-124253b.jpg)
 
 ---
 
