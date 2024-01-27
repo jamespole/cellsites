@@ -12,8 +12,8 @@ title: Auckland - New Zealand - Cell Sites
   * **[Albert-Eden Local Board](albert-eden)** (27 cell sites)
   * **[Puketāpapa Local Board](puketāpapa)** (one cell site)
   * **[Maungakiekie-Tāmaki Local Board](maungakiekie-tāmaki)** (24 cell sites)
-* East Auckland (many cell sites)
-  * **[Ōrākei Local Board](ōrākei)** (49 cell sites)
+* East Auckland (three cell sites)
+  * **[Ōrākei Local Board](ōrākei)** (three cell sites)
 
 ---
 
