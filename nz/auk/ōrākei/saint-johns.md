@@ -25,10 +25,6 @@ Photo of cell site being set up.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20171119-124253b.jpg)
 
-* **Date:** 5 June 2004
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20040605-161736.jpg)
-
 ---
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
