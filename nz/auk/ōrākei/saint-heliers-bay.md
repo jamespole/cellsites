@@ -22,14 +22,6 @@ The first sign of change coming was the addition of panel antennas.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20171118-194022.jpg)
 
-* **Date:** 7 January 2016
-
-Picture from the last days of Vodafone's presence at this site. Note the new microwave dish as the old one would have
-struggled to provide enough capacity for modern mobile phone traffic! The site would not much later be relocated to
-a line-fed lightpole cell site.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20160107-172217.jpg)
-
 ---
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
