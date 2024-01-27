@@ -47,13 +47,6 @@ Telecom were also present at this site with their services line-fed via the near
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20050828-155221.jpg)
 
-## Kohimarama
-
-* **Date:** Unknown *(prior to 3 June 2004)*
-* **Operator:** Vodafone
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20171119-124251.jpg)
-
 ## Remuera
 
 * **Date:** Unknown (on or prior to 22 February 2004)
