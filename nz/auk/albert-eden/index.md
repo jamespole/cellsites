@@ -10,7 +10,6 @@ title: Albert-Eden Local Board - Auckland - New Zealand - Cell Sites
 * **[Epsom](epsom)** (two cell sites)
 * **[Mount Albert](mount-albert)** (seven cell sites)
 * **[Mount Eden](mount-eden)** (four cell sites)
-* **[Unitec](unitec)** (three cell sites)
 
 ---
 
