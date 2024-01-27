@@ -6,18 +6,8 @@ title: Christchurch - Canterbury - New Zealand - Cell Sites
 
 # Christchurch
 
-* [Addington](#addington)
 * [Ferry Road](#ferry-road)
-* [Sockburn](#sockburn)
 * [Sugarloaf](#sugarloaf)
-* [Woolston](#woolston)
-
-## Addington
-
-* **Date:** 2 January 2015
-* **Operator:** [2degrees]
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-132650.jpg)
 
 ## Ferry Road
 
@@ -25,13 +15,6 @@ title: Christchurch - Canterbury - New Zealand - Cell Sites
 * **Operator:** [2degrees]
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-175554.jpg)
-
-## Sockburn
-
-* **Date:** 2 January 2015
-* **Operator:** [2degrees]
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-132250.jpg)
 
 ## Sugarloaf
 
@@ -42,15 +25,7 @@ title: Christchurch - Canterbury - New Zealand - Cell Sites
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20141230-210622.jpg)
 
-## Woolston
-
-* **Date:** 2 January 2015
-* **Operator:** [Vodafone]
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/CAN/20150102-133250.jpg)
-
 [2degrees]: https://en.wikipedia.org/wiki/2degrees
-[Spark]: https://en.wikipedia.org/wiki/Spark_New_Zealand
 [Vodafone]: https://en.wikipedia.org/wiki/Vodafone_New_Zealand
 
 ---
