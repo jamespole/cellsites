@@ -77,11 +77,6 @@ The first sign of change coming was the addition of panel antennas.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20171118-194022.jpg)
 
-## Saint Johns
-
-* **Date:** Unknown *(prior to 5 June 2004)*
-* **Operator:** Vodafone
-
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20171119-124253b.jpg)
 
 ---
