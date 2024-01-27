@@ -12,15 +12,6 @@ title: Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 
 ---
 
-## Bastion Point
-
-* **Date:** Unknown *(prior to 28 December 2004)*
-* **Operator:** Telecom and Vodafone
-
-Telecom's antennas.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20171119-124253.jpg)
-
 ## Ellerslie
 
 * **Date:** Unknown *(prior to 18 March 2012)*
