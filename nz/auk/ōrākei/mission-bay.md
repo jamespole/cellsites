@@ -7,7 +7,6 @@ title: Mission Bay - Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 # Mission Bay
 
 * [Marau Crescent](#marau-crescent)
-* [Tagalad Road](#tagalad-road)
 * [61-63 Tamaki Road](#61-63-tamaki-road)
 
 ## Marau Crescent
