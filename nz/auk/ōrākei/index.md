@@ -6,7 +6,6 @@ title: Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 
 # Ōrākei Local Board
 
-* **[Ellerslie](ellerslie)** (one cell site)
 * **[Glen Innes](glen-innes)** (four cell sites)
 * **[Kohimarama](kohimarama)** (three cell sites)
 * **[Ōrākei](ōrākei)** (two cell sites)
@@ -32,6 +31,19 @@ title: Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 Telecom's antennas.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20171119-124253.jpg)
+
+## Ellerslie
+
+* **Date:** Unknown *(prior to 18 March 2012)*
+* **Operators:** Telecom and Vodafone
+
+Telecom antennas on top of light poles, with equipment hut in middle.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20171119-124253c.jpg)
+
+Vodafone antennas on light pole.
+
+![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20171119-124253d.jpg)
 
 ## Glendowie
 
