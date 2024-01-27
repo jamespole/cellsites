@@ -8,17 +8,6 @@ title: Saint Heliers - Ōrākei Local Board - Auckland - New Zealand - Cell Site
 
 ## Waimarie Street
 
-* **Date:** 8 January 2004
-* **Operators:** Vodafone (backhaul only) and Woosh
-
-Woosh panel antenna on front of tower. There also two more, in a typical 120&deg; configuration. Vodafone had two dish
-antennas at the top-right. One dish pointed at the isolated [Saint Heliers Bay](saint-heliers-bay) cell site. The other
-dish pointed at their major microwave hub at Glendowie. Vodafone actually had no mobile services from this site and
-only used this site as a relay station for its backhaul network. It would be some time before Vodafone started using
-this site for more than just backhaul!
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20040108-145343.jpg)
-
 * **Date:** 18 October 2015
 * **Operators:** 2degrees, Vodafone (linking only) and Woosh
 
