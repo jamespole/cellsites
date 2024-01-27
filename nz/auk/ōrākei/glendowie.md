@@ -6,30 +6,9 @@ title: Glendowie - Ōrākei Local Board - Auckland - New Zealand - Cell Sites
 
 # Glendowie
 
-* [1-5 Maskell Street](#1-5-maskell-street)
 * [15 Maskell Street](#15-maskell-street)
 * [182-184 Saint Heliers Bay Road](#182-184-saint-heliers-bay-road)
 * [208A Saint Heliers Bay Road](#208a-saint-heliers-bay-road)
-
-## 1-5 Maskell Street
-
-* **Date:** 7 January 2016
-* **Operator:** Vodafone
-
-Vodafone relocated to this new cell site from [182-184 Saint Heliers Bay Road](#182-184-saint-heliers-bay-road). This
-cell site is just a few doors down from 2degrees' cell site at [15 Maskell Street](#15-maskell-street). Their antennas
-are hidden in the dark box on top of the block of shops.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20160107-175100.jpg)
-
-Photo from the other side of the building, showing both the old [182-184 Saint Heliers Bay
-Road](#182-184-saint-heliers-bay-road) cell site and this new cell site in the same photo.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20160107-175539.jpg)
-
-Their equipment cabinet. This can just be seen in the main photo above at ground level below the vet clinic sign.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20160107-174934.jpg)
 
 ## 15 Maskell Street
 
@@ -59,14 +38,6 @@ Telecom were also present at this site with their services line-fed via the near
 New panels for Telecom. They had two panels stacked vertically while Vodafone just had the one panel for each sector.
 
 ![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20080902-155025.jpg)
-
-By 2016 both Telecom and Vodafone had relocated elsewhere. Telecom was first to relocate, moving just around the corner
-to [208A Saint Heliers Bay Road](#208a-saint-heliers-bay-road). Vodafone later relocated to a nearby shopping village
-at [1-5 Maskell Street](#1-5-maskell-street). 2degrees had never had a presence at this site. I suspect by the time
-2degrees came along the property owner had decided not to continue with hosting mobile phone operators. 2degrees ended
-up choosing a site just down the road from where Vodafone would eventually relocate to.
-
-![](https://f001.backblazeb2.com/file/CellSites/NZ/AUK/%C5%8Cr%C4%81kei/20160107-180322.jpg)
 
 ## 208A Saint Heliers Bay Road
 
